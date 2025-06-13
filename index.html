@@ -1,37 +1,75 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Buku Mimpi</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
 </head>
 <body>
-  <h1>Buku Mimpi</h1>
-  <input type="text" id="mimpi" placeholder="Tuliskan mimpimu...">
-  <button onclick="cariTafsir()">Cari Tafsir</button>
-  <div id="hasil"></div>
-
+  <div class="container">
+    <h1>Buku Mimpi</h1>
+    <input type="text" id="mimpi" placeholder="Tuliskan mimpimu..." oninput="suggest()">
+    <ul id="saran"></ul>
+    <button onclick="cariTafsir()">Cari Tafsir</button>
+    <div id="hasil"></div>
+    <div id="riwayat"></div>
+  </div>
+  <script src="data.js"></script>
   <script>
-    const dataMimpi = {
-      "ular": { tafsir: "Akan bertemu musuh atau rezeki", angka: ["06", "60", "906"] },
-      "gigi copot": { tafsir: "Akan kehilangan orang dekat", angka: ["32", "132", "7132"] },
-      "jatuh": { tafsir: "Tanda kegagalan sementara", angka: ["08", "108", "2108"] }
-    };
-
     function cariTafsir() {
-      const mimpi = document.getElementById("mimpi").value.toLowerCase();
-      const hasil = dataMimpi[mimpi];
+      const input = document.getElementById("mimpi").value.toLowerCase();
+      const hasil = dataMimpi[input];
       const div = document.getElementById("hasil");
+      const riwayat = document.getElementById("riwayat");
 
       if (hasil) {
-        div.innerHTML = `
-          <h2>${mimpi.toUpperCase()}</h2>
-          <p><strong>Tafsir:</strong> ${hasil.tafsir}</p>
-          <p><strong>Angka:</strong> ${hasil.angka.join(', ')}</p>
-        `;
+        div.innerHTML = \`
+          <h2>\${input.toUpperCase()}</h2>
+          <p><strong>Tafsir:</strong> \${hasil.tafsir}</p>
+          <p><strong>Angka:</strong> \${hasil.angka.join(', ')}</p>
+          <a href="https://wa.me/?text=Mimpi: \${input}%0ATafsir: \${hasil.tafsir}%0AAngka: \${hasil.angka.join(', ')}" target="_blank">🔗 Bagikan ke WhatsApp</a>
+        \`;
+
+        let logs = JSON.parse(localStorage.getItem("riwayat")) || [];
+        logs.unshift(input);
+        localStorage.setItem("riwayat", JSON.stringify(logs.slice(0, 5)));
+        tampilRiwayat();
       } else {
-        div.innerHTML = "<p>Tafsir tidak ditemukan. Silakan coba kata lain.</p>";
+        div.innerHTML = "<p>Tafsir tidak ditemukan. Coba kata lain.</p>";
       }
     }
+
+    function suggest() {
+      const input = document.getElementById("mimpi").value.toLowerCase();
+      const list = document.getElementById("saran");
+      list.innerHTML = "";
+      if (!input) return;
+      Object.keys(dataMimpi).forEach(k => {
+        if (k.includes(input)) {
+          let li = document.createElement("li");
+          li.textContent = k;
+          li.onclick = () => {
+            document.getElementById("mimpi").value = k;
+            list.innerHTML = "";
+            cariTafsir();
+          };
+          list.appendChild(li);
+        }
+      });
+    }
+
+    function tampilRiwayat() {
+      const logs = JSON.parse(localStorage.getItem("riwayat")) || [];
+      const div = document.getElementById("riwayat");
+      if (logs.length > 0) {
+        div.innerHTML = "<h3>Riwayat:</h3><ul>" + logs.map(m => "<li>" + m + "</li>").join("") + "</ul>";
+      }
+    }
+
+    tampilRiwayat();
   </script>
 </body>
 </html>
