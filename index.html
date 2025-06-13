@@ -44,7 +44,12 @@
         div.innerHTML = `
           <h2>${input.toUpperCase()}</h2>
           <p><strong>Tafsir:</strong> ${hasil.tafsir}</p>
-          <p><strong>Angka:</strong> ${hasil.angka.join(', ')}</p>
+          <p><strong>Angka Mimpi:</strong></p>
+          <ul>
+              <li>2D: ${hasil.angka[0]}</li>
+              <li>3D: ${hasil.angka[1]}</li>
+              <li>4D: ${hasil.angka[2]}</li>
+          </ul>
           <a href="https://wa.me/?text=Mimpi: ${input}%0ATafsir: ${hasil.tafsir}%0AAngka: ${hasil.angka.join(', ')}" target="_blank">🔗 Kirim ke WhatsApp</a><br>
           <a href="mailto:?subject=Tafsir Mimpi: ${input}&body=Tafsir: ${hasil.tafsir}%0AAngka: ${hasil.angka.join(', ')}">✉️ Kirim ke Email</a>
         `;
