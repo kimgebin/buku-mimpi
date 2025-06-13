@@ -12,17 +12,6 @@ body {
   justify-content: center;
 }
 
-#toggle-theme {
-  position: fixed;
-  top: 15px;
-  right: 15px;
-  z-index: 999;
-  background: #ddd;
-  padding: 8px 12px;
-  border-radius: 6px;
-  font-size: 18px;
-}
-
 .container {
   background: #ffffff;
   padding: 20px;
@@ -79,6 +68,17 @@ button:hover {
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
+}
+
+#toggle-theme {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  background: #ddd;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 18px;
+  z-index: 999;
 }
 
 /* Dark Mode */
