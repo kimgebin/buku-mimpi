@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -6,7 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Buku Mimpi</title>
   <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+  <link rel="manifest" href="manifest.json" />
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('serviceWorker.js');
+      });
+    }
+  </script>
 </head>
 <body>
   <div class="container">
@@ -19,6 +25,15 @@
   </div>
   <script src="data.js"></script>
   <script>
+    function kirimLog(mimpi) {
+      fetch("https://script.google.com/macros/s/AKfycbytFy1EaimDgPbWkTY0o57hL96TpAL9Lbg44ailguiFSo-7gE-RYyqLPHpK9xqz7DE/exec", {
+        method: "POST",
+        mode: "no-cors",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ mimpi: mimpi, waktu: new Date().toISOString() })
+      });
+    }
+
     function cariTafsir() {
       const input = document.getElementById("mimpi").value.toLowerCase();
       const hasil = dataMimpi[input];
@@ -26,13 +41,14 @@
       const riwayat = document.getElementById("riwayat");
 
       if (hasil) {
-        div.innerHTML = \`
-          <h2>\${input.toUpperCase()}</h2>
-          <p><strong>Tafsir:</strong> \${hasil.tafsir}</p>
-          <p><strong>Angka:</strong> \${hasil.angka.join(', ')}</p>
-          <a href="https://wa.me/?text=Mimpi: \${input}%0ATafsir: \${hasil.tafsir}%0AAngka: \${hasil.angka.join(', ')}" target="_blank">🔗 Bagikan ke WhatsApp</a>
-        \`;
-
+        div.innerHTML = `
+          <h2>${input.toUpperCase()}</h2>
+          <p><strong>Tafsir:</strong> ${hasil.tafsir}</p>
+          <p><strong>Angka:</strong> ${hasil.angka.join(', ')}</p>
+          <a href="https://wa.me/?text=Mimpi: ${input}%0ATafsir: ${hasil.tafsir}%0AAngka: ${hasil.angka.join(', ')}" target="_blank">🔗 Kirim ke WhatsApp</a><br>
+          <a href="mailto:?subject=Tafsir Mimpi: ${input}&body=Tafsir: ${hasil.tafsir}%0AAngka: ${hasil.angka.join(', ')}">✉️ Kirim ke Email</a>
+        `;
+        kirimLog(input);
         let logs = JSON.parse(localStorage.getItem("riwayat")) || [];
         logs.unshift(input);
         localStorage.setItem("riwayat", JSON.stringify(logs.slice(0, 5)));
