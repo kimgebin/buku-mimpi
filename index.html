@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Buku Mimpi</title>
+</head>
+<body>
+  <h1>Buku Mimpi</h1>
+  <input type="text" id="mimpi" placeholder="Tuliskan mimpimu...">
+  <button onclick="cariTafsir()">Cari Tafsir</button>
+  <div id="hasil"></div>
+
+  <script>
+    const dataMimpi = {
+      "ular": { tafsir: "Akan bertemu musuh atau rezeki", angka: ["06", "60", "906"] },
+      "gigi copot": { tafsir: "Akan kehilangan orang dekat", angka: ["32", "132", "7132"] },
+      "jatuh": { tafsir: "Tanda kegagalan sementara", angka: ["08", "108", "2108"] }
+    };
+
+    function cariTafsir() {
+      const mimpi = document.getElementById("mimpi").value.toLowerCase();
+      const hasil = dataMimpi[mimpi];
+      const div = document.getElementById("hasil");
+
+      if (hasil) {
+        div.innerHTML = `
+          <h2>${mimpi.toUpperCase()}</h2>
+          <p><strong>Tafsir:</strong> ${hasil.tafsir}</p>
+          <p><strong>Angka:</strong> ${hasil.angka.join(', ')}</p>
+        `;
+      } else {
+        div.innerHTML = "<p>Tafsir tidak ditemukan. Silakan coba kata lain.</p>";
+      }
+    }
+  </script>
+</body>
+</html>
