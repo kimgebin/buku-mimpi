@@ -1,74 +1,92 @@
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: 'Segoe UI', sans-serif;
-  background: #fdf6f9;
-  color: #333;
   margin: 0;
   padding: 40px 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
   display: flex;
   justify-content: center;
-  transition: background 0.3s, color 0.3s;
 }
+
 .container {
   background: #ffffff;
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   width: 90%;
   max-width: 600px;
-  box-sizing: border-box;
   text-align: center;
 }
+
 textarea, button {
   width: 100%;
   padding: 12px;
-  margin-top: 15px;
+  margin-top: 12px;
   border-radius: 6px;
-  border: 1px solid #ccc;
   font-size: 16px;
+  border: 1px solid #ccc;
+  max-width: 100%;
 }
+
+textarea {
+  resize: vertical;
+}
+
 button {
-  background: #f6a5c0;
-  color: #fff;
-  border: none;
+  background-color: #6cc3d5;
+  color: white;
+  font-weight: bold;
   cursor: pointer;
+  border: none;
 }
+
 button:hover {
-  background: #ec7ea4;
+  background-color: #4ba6b7;
 }
+
 #hasil {
   margin-top: 20px;
   padding: 15px;
-  background: #f0f8ff;
-  border-radius: 5px;
+  border-radius: 8px;
+  background: #eefaff;
   text-align: left;
+  word-wrap: break-word;
 }
-#hasil.hidden { display: none; }
+
+.hidden {
+  display: none;
+}
+
 .fade-in {
-  animation: fadeIn 0.6s ease-in-out;
+  animation: fadeIn 0.4s ease-in-out forwards;
 }
+
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
+  from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+/* Dark Mode */
 body.dark {
-  background: #1e1e1e;
-  color: #eee;
+  background: #1c1c1c;
+  color: #f0f0f0;
 }
+
 body.dark .container {
-  background: #2c2c2c;
+  background: #2a2a2a;
+  box-shadow: 0 0 12px rgba(255,255,255,0.05);
 }
-body.dark button {
-  background: #555;
-}
-body.dark #hasil {
+
+body.dark textarea, body.dark button {
   background: #333;
+  color: #fff;
+  border: 1px solid #444;
 }
-#toggle-theme {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  background: #ddd;
-  color: #000;
-  padding: 5px 10px;
-  border-radius: 5px;
+
+body.dark #hasil {
+  background: #3a3a3a;
 }
