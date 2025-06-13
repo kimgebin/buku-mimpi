@@ -1,34 +1,74 @@
 body {
-  font-family: 'Arial', sans-serif;
-  background: #f7f5f9;
+  font-family: 'Segoe UI', sans-serif;
+  background: #fdf6f9;
   color: #333;
-  padding: 1rem;
   margin: 0;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  transition: background 0.3s, color 0.3s;
 }
 .container {
-  max-width: 500px;
-  margin: auto;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 90%;
+  max-width: 600px;
+  box-sizing: border-box;
+  text-align: center;
 }
-input[type=text] {
+textarea, button {
   width: 100%;
-  padding: 10px;
-  margin: 10px 0;
+  padding: 12px;
+  margin-top: 15px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 16px;
 }
 button {
-  padding: 10px 20px;
-  background: #6c5ce7;
-  color: white;
+  background: #f6a5c0;
+  color: #fff;
   border: none;
   cursor: pointer;
 }
-#saran li {
-  list-style: none;
-  padding: 5px;
-  background: #fff;
-  border-bottom: 1px solid #ddd;
-  cursor: pointer;
+button:hover {
+  background: #ec7ea4;
 }
-a {
-  display: inline-block;
-  margin-top: 10px;
+#hasil {
+  margin-top: 20px;
+  padding: 15px;
+  background: #f0f8ff;
+  border-radius: 5px;
+  text-align: left;
+}
+#hasil.hidden { display: none; }
+.fade-in {
+  animation: fadeIn 0.6s ease-in-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+body.dark {
+  background: #1e1e1e;
+  color: #eee;
+}
+body.dark .container {
+  background: #2c2c2c;
+}
+body.dark button {
+  background: #555;
+}
+body.dark #hasil {
+  background: #333;
+}
+#toggle-theme {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #ddd;
+  color: #000;
+  padding: 5px 10px;
+  border-radius: 5px;
 }

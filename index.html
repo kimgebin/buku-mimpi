@@ -1,96 +1,94 @@
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Buku Mimpi</title>
-  <link rel="stylesheet" href="style.css" />
-  <link rel="manifest" href="manifest.json" />
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('serviceWorker.js');
-      });
+  <title>Tafsir Mimpi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 40px 0;
+      display: flex;
+      justify-content: center;
     }
-  </script>
+    .container {
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      width: 90%;
+      max-width: 600px;
+      box-sizing: border-box;
+      text-align: center;
+    }
+    textarea, button {
+      width: 100%;
+      padding: 12px;
+      margin-top: 15px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      font-size: 16px;
+    }
+    textarea {
+      resize: vertical;
+    }
+    button {
+      background-color: #3498db;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #2980b9;
+    }
+    #hasil {
+      margin-top: 20px;
+      padding: 15px;
+      background: #eef6ff;
+      border-radius: 5px;
+      text-align: left;
+    }
+  </style>
 </head>
 <body>
   <div class="container">
-    <h1>Buku Mimpi</h1>
-    <input type="text" id="mimpi" placeholder="Tuliskan mimpimu..." oninput="suggest()">
-    <ul id="saran"></ul>
-    <button onclick="cariTafsir()">Cari Tafsir</button>
+    <h2>Tafsir Mimpi</h2>
+    <label for="mimpi">Tulis mimpimu di bawah ini:</label>
+    <textarea id="mimpi" rows="5" placeholder="Contoh: Saya mimpi dikejar ular..."></textarea>
+    <button onclick="tafsirkan()">Tafsirkan</button>
     <div id="hasil"></div>
-    <div id="riwayat"></div>
+    <button onclick="kirim()">Simpan ke Buku Mimpi</button>
   </div>
-  <script src="data.js"></script>
+
   <script>
-    function kirimLog(mimpi) {
-      fetch("https://script.google.com/macros/s/AKfycbytFy1EaimDgPbWkTY0o57hL96TpAL9Lbg44ailguiFSo-7gE-RYyqLPHpK9xqz7DE/exec", {
+    let tafsirGlobal = "";
+
+    function tafsirkan() {
+      const mimpi = document.getElementById("mimpi").value.trim();
+      if (!mimpi) return alert("Tulis dulu mimpimu.");
+      const tafsir = "Tafsir mimpi ini menunjukkan bahwa " + mimpi.slice(0, 50) + "...";
+      tafsirGlobal = tafsir;
+      document.getElementById("hasil").innerHTML = "<strong>Tafsir:</strong> " + tafsir;
+    }
+
+    function kirim() {
+      const mimpi = document.getElementById("mimpi").value.trim();
+      if (!mimpi || !tafsirGlobal) return alert("Tafsirkan dulu sebelum menyimpan.");
+      fetch("https://script.google.com/macros/s/AKfycbzrnWcAgKvtmRtxAzCl6ajYBpY-fHpg_bsmzTFXWZP2tVAYlLZJTZLVpqRAiZcg8jD2/exec", {
         method: "POST",
         mode: "no-cors",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ mimpi: mimpi, waktu: new Date().toISOString() })
+        body: JSON.stringify({ mimpi, tafsir: tafsirGlobal })
       });
+      alert("Mimpi kamu sudah disimpan ke buku mimpi 🌙");
+      document.getElementById("mimpi").value = "";
+      document.getElementById("hasil").innerHTML = "";
+      tafsirGlobal = "";
     }
-
-    function cariTafsir() {
-      const input = document.getElementById("mimpi").value.toLowerCase();
-      const hasil = dataMimpi[input];
-      const div = document.getElementById("hasil");
-      const riwayat = document.getElementById("riwayat");
-
-      if (hasil) {
-        div.innerHTML = `
-          <h2>${input.toUpperCase()}</h2>
-          <p><strong>Tafsir:</strong> ${hasil.tafsir}</p>
-          <p><strong>Angka Mimpi:</strong></p>
-          <ul>
-              <li>2D: ${hasil.angka[0]}</li>
-              <li>3D: ${hasil.angka[1]}</li>
-              <li>4D: ${hasil.angka[2]}</li>
-          </ul>
-          <a href="https://wa.me/?text=Mimpi: ${input}%0ATafsir: ${hasil.tafsir}%0AAngka: ${hasil.angka.join(', ')}" target="_blank">🔗 Kirim ke WhatsApp</a><br>
-          <a href="mailto:?subject=Tafsir Mimpi: ${input}&body=Tafsir: ${hasil.tafsir}%0AAngka: ${hasil.angka.join(', ')}">✉️ Kirim ke Email</a>
-        `;
-        kirimLog(input);
-        let logs = JSON.parse(localStorage.getItem("riwayat")) || [];
-        logs.unshift(input);
-        localStorage.setItem("riwayat", JSON.stringify(logs.slice(0, 5)));
-        tampilRiwayat();
-      } else {
-        div.innerHTML = "<p>Tafsir tidak ditemukan. Coba kata lain.</p>";
-      }
-    }
-
-    function suggest() {
-      const input = document.getElementById("mimpi").value.toLowerCase();
-      const list = document.getElementById("saran");
-      list.innerHTML = "";
-      if (!input) return;
-      Object.keys(dataMimpi).forEach(k => {
-        if (k.includes(input)) {
-          let li = document.createElement("li");
-          li.textContent = k;
-          li.onclick = () => {
-            document.getElementById("mimpi").value = k;
-            list.innerHTML = "";
-            cariTafsir();
-          };
-          list.appendChild(li);
-        }
-      });
-    }
-
-    function tampilRiwayat() {
-      const logs = JSON.parse(localStorage.getItem("riwayat")) || [];
-      const div = document.getElementById("riwayat");
-      if (logs.length > 0) {
-        div.innerHTML = "<h3>Riwayat:</h3><ul>" + logs.map(m => "<li>" + m + "</li>").join("") + "</ul>";
-      }
-    }
-
-    tampilRiwayat();
   </script>
 </body>
 </html>

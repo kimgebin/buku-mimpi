@@ -1,11 +1,10 @@
 self.addEventListener('install', function(e) {
   e.waitUntil(
-    caches.open('buku-mimpi').then(function(cache) {
+    caches.open('mimpi-cache').then(function(cache) {
       return cache.addAll([
         '/',
         '/index.html',
         '/style.css',
-        '/data.js',
         '/manifest.json'
       ]);
     })
