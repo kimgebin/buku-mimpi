@@ -1,78 +1,61 @@
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Tafsir Mimpi</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      margin: 0;
-      padding: 40px 0;
-      display: flex;
-      justify-content: center;
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json" />
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('serviceWorker.js');
+      });
     }
-    .container {
-      background: #ffffff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      width: 90%;
-      max-width: 600px;
-      box-sizing: border-box;
-      text-align: center;
-    }
-    textarea, button {
-      width: 100%;
-      padding: 12px;
-      margin-top: 15px;
-      border-radius: 6px;
-      border: 1px solid #ccc;
-      box-sizing: border-box;
-      font-size: 16px;
-    }
-    textarea {
-      resize: vertical;
-    }
-    button {
-      background-color: #3498db;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-    button:hover {
-      background-color: #2980b9;
-    }
-    #hasil {
-      margin-top: 20px;
-      padding: 15px;
-      background: #eef6ff;
-      border-radius: 5px;
-      text-align: left;
-    }
-  </style>
+  </script>
 </head>
 <body>
   <div class="container">
+    <button id="toggle-theme">🌓</button>
     <h2>Tafsir Mimpi</h2>
-    <label for="mimpi">Tulis mimpimu di bawah ini:</label>
-    <textarea id="mimpi" rows="5" placeholder="Contoh: Saya mimpi dikejar ular..."></textarea>
+    <label for="mimpi">Tulis mimpimu:</label>
+    <textarea id="mimpi" rows="5" placeholder="Contoh: Saya mimpi melihat hantu..."></textarea>
     <button onclick="tafsirkan()">Tafsirkan</button>
-    <div id="hasil"></div>
+    <div id="hasil" class="hidden"></div>
     <button onclick="kirim()">Simpan ke Buku Mimpi</button>
   </div>
 
+  <script src="data.js"></script>
   <script>
     let tafsirGlobal = "";
 
+    document.getElementById("toggle-theme").onclick = function () {
+      document.body.classList.toggle("dark");
+    };
+
     function tafsirkan() {
-      const mimpi = document.getElementById("mimpi").value.trim();
-      if (!mimpi) return alert("Tulis dulu mimpimu.");
-      const tafsir = "Tafsir mimpi ini menunjukkan bahwa " + mimpi.slice(0, 50) + "...";
+      const input = document.getElementById("mimpi").value.trim().toLowerCase();
+      const hasil = document.getElementById("hasil");
+      if (!input || !dataMimpi[input]) {
+        hasil.innerHTML = "<strong>Tafsir:</strong> Mimpi tidak ditemukan dalam database.";
+        hasil.classList.remove("hidden");
+        return;
+      }
+
+      const tafsir = dataMimpi[input].tafsir || "-";
+      const angka = dataMimpi[input].angka || [];
       tafsirGlobal = tafsir;
-      document.getElementById("hasil").innerHTML = "<strong>Tafsir:</strong> " + tafsir;
+
+      let output = `<strong>Tafsir:</strong> ${tafsir}<br>`;
+      if (angka.length > 0) {
+        if (angka[0]) output += `<strong>2D:</strong> ${angka[0]}<br>`;
+        if (angka[1]) output += `<strong>3D:</strong> ${angka[1]}<br>`;
+        if (angka[2]) output += `<strong>4D:</strong> ${angka[2]}<br>`;
+      }
+
+      hasil.innerHTML = output;
+      hasil.classList.remove("hidden");
+      hasil.classList.add("fade-in");
     }
 
     function kirim() {
@@ -84,10 +67,9 @@
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ mimpi, tafsir: tafsirGlobal })
       });
-      alert("Mimpi kamu sudah disimpan ke buku mimpi 🌙");
+      alert("Mimpi kamu sudah disimpan 🌙");
       document.getElementById("mimpi").value = "";
-      document.getElementById("hasil").innerHTML = "";
-      tafsirGlobal = "";
+      document.getElementById("hasil").classList.add("hidden");
     }
   </script>
 </body>
