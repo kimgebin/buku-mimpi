@@ -1,8002 +1,8002 @@
 const dataMimpi = {
-  "mimpi 1": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 1, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "776",
-      "4211"
-    ]
-  },
-  "mimpi 2": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 2, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "302",
-      "4712"
-    ]
-  },
-  "mimpi 3": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 3, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "997",
-      "1825"
-    ]
-  },
-  "mimpi 4": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 4, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "234",
-      "4975"
-    ]
-  },
-  "mimpi 5": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 5, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "656",
-      "0363"
-    ]
-  },
-  "mimpi 6": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 6, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "034",
-      "2137"
-    ]
-  },
-  "mimpi 7": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 7, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "833",
-      "8928"
-    ]
-  },
-  "mimpi 8": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 8, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "235",
-      "7626"
-    ]
-  },
-  "mimpi 9": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 9, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "038",
-      "2299"
-    ]
-  },
-  "mimpi 10": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 10, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "198",
-      "7675"
-    ]
-  },
-  "mimpi 11": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 11, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "gigi copot 1": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
     "angka": [
       "52",
-      "872",
-      "1372"
-    ]
-  },
-  "mimpi 12": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 12, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "181",
-      "5808"
-    ]
-  },
-  "mimpi 13": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 13, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "648",
-      "7207"
-    ]
-  },
-  "mimpi 14": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 14, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "940",
-      "5288"
-    ]
-  },
-  "mimpi 15": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 15, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "26",
-      "849",
-      "7013"
-    ]
-  },
-  "mimpi 16": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 16, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "03",
-      "380",
-      "2675"
-    ]
-  },
-  "mimpi 17": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 17, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "887",
-      "4058"
-    ]
-  },
-  "mimpi 18": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 18, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "690",
-      "5846"
-    ]
-  },
-  "mimpi 19": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 19, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "360",
-      "5524"
-    ]
-  },
-  "mimpi 20": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 20, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "03",
-      "366",
-      "8495"
-    ]
-  },
-  "mimpi 21": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 21, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "959",
-      "9177"
-    ]
-  },
-  "mimpi 22": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 22, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "080",
-      "8327"
-    ]
-  },
-  "mimpi 23": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 23, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "412",
-      "3484"
-    ]
-  },
-  "mimpi 24": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 24, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "749",
-      "1062"
-    ]
-  },
-  "mimpi 25": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 25, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "59",
-      "267",
-      "9139"
-    ]
-  },
-  "mimpi 26": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 26, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "749",
-      "4715"
-    ]
-  },
-  "mimpi 27": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 27, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "15",
-      "924",
-      "0322"
-    ]
-  },
-  "mimpi 28": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 28, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "19",
-      "482",
-      "1256"
-    ]
-  },
-  "mimpi 29": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 29, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "654",
-      "8602"
-    ]
-  },
-  "mimpi 30": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 30, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "673",
-      "6372"
-    ]
-  },
-  "mimpi 31": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 31, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "185",
-      "9642"
-    ]
-  },
-  "mimpi 32": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 32, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "483",
-      "1712"
-    ]
-  },
-  "mimpi 33": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 33, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "701",
-      "0624"
-    ]
-  },
-  "mimpi 34": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 34, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "843",
-      "2632"
-    ]
-  },
-  "mimpi 35": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 35, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "93",
-      "998",
-      "5210"
-    ]
-  },
-  "mimpi 36": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 36, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "747",
-      "0946"
-    ]
-  },
-  "mimpi 37": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 37, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "296",
-      "1062"
-    ]
-  },
-  "mimpi 38": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 38, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "76",
-      "589",
-      "6470"
-    ]
-  },
-  "mimpi 39": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 39, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "124",
-      "5824"
-    ]
-  },
-  "mimpi 40": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 40, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "284",
-      "0119"
-    ]
-  },
-  "mimpi 41": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 41, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "38",
-      "314",
-      "3509"
-    ]
-  },
-  "mimpi 42": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 42, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "636",
-      "5093"
-    ]
-  },
-  "mimpi 43": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 43, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "054",
-      "7309"
-    ]
-  },
-  "mimpi 44": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 44, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "453",
-      "4128"
-    ]
-  },
-  "mimpi 45": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 45, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "626",
-      "6345"
-    ]
-  },
-  "mimpi 46": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 46, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "654",
-      "5985"
-    ]
-  },
-  "mimpi 47": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 47, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "338",
-      "6229"
-    ]
-  },
-  "mimpi 48": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 48, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "178",
-      "3038"
-    ]
-  },
-  "mimpi 49": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 49, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "213",
-      "2145"
-    ]
-  },
-  "mimpi 50": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 50, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "408",
-      "3273"
-    ]
-  },
-  "mimpi 51": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 51, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "180",
-      "3030"
-    ]
-  },
-  "mimpi 52": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 52, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "56",
-      "212",
-      "8952"
-    ]
-  },
-  "mimpi 53": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 53, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "314",
-      "9742"
-    ]
-  },
-  "mimpi 54": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 54, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "819",
-      "6293"
-    ]
-  },
-  "mimpi 55": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 55, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "605",
-      "8566"
-    ]
-  },
-  "mimpi 56": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 56, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "941",
-      "0282"
-    ]
-  },
-  "mimpi 57": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 57, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "849",
-      "7918"
-    ]
-  },
-  "mimpi 58": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 58, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "298",
-      "2309"
-    ]
-  },
-  "mimpi 59": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 59, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "830",
-      "6431"
-    ]
-  },
-  "mimpi 60": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 60, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "012",
-      "0453"
-    ]
-  },
-  "mimpi 61": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 61, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "554",
-      "7501"
-    ]
-  },
-  "mimpi 62": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 62, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "119",
-      "8524"
-    ]
-  },
-  "mimpi 63": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 63, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "914",
-      "6038"
-    ]
-  },
-  "mimpi 64": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 64, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "22",
-      "070",
-      "8343"
-    ]
-  },
-  "mimpi 65": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 65, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "830",
-      "0887"
-    ]
-  },
-  "mimpi 66": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 66, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "626",
-      "2425"
-    ]
-  },
-  "mimpi 67": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 67, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "135",
-      "2586"
-    ]
-  },
-  "mimpi 68": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 68, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "56",
-      "926",
-      "0294"
-    ]
-  },
-  "mimpi 69": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 69, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "044",
-      "1057"
-    ]
-  },
-  "mimpi 70": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 70, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "38",
-      "965",
-      "4536"
-    ]
-  },
-  "mimpi 71": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 71, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "839",
-      "3990"
-    ]
-  },
-  "mimpi 72": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 72, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "08",
-      "113",
-      "0126"
-    ]
-  },
-  "mimpi 73": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 73, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "532",
-      "1038"
-    ]
-  },
-  "mimpi 74": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 74, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "285",
-      "6112"
-    ]
-  },
-  "mimpi 75": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 75, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "149",
-      "5110"
-    ]
-  },
-  "mimpi 76": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 76, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "019",
-      "9693"
-    ]
-  },
-  "mimpi 77": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 77, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "886",
-      "2444"
-    ]
-  },
-  "mimpi 78": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 78, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "128",
-      "9243"
-    ]
-  },
-  "mimpi 79": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 79, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "299",
-      "4237"
-    ]
-  },
-  "mimpi 80": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 80, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "955",
-      "5564"
-    ]
-  },
-  "mimpi 81": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 81, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "240",
-      "8275"
-    ]
-  },
-  "mimpi 82": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 82, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "092",
-      "4748"
-    ]
-  },
-  "mimpi 83": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 83, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "662",
-      "3294"
-    ]
-  },
-  "mimpi 84": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 84, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "118",
-      "2562"
-    ]
-  },
-  "mimpi 85": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 85, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "689",
-      "0838"
-    ]
-  },
-  "mimpi 86": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 86, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "723",
-      "4042"
-    ]
-  },
-  "mimpi 87": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 87, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "780",
-      "4212"
-    ]
-  },
-  "mimpi 88": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 88, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "706",
-      "7396"
-    ]
-  },
-  "mimpi 89": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 89, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "180",
-      "3608"
-    ]
-  },
-  "mimpi 90": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 90, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "287",
-      "8352"
-    ]
-  },
-  "mimpi 91": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 91, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "281",
-      "6592"
-    ]
-  },
-  "mimpi 92": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 92, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "26",
-      "492",
-      "2909"
-    ]
-  },
-  "mimpi 93": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 93, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "460",
-      "0360"
-    ]
-  },
-  "mimpi 94": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 94, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "380",
-      "7279"
-    ]
-  },
-  "mimpi 95": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 95, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "806",
-      "9940"
-    ]
-  },
-  "mimpi 96": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 96, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "438",
-      "2962"
-    ]
-  },
-  "mimpi 97": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 97, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "715",
-      "1172"
-    ]
-  },
-  "mimpi 98": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 98, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "726",
-      "2339"
-    ]
-  },
-  "mimpi 99": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 99, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "555",
-      "9480"
-    ]
-  },
-  "mimpi 100": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 100, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "142",
-      "8818"
-    ]
-  },
-  "mimpi 101": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 101, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "70",
-      "775",
-      "9037"
-    ]
-  },
-  "mimpi 102": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 102, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "420",
-      "4634"
-    ]
-  },
-  "mimpi 103": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 103, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "044",
-      "1749"
-    ]
-  },
-  "mimpi 104": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 104, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "627",
-      "5996"
-    ]
-  },
-  "mimpi 105": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 105, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "120",
-      "4888"
-    ]
-  },
-  "mimpi 106": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 106, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "321",
-      "0166"
-    ]
-  },
-  "mimpi 107": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 107, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "767",
-      "5091"
-    ]
-  },
-  "mimpi 108": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 108, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "157",
-      "7356"
-    ]
-  },
-  "mimpi 109": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 109, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "017",
-      "7580"
-    ]
-  },
-  "mimpi 110": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 110, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "38",
-      "246",
-      "9337"
-    ]
-  },
-  "mimpi 111": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 111, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "388",
-      "2832"
-    ]
-  },
-  "mimpi 112": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 112, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "012",
-      "2289"
-    ]
-  },
-  "mimpi 113": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 113, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "552",
-      "1906"
-    ]
-  },
-  "mimpi 114": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 114, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "297",
-      "1010"
-    ]
-  },
-  "mimpi 115": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 115, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "215",
-      "9877"
-    ]
-  },
-  "mimpi 116": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 116, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "664",
-      "4040"
-    ]
-  },
-  "mimpi 117": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 117, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "106",
-      "3992"
-    ]
-  },
-  "mimpi 118": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 118, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "101",
-      "0533"
-    ]
-  },
-  "mimpi 119": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 119, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "88",
-      "491",
-      "5059"
-    ]
-  },
-  "mimpi 120": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 120, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "424",
-      "5982"
-    ]
-  },
-  "mimpi 121": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 121, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "717",
-      "3790"
-    ]
-  },
-  "mimpi 122": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 122, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "851",
-      "3514"
-    ]
-  },
-  "mimpi 123": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 123, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "695",
-      "8702"
-    ]
-  },
-  "mimpi 124": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 124, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "93",
-      "454",
-      "8069"
-    ]
-  },
-  "mimpi 125": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 125, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "597",
-      "0573"
-    ]
-  },
-  "mimpi 126": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 126, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "278",
-      "3000"
-    ]
-  },
-  "mimpi 127": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 127, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "153",
-      "7014"
-    ]
-  },
-  "mimpi 128": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 128, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "853",
-      "6491"
-    ]
-  },
-  "mimpi 129": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 129, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "557",
-      "0732"
-    ]
-  },
-  "mimpi 130": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 130, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "119",
-      "4454"
-    ]
-  },
-  "mimpi 131": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 131, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "618",
-      "0167"
-    ]
-  },
-  "mimpi 132": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 132, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "656",
-      "7385"
-    ]
-  },
-  "mimpi 133": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 133, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "901",
-      "2874"
-    ]
-  },
-  "mimpi 134": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 134, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "535",
-      "3302"
-    ]
-  },
-  "mimpi 135": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 135, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "826",
-      "9804"
-    ]
-  },
-  "mimpi 136": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 136, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "772",
-      "6530"
-    ]
-  },
-  "mimpi 137": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 137, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "226",
-      "7928"
-    ]
-  },
-  "mimpi 138": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 138, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "14",
-      "249",
-      "4287"
-    ]
-  },
-  "mimpi 139": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 139, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "56",
-      "055",
-      "6097"
-    ]
-  },
-  "mimpi 140": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 140, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "290",
-      "9690"
-    ]
-  },
-  "mimpi 141": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 141, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "51",
-      "189",
-      "5655"
-    ]
-  },
-  "mimpi 142": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 142, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "690",
-      "4441"
-    ]
-  },
-  "mimpi 143": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 143, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "480",
-      "3667"
-    ]
-  },
-  "mimpi 144": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 144, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "297",
-      "1608"
-    ]
-  },
-  "mimpi 145": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 145, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "143",
-      "0648"
-    ]
-  },
-  "mimpi 146": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 146, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "528",
-      "2115"
-    ]
-  },
-  "mimpi 147": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 147, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "219",
-      "7790"
-    ]
-  },
-  "mimpi 148": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 148, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "014",
-      "5316"
-    ]
-  },
-  "mimpi 149": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 149, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "283",
-      "7902"
-    ]
-  },
-  "mimpi 150": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 150, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "348",
-      "4142"
-    ]
-  },
-  "mimpi 151": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 151, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "003",
-      "8803"
-    ]
-  },
-  "mimpi 152": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 152, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "094",
-      "7508"
-    ]
-  },
-  "mimpi 153": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 153, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "555",
-      "8681"
-    ]
-  },
-  "mimpi 154": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 154, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "600",
-      "8788"
-    ]
-  },
-  "mimpi 155": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 155, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "979",
-      "8531"
-    ]
-  },
-  "mimpi 156": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 156, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "962",
-      "0944"
-    ]
-  },
-  "mimpi 157": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 157, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "559",
-      "3477"
-    ]
-  },
-  "mimpi 158": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 158, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "535",
-      "9847"
-    ]
-  },
-  "mimpi 159": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 159, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "839",
-      "5937"
-    ]
-  },
-  "mimpi 160": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 160, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "569",
-      "5297"
-    ]
-  },
-  "mimpi 161": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 161, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "338",
-      "6603"
-    ]
-  },
-  "mimpi 162": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 162, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "56",
-      "597",
-      "5094"
-    ]
-  },
-  "mimpi 163": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 163, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "739",
-      "0103"
-    ]
-  },
-  "mimpi 164": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 164, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "480",
-      "1084"
-    ]
-  },
-  "mimpi 165": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 165, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "519",
-      "0866"
-    ]
-  },
-  "mimpi 166": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 166, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "718",
-      "8712"
-    ]
-  },
-  "mimpi 167": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 167, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "197",
-      "3916"
-    ]
-  },
-  "mimpi 168": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 168, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "19",
-      "267",
-      "3138"
-    ]
-  },
-  "mimpi 169": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 169, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "162",
-      "8327"
-    ]
-  },
-  "mimpi 170": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 170, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "729",
-      "1543"
-    ]
-  },
-  "mimpi 171": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 171, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "326",
-      "6120"
-    ]
-  },
-  "mimpi 172": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 172, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "331",
-      "1556"
-    ]
-  },
-  "mimpi 173": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 173, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "56",
-      "097",
-      "4859"
-    ]
-  },
-  "mimpi 174": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 174, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "188",
-      "4043"
-    ]
-  },
-  "mimpi 175": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 175, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "713",
-      "0096"
-    ]
-  },
-  "mimpi 176": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 176, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "139",
-      "2625"
-    ]
-  },
-  "mimpi 177": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 177, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "937",
-      "0523"
-    ]
-  },
-  "mimpi 178": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 178, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "818",
-      "0196"
-    ]
-  },
-  "mimpi 179": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 179, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "147",
-      "2384"
-    ]
-  },
-  "mimpi 180": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 180, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "305",
-      "7211"
-    ]
-  },
-  "mimpi 181": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 181, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "640",
-      "5773"
-    ]
-  },
-  "mimpi 182": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 182, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "135",
-      "0764"
-    ]
-  },
-  "mimpi 183": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 183, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "647",
-      "9908"
-    ]
-  },
-  "mimpi 184": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 184, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "747",
-      "5190"
-    ]
-  },
-  "mimpi 185": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 185, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "017",
-      "5435"
-    ]
-  },
-  "mimpi 186": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 186, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "38",
-      "492",
-      "8603"
-    ]
-  },
-  "mimpi 187": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 187, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "049",
-      "2430"
-    ]
-  },
-  "mimpi 188": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 188, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "223",
-      "1385"
-    ]
-  },
-  "mimpi 189": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 189, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "246",
-      "2233"
-    ]
-  },
-  "mimpi 190": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 190, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "67",
-      "031",
-      "0594"
-    ]
-  },
-  "mimpi 191": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 191, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "981",
-      "8329"
-    ]
-  },
-  "mimpi 192": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 192, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "617",
-      "0984"
-    ]
-  },
-  "mimpi 193": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 193, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "881",
-      "5360"
-    ]
-  },
-  "mimpi 194": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 194, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "297",
-      "1050"
-    ]
-  },
-  "mimpi 195": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 195, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "469",
-      "5434"
-    ]
-  },
-  "mimpi 196": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 196, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "239",
-      "8186"
-    ]
-  },
-  "mimpi 197": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 197, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "22",
-      "166",
-      "4280"
-    ]
-  },
-  "mimpi 198": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 198, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "229",
-      "6312"
-    ]
-  },
-  "mimpi 199": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 199, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "719",
-      "5486"
-    ]
-  },
-  "mimpi 200": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 200, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "889",
-      "6524"
-    ]
-  },
-  "mimpi 201": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 201, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "559",
-      "6502"
-    ]
-  },
-  "mimpi 202": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 202, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "536",
-      "4895"
-    ]
-  },
-  "mimpi 203": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 203, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "179",
-      "9428"
-    ]
-  },
-  "mimpi 204": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 204, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "195",
-      "4727"
-    ]
-  },
-  "mimpi 205": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 205, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "138",
-      "9906"
-    ]
-  },
-  "mimpi 206": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 206, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "284",
-      "4383"
-    ]
-  },
-  "mimpi 207": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 207, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "320",
-      "2341"
-    ]
-  },
-  "mimpi 208": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 208, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "509",
-      "4847"
-    ]
-  },
-  "mimpi 209": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 209, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "502",
-      "1397"
-    ]
-  },
-  "mimpi 210": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 210, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "575",
-      "1147"
-    ]
-  },
-  "mimpi 211": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 211, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "344",
-      "5967"
-    ]
-  },
-  "mimpi 212": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 212, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "546",
-      "2436"
-    ]
-  },
-  "mimpi 213": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 213, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "52",
-      "519",
-      "1599"
-    ]
-  },
-  "mimpi 214": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 214, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "375",
-      "7702"
-    ]
-  },
-  "mimpi 215": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 215, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "940",
-      "0568"
-    ]
-  },
-  "mimpi 216": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 216, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "487",
-      "9316"
-    ]
-  },
-  "mimpi 217": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 217, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "262",
-      "2991"
-    ]
-  },
-  "mimpi 218": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 218, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "670",
-      "7254"
-    ]
-  },
-  "mimpi 219": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 219, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "120",
-      "5011"
-    ]
-  },
-  "mimpi 220": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 220, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "768",
-      "6437"
-    ]
-  },
-  "mimpi 221": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 221, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "960",
-      "7876"
-    ]
-  },
-  "mimpi 222": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 222, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "59",
-      "977",
-      "1792"
-    ]
-  },
-  "mimpi 223": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 223, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "31",
-      "397",
-      "1867"
-    ]
-  },
-  "mimpi 224": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 224, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "350",
-      "8497"
-    ]
-  },
-  "mimpi 225": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 225, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "306",
-      "1230"
-    ]
-  },
-  "mimpi 226": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 226, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "317",
-      "6515"
-    ]
-  },
-  "mimpi 227": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 227, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "941",
-      "4839"
-    ]
-  },
-  "mimpi 228": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 228, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "444",
-      "2779"
-    ]
-  },
-  "mimpi 229": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 229, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "358",
-      "2534"
-    ]
-  },
-  "mimpi 230": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 230, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "633",
-      "2134"
-    ]
-  },
-  "mimpi 231": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 231, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "381",
-      "0647"
-    ]
-  },
-  "mimpi 232": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 232, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "483",
-      "8809"
-    ]
-  },
-  "mimpi 233": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 233, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "689",
-      "5074"
-    ]
-  },
-  "mimpi 234": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 234, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "883",
-      "2816"
-    ]
-  },
-  "mimpi 235": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 235, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "424",
-      "1516"
-    ]
-  },
-  "mimpi 236": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 236, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "730",
-      "6465"
-    ]
-  },
-  "mimpi 237": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 237, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "171",
-      "3920"
-    ]
-  },
-  "mimpi 238": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 238, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "509",
-      "8168"
-    ]
-  },
-  "mimpi 239": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 239, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "466",
-      "9345"
-    ]
-  },
-  "mimpi 240": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 240, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "20",
-      "188",
-      "9912"
-    ]
-  },
-  "mimpi 241": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 241, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "899",
-      "9673"
-    ]
-  },
-  "mimpi 242": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 242, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "217",
-      "9055"
-    ]
-  },
-  "mimpi 243": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 243, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "88",
-      "334",
-      "4025"
-    ]
-  },
-  "mimpi 244": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 244, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "588",
-      "9672"
-    ]
-  },
-  "mimpi 245": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 245, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "637",
-      "2975"
-    ]
-  },
-  "mimpi 246": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 246, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "253",
-      "6225"
-    ]
-  },
-  "mimpi 247": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 247, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "274",
-      "4052"
-    ]
-  },
-  "mimpi 248": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 248, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "816",
-      "6367"
-    ]
-  },
-  "mimpi 249": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 249, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "22",
-      "661",
-      "8851"
-    ]
-  },
-  "mimpi 250": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 250, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "768",
-      "3565"
-    ]
-  },
-  "mimpi 251": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 251, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "210",
-      "7342"
-    ]
-  },
-  "mimpi 252": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 252, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "543",
-      "3909"
-    ]
-  },
-  "mimpi 253": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 253, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "658",
-      "5295"
-    ]
-  },
-  "mimpi 254": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 254, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "872",
-      "2639"
-    ]
-  },
-  "mimpi 255": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 255, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "90",
-      "915",
-      "3833"
-    ]
-  },
-  "mimpi 256": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 256, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "189",
-      "0653"
-    ]
-  },
-  "mimpi 257": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 257, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "930",
-      "7727"
-    ]
-  },
-  "mimpi 258": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 258, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "102",
-      "6446"
-    ]
-  },
-  "mimpi 259": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 259, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "462",
-      "1530"
-    ]
-  },
-  "mimpi 260": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 260, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "320",
-      "8532"
-    ]
-  },
-  "mimpi 261": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 261, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "056",
-      "7154"
-    ]
-  },
-  "mimpi 262": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 262, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "877",
-      "7940"
-    ]
-  },
-  "mimpi 263": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 263, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "14",
-      "364",
-      "3411"
-    ]
-  },
-  "mimpi 264": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 264, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "623",
-      "5000"
-    ]
-  },
-  "mimpi 265": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 265, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "967",
-      "1937"
-    ]
-  },
-  "mimpi 266": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 266, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "792",
-      "7604"
-    ]
-  },
-  "mimpi 267": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 267, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "043",
-      "3219"
-    ]
-  },
-  "mimpi 268": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 268, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "300",
-      "5340"
-    ]
-  },
-  "mimpi 269": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 269, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "388",
-      "4987"
-    ]
-  },
-  "mimpi 270": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 270, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "764",
-      "5551"
-    ]
-  },
-  "mimpi 271": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 271, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "145",
-      "0304"
-    ]
-  },
-  "mimpi 272": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 272, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "642",
-      "0662"
-    ]
-  },
-  "mimpi 273": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 273, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "451",
-      "0870"
-    ]
-  },
-  "mimpi 274": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 274, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "637",
-      "5774"
-    ]
-  },
-  "mimpi 275": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 275, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "250",
-      "8628"
-    ]
-  },
-  "mimpi 276": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 276, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "14",
-      "487",
-      "0368"
-    ]
-  },
-  "mimpi 277": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 277, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "067",
-      "5423"
-    ]
-  },
-  "mimpi 278": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 278, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "384",
-      "7608"
-    ]
-  },
-  "mimpi 279": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 279, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "155",
-      "4209"
-    ]
-  },
-  "mimpi 280": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 280, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "976",
-      "8969"
-    ]
-  },
-  "mimpi 281": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 281, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "631",
-      "6636"
-    ]
-  },
-  "mimpi 282": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 282, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "917",
-      "4988"
-    ]
-  },
-  "mimpi 283": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 283, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "565",
-      "1574"
-    ]
-  },
-  "mimpi 284": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 284, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "15",
-      "878",
-      "3014"
-    ]
-  },
-  "mimpi 285": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 285, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "106",
-      "2039"
-    ]
-  },
-  "mimpi 286": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 286, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "207",
-      "7053"
-    ]
-  },
-  "mimpi 287": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 287, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "996",
-      "7726"
-    ]
-  },
-  "mimpi 288": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 288, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "835",
-      "7864"
-    ]
-  },
-  "mimpi 289": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 289, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "290",
-      "6007"
-    ]
-  },
-  "mimpi 290": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 290, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "76",
-      "138",
-      "4061"
-    ]
-  },
-  "mimpi 291": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 291, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "721",
-      "5410"
-    ]
-  },
-  "mimpi 292": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 292, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "068",
-      "4367"
-    ]
-  },
-  "mimpi 293": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 293, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "923",
-      "9705"
-    ]
-  },
-  "mimpi 294": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 294, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "878",
-      "7947"
-    ]
-  },
-  "mimpi 295": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 295, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "783",
-      "7237"
-    ]
-  },
-  "mimpi 296": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 296, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "417",
-      "3785"
-    ]
-  },
-  "mimpi 297": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 297, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "234",
-      "2021"
-    ]
-  },
-  "mimpi 298": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 298, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "223",
-      "6817"
-    ]
-  },
-  "mimpi 299": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 299, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "958",
-      "8604"
-    ]
-  },
-  "mimpi 300": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 300, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "246",
-      "3404"
-    ]
-  },
-  "mimpi 301": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 301, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "607",
-      "1870"
-    ]
-  },
-  "mimpi 302": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 302, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "51",
-      "672",
-      "6728"
-    ]
-  },
-  "mimpi 303": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 303, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "295",
-      "7786"
-    ]
-  },
-  "mimpi 304": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 304, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "007",
-      "3905"
-    ]
-  },
-  "mimpi 305": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 305, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "037",
-      "9566"
-    ]
-  },
-  "mimpi 306": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 306, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "400",
-      "5363"
-    ]
-  },
-  "mimpi 307": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 307, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "559",
-      "5644"
-    ]
-  },
-  "mimpi 308": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 308, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "299",
-      "2736"
-    ]
-  },
-  "mimpi 309": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 309, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "463",
-      "6057"
-    ]
-  },
-  "mimpi 310": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 310, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "329",
-      "5701"
-    ]
-  },
-  "mimpi 311": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 311, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "571",
-      "9916"
-    ]
-  },
-  "mimpi 312": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 312, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "400",
-      "4169"
-    ]
-  },
-  "mimpi 313": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 313, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "288",
-      "7487"
-    ]
-  },
-  "mimpi 314": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 314, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "852",
-      "6204"
-    ]
-  },
-  "mimpi 315": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 315, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "004",
-      "5687"
-    ]
-  },
-  "mimpi 316": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 316, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "20",
-      "467",
-      "2293"
-    ]
-  },
-  "mimpi 317": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 317, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "042",
-      "7062"
-    ]
-  },
-  "mimpi 318": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 318, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "269",
-      "8413"
-    ]
-  },
-  "mimpi 319": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 319, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "14",
-      "947",
-      "5718"
-    ]
-  },
-  "mimpi 320": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 320, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "771",
-      "0995"
-    ]
-  },
-  "mimpi 321": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 321, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "037",
-      "1484"
-    ]
-  },
-  "mimpi 322": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 322, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "821",
-      "5435"
-    ]
-  },
-  "mimpi 323": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 323, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "67",
-      "589",
-      "2417"
-    ]
-  },
-  "mimpi 324": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 324, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "926",
-      "4750"
-    ]
-  },
-  "mimpi 325": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 325, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "107",
-      "6084"
-    ]
-  },
-  "mimpi 326": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 326, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "844",
-      "5437"
-    ]
-  },
-  "mimpi 327": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 327, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "545",
-      "3266"
-    ]
-  },
-  "mimpi 328": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 328, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "592",
-      "2870"
-    ]
-  },
-  "mimpi 329": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 329, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "374",
-      "3471"
-    ]
-  },
-  "mimpi 330": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 330, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "326",
-      "8696"
-    ]
-  },
-  "mimpi 331": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 331, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "767",
-      "7499"
-    ]
-  },
-  "mimpi 332": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 332, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "952",
-      "1671"
-    ]
-  },
-  "mimpi 333": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 333, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "15",
-      "627",
-      "1775"
-    ]
-  },
-  "mimpi 334": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 334, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "14",
-      "719",
-      "8315"
-    ]
-  },
-  "mimpi 335": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 335, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "707",
-      "1022"
-    ]
-  },
-  "mimpi 336": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 336, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "611",
-      "9464"
-    ]
-  },
-  "mimpi 337": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 337, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "810",
-      "4319"
-    ]
-  },
-  "mimpi 338": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 338, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "253",
-      "1454"
-    ]
-  },
-  "mimpi 339": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 339, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "108",
-      "0838"
-    ]
-  },
-  "mimpi 340": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 340, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "412",
-      "4774"
-    ]
-  },
-  "mimpi 341": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 341, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "557",
-      "2942"
-    ]
-  },
-  "mimpi 342": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 342, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "086",
-      "6246"
-    ]
-  },
-  "mimpi 343": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 343, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "356",
-      "0970"
-    ]
-  },
-  "mimpi 344": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 344, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "900",
-      "0278"
-    ]
-  },
-  "mimpi 345": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 345, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "880",
-      "5452"
-    ]
-  },
-  "mimpi 346": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 346, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "504",
-      "5764"
-    ]
-  },
-  "mimpi 347": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 347, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "004",
-      "8492"
-    ]
-  },
-  "mimpi 348": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 348, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "006",
-      "0638"
-    ]
-  },
-  "mimpi 349": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 349, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "885",
-      "6985"
-    ]
-  },
-  "mimpi 350": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 350, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "22",
-      "800",
-      "3900"
-    ]
-  },
-  "mimpi 351": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 351, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "298",
-      "2490"
-    ]
-  },
-  "mimpi 352": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 352, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "619",
-      "6367"
-    ]
-  },
-  "mimpi 353": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 353, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "738",
-      "3256"
-    ]
-  },
-  "mimpi 354": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 354, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "608",
-      "0600"
-    ]
-  },
-  "mimpi 355": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 355, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "885",
-      "4392"
-    ]
-  },
-  "mimpi 356": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 356, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "130",
-      "0368"
-    ]
-  },
-  "mimpi 357": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 357, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "703",
-      "0452"
-    ]
-  },
-  "mimpi 358": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 358, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "062",
-      "1995"
-    ]
-  },
-  "mimpi 359": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 359, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "099",
-      "8356"
-    ]
-  },
-  "mimpi 360": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 360, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "782",
-      "1584"
-    ]
-  },
-  "mimpi 361": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 361, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "535",
-      "4103"
-    ]
-  },
-  "mimpi 362": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 362, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "59",
-      "850",
-      "0702"
-    ]
-  },
-  "mimpi 363": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 363, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "39",
-      "400",
-      "6333"
-    ]
-  },
-  "mimpi 364": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 364, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "204",
-      "3161"
-    ]
-  },
-  "mimpi 365": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 365, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "366",
-      "3481"
-    ]
-  },
-  "mimpi 366": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 366, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "158",
-      "9344"
-    ]
-  },
-  "mimpi 367": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 367, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "860",
-      "5037"
-    ]
-  },
-  "mimpi 368": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 368, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "865",
-      "1363"
-    ]
-  },
-  "mimpi 369": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 369, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "582",
-      "1270"
-    ]
-  },
-  "mimpi 370": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 370, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "064",
-      "6599"
-    ]
-  },
-  "mimpi 371": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 371, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "885",
-      "4467"
-    ]
-  },
-  "mimpi 372": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 372, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "687",
-      "6646"
-    ]
-  },
-  "mimpi 373": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 373, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "245",
-      "4254"
-    ]
-  },
-  "mimpi 374": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 374, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "369",
-      "9565"
-    ]
-  },
-  "mimpi 375": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 375, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "229",
-      "8951"
-    ]
-  },
-  "mimpi 376": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 376, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "583",
-      "3511"
-    ]
-  },
-  "mimpi 377": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 377, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "230",
-      "8098"
-    ]
-  },
-  "mimpi 378": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 378, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "875",
-      "3625"
-    ]
-  },
-  "mimpi 379": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 379, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "800",
-      "5795"
-    ]
-  },
-  "mimpi 380": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 380, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "872",
-      "9638"
-    ]
-  },
-  "mimpi 381": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 381, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "973",
-      "3817"
-    ]
-  },
-  "mimpi 382": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 382, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "03",
-      "661",
-      "7344"
-    ]
-  },
-  "mimpi 383": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 383, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "149",
-      "0277"
-    ]
-  },
-  "mimpi 384": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 384, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "752",
-      "5410"
-    ]
-  },
-  "mimpi 385": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 385, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "045",
-      "4522"
-    ]
-  },
-  "mimpi 386": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 386, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "875",
-      "2034"
-    ]
-  },
-  "mimpi 387": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 387, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "626",
-      "9710"
-    ]
-  },
-  "mimpi 388": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 388, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "496",
-      "6560"
-    ]
-  },
-  "mimpi 389": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 389, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "30",
-      "176",
-      "9910"
-    ]
-  },
-  "mimpi 390": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 390, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "995",
-      "2322"
-    ]
-  },
-  "mimpi 391": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 391, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "172",
-      "2107"
-    ]
-  },
-  "mimpi 392": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 392, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "676",
-      "0678"
-    ]
-  },
-  "mimpi 393": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 393, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "649",
-      "2786"
-    ]
-  },
-  "mimpi 394": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 394, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "074",
-      "1112"
-    ]
-  },
-  "mimpi 395": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 395, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "283",
-      "1280"
-    ]
-  },
-  "mimpi 396": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 396, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "302",
-      "9792"
-    ]
-  },
-  "mimpi 397": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 397, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "980",
-      "5590"
-    ]
-  },
-  "mimpi 398": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 398, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "630",
-      "3651"
-    ]
-  },
-  "mimpi 399": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 399, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "19",
-      "720",
-      "2733"
-    ]
-  },
-  "mimpi 400": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 400, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "131",
-      "2673"
-    ]
-  },
-  "mimpi 401": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 401, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "840",
-      "9456"
-    ]
-  },
-  "mimpi 402": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 402, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "727",
-      "3340"
-    ]
-  },
-  "mimpi 403": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 403, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "393",
-      "5865"
-    ]
-  },
-  "mimpi 404": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 404, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "051",
-      "6932"
-    ]
-  },
-  "mimpi 405": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 405, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "51",
-      "843",
-      "2673"
-    ]
-  },
-  "mimpi 406": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 406, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "15",
-      "004",
-      "4483"
-    ]
-  },
-  "mimpi 407": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 407, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "551",
-      "2525"
-    ]
-  },
-  "mimpi 408": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 408, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "307",
-      "8690"
-    ]
-  },
-  "mimpi 409": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 409, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "943",
-      "1717"
-    ]
-  },
-  "mimpi 410": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 410, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "113",
-      "3574"
-    ]
-  },
-  "mimpi 411": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 411, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "707",
-      "9453"
-    ]
-  },
-  "mimpi 412": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 412, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "457",
-      "8324"
-    ]
-  },
-  "mimpi 413": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 413, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "051",
-      "8452"
-    ]
-  },
-  "mimpi 414": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 414, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "26",
-      "304",
-      "8304"
-    ]
-  },
-  "mimpi 415": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 415, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "578",
-      "6994"
-    ]
-  },
-  "mimpi 416": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 416, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "88",
-      "197",
-      "7711"
-    ]
-  },
-  "mimpi 417": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 417, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "67",
-      "758",
-      "3430"
-    ]
-  },
-  "mimpi 418": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 418, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "716",
-      "6622"
-    ]
-  },
-  "mimpi 419": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 419, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "30",
-      "255",
-      "7026"
-    ]
-  },
-  "mimpi 420": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 420, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "403",
-      "7210"
-    ]
-  },
-  "mimpi 421": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 421, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "151",
-      "2055"
-    ]
-  },
-  "mimpi 422": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 422, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "094",
-      "1399"
-    ]
-  },
-  "mimpi 423": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 423, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "184",
-      "2053"
-    ]
-  },
-  "mimpi 424": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 424, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "636",
-      "1968"
-    ]
-  },
-  "mimpi 425": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 425, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "826",
-      "9960"
-    ]
-  },
-  "mimpi 426": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 426, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "211",
-      "0694"
-    ]
-  },
-  "mimpi 427": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 427, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "620",
-      "5241"
-    ]
-  },
-  "mimpi 428": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 428, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "20",
-      "192",
-      "1682"
-    ]
-  },
-  "mimpi 429": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 429, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "551",
-      "3788"
-    ]
-  },
-  "mimpi 430": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 430, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "897",
-      "0937"
-    ]
-  },
-  "mimpi 431": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 431, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "211",
-      "4788"
-    ]
-  },
-  "mimpi 432": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 432, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "580",
-      "1882"
-    ]
-  },
-  "mimpi 433": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 433, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "595",
-      "8232"
-    ]
-  },
-  "mimpi 434": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 434, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "561",
-      "3198"
-    ]
-  },
-  "mimpi 435": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 435, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "414",
-      "7510"
-    ]
-  },
-  "mimpi 436": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 436, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "39",
-      "522",
-      "3866"
-    ]
-  },
-  "mimpi 437": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 437, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "424",
-      "9045"
-    ]
-  },
-  "mimpi 438": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 438, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "064",
-      "8877"
-    ]
-  },
-  "mimpi 439": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 439, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "755",
-      "4791"
-    ]
-  },
-  "mimpi 440": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 440, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "274",
-      "4313"
-    ]
-  },
-  "mimpi 441": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 441, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "20",
-      "098",
-      "6329"
-    ]
-  },
-  "mimpi 442": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 442, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "532",
-      "5105"
-    ]
-  },
-  "mimpi 443": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 443, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "519",
-      "6461"
-    ]
-  },
-  "mimpi 444": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 444, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "52",
-      "583",
-      "2803"
-    ]
-  },
-  "mimpi 445": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 445, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "060",
-      "5174"
-    ]
-  },
-  "mimpi 446": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 446, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "456",
-      "6832"
-    ]
-  },
-  "mimpi 447": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 447, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "630",
-      "9713"
-    ]
-  },
-  "mimpi 448": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 448, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "926",
-      "9132"
-    ]
-  },
-  "mimpi 449": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 449, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "308",
-      "1944"
-    ]
-  },
-  "mimpi 450": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 450, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "220",
-      "7336"
-    ]
-  },
-  "mimpi 451": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 451, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "67",
-      "399",
-      "0153"
-    ]
-  },
-  "mimpi 452": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 452, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "776",
-      "8430"
-    ]
-  },
-  "mimpi 453": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 453, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "22",
-      "795",
-      "1893"
-    ]
-  },
-  "mimpi 454": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 454, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "931",
-      "8940"
-    ]
-  },
-  "mimpi 455": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 455, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "110",
-      "1357"
-    ]
-  },
-  "mimpi 456": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 456, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "262",
-      "8179"
-    ]
-  },
-  "mimpi 457": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 457, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "343",
-      "2318"
-    ]
-  },
-  "mimpi 458": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 458, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "678",
-      "7511"
-    ]
-  },
-  "mimpi 459": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 459, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "469",
-      "4714"
-    ]
-  },
-  "mimpi 460": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 460, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "761",
-      "8565"
-    ]
-  },
-  "mimpi 461": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 461, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "30",
-      "232",
-      "6479"
-    ]
-  },
-  "mimpi 462": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 462, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "623",
-      "3156"
-    ]
-  },
-  "mimpi 463": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 463, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "672",
-      "9221"
-    ]
-  },
-  "mimpi 464": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 464, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "828",
-      "6531"
-    ]
-  },
-  "mimpi 465": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 465, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "332",
-      "0669"
-    ]
-  },
-  "mimpi 466": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 466, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "52",
-      "434",
-      "0040"
-    ]
-  },
-  "mimpi 467": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 467, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "018",
-      "1314"
-    ]
-  },
-  "mimpi 468": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 468, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "998",
-      "2543"
-    ]
-  },
-  "mimpi 469": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 469, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "820",
-      "5247"
-    ]
-  },
-  "mimpi 470": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 470, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "535",
-      "1634"
-    ]
-  },
-  "mimpi 471": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 471, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "739",
-      "0591"
-    ]
-  },
-  "mimpi 472": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 472, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "935",
-      "2317"
-    ]
-  },
-  "mimpi 473": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 473, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "311",
-      "2801"
-    ]
-  },
-  "mimpi 474": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 474, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "443",
-      "2305"
-    ]
-  },
-  "mimpi 475": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 475, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "919",
-      "8256"
-    ]
-  },
-  "mimpi 476": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 476, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "76",
-      "220",
-      "7004"
-    ]
-  },
-  "mimpi 477": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 477, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "667",
-      "3527"
-    ]
-  },
-  "mimpi 478": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 478, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "446",
-      "9989"
-    ]
-  },
-  "mimpi 479": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 479, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "90",
-      "101",
-      "5411"
-    ]
-  },
-  "mimpi 480": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 480, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "488",
-      "1913"
-    ]
-  },
-  "mimpi 481": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 481, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "726",
-      "2405"
-    ]
-  },
-  "mimpi 482": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 482, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "31",
-      "712",
-      "1156"
-    ]
-  },
-  "mimpi 483": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 483, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "88",
-      "903",
-      "9961"
-    ]
-  },
-  "mimpi 484": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 484, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "364",
-      "5193"
-    ]
-  },
-  "mimpi 485": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 485, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "308",
-      "4161"
-    ]
-  },
-  "mimpi 486": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 486, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "886",
-      "1779"
-    ]
-  },
-  "mimpi 487": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 487, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "615",
-      "5362"
-    ]
-  },
-  "mimpi 488": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 488, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "38",
-      "626",
-      "8971"
-    ]
-  },
-  "mimpi 489": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 489, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "770",
-      "7906"
-    ]
-  },
-  "mimpi 490": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 490, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "817",
-      "6458"
-    ]
-  },
-  "mimpi 491": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 491, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "529",
-      "5275"
-    ]
-  },
-  "mimpi 492": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 492, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "831",
-      "5021"
-    ]
-  },
-  "mimpi 493": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 493, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "448",
-      "1768"
-    ]
-  },
-  "mimpi 494": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 494, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "08",
-      "446",
-      "1686"
-    ]
-  },
-  "mimpi 495": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 495, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "564",
-      "2064"
-    ]
-  },
-  "mimpi 496": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 496, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "625",
-      "5853"
-    ]
-  },
-  "mimpi 497": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 497, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "335",
-      "2131"
-    ]
-  },
-  "mimpi 498": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 498, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "091",
-      "6928"
-    ]
-  },
-  "mimpi 499": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 499, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "757",
-      "2352"
-    ]
-  },
-  "mimpi 500": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 500, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "364",
-      "4473"
-    ]
-  },
-  "mimpi 501": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 501, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "912",
-      "2928"
-    ]
-  },
-  "mimpi 502": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 502, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "76",
-      "685",
-      "9950"
-    ]
-  },
-  "mimpi 503": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 503, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "082",
-      "2710"
-    ]
-  },
-  "mimpi 504": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 504, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "476",
-      "6586"
-    ]
-  },
-  "mimpi 505": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 505, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "689",
-      "9670"
-    ]
-  },
-  "mimpi 506": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 506, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "817",
-      "7580"
-    ]
-  },
-  "mimpi 507": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 507, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "710",
-      "6419"
-    ]
-  },
-  "mimpi 508": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 508, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "271",
-      "9669"
-    ]
-  },
-  "mimpi 509": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 509, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "277",
-      "7834"
-    ]
-  },
-  "mimpi 510": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 510, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "083",
-      "9541"
-    ]
-  },
-  "mimpi 511": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 511, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "51",
-      "846",
-      "3827"
-    ]
-  },
-  "mimpi 512": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 512, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "26",
-      "596",
-      "5976"
-    ]
-  },
-  "mimpi 513": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 513, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "006",
-      "0346"
-    ]
-  },
-  "mimpi 514": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 514, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "926",
-      "3497"
-    ]
-  },
-  "mimpi 515": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 515, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "616",
-      "5863"
-    ]
-  },
-  "mimpi 516": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 516, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "67",
-      "144",
-      "7106"
-    ]
-  },
-  "mimpi 517": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 517, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "555",
-      "3431"
-    ]
-  },
-  "mimpi 518": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 518, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "273",
-      "9033"
-    ]
-  },
-  "mimpi 519": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 519, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "31",
-      "552",
-      "8418"
-    ]
-  },
-  "mimpi 520": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 520, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "881",
-      "3463"
-    ]
-  },
-  "mimpi 521": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 521, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "494",
-      "3576"
-    ]
-  },
-  "mimpi 522": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 522, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "20",
-      "350",
-      "2610"
-    ]
-  },
-  "mimpi 523": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 523, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "077",
-      "3465"
-    ]
-  },
-  "mimpi 524": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 524, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "709",
-      "4985"
-    ]
-  },
-  "mimpi 525": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 525, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "817",
-      "6276"
-    ]
-  },
-  "mimpi 526": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 526, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "636",
-      "1070"
-    ]
-  },
-  "mimpi 527": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 527, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "439",
-      "4654"
-    ]
-  },
-  "mimpi 528": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 528, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "931",
-      "9636"
-    ]
-  },
-  "mimpi 529": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 529, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "188",
-      "9820"
-    ]
-  },
-  "mimpi 530": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 530, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "426",
-      "9304"
-    ]
-  },
-  "mimpi 531": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 531, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "56",
-      "923",
-      "7313"
-    ]
-  },
-  "mimpi 532": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 532, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "091",
-      "8909"
-    ]
-  },
-  "mimpi 533": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 533, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "736",
-      "3443"
-    ]
-  },
-  "mimpi 534": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 534, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "266",
-      "8581"
-    ]
-  },
-  "mimpi 535": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 535, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "858",
-      "3553"
-    ]
-  },
-  "mimpi 536": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 536, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "634",
-      "9274"
-    ]
-  },
-  "mimpi 537": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 537, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "389",
-      "4752"
-    ]
-  },
-  "mimpi 538": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 538, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "312",
-      "6237"
-    ]
-  },
-  "mimpi 539": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 539, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "791",
-      "3262"
-    ]
-  },
-  "mimpi 540": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 540, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "088",
-      "4086"
-    ]
-  },
-  "mimpi 541": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 541, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "328",
-      "6322"
-    ]
-  },
-  "mimpi 542": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 542, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "110",
-      "3306"
-    ]
-  },
-  "mimpi 543": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 543, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "616",
-      "6778"
-    ]
-  },
-  "mimpi 544": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 544, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "03",
-      "241",
-      "6055"
-    ]
-  },
-  "mimpi 545": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 545, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "322",
-      "8306"
-    ]
-  },
-  "mimpi 546": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 546, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "40",
-      "870",
-      "1003"
-    ]
-  },
-  "mimpi 547": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 547, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "957",
-      "3444"
-    ]
-  },
-  "mimpi 548": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 548, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
       "742",
-      "6848"
+      "6317"
     ]
   },
-  "mimpi 549": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 549, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "831",
-      "9502"
-    ]
-  },
-  "mimpi 550": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 550, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "671",
-      "7302"
-    ]
-  },
-  "mimpi 551": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 551, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "783",
-      "4908"
-    ]
-  },
-  "mimpi 552": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 552, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "921",
-      "4190"
-    ]
-  },
-  "mimpi 553": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 553, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "melihat hantu 2": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
     "angka": [
       "40",
-      "399",
-      "5392"
-    ]
-  },
-  "mimpi 554": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 554, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "005",
-      "7992"
-    ]
-  },
-  "mimpi 555": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 555, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "369",
-      "2838"
-    ]
-  },
-  "mimpi 556": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 556, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "824",
-      "0079"
-    ]
-  },
-  "mimpi 557": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 557, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "597",
-      "8072"
-    ]
-  },
-  "mimpi 558": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 558, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "730",
-      "7063"
-    ]
-  },
-  "mimpi 559": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 559, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "542",
-      "1951"
-    ]
-  },
-  "mimpi 560": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 560, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "158",
-      "5745"
-    ]
-  },
-  "mimpi 561": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 561, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
       "921",
-      "2533"
-    ]
-  },
-  "mimpi 562": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 562, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "822",
-      "9488"
-    ]
-  },
-  "mimpi 563": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 563, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "566",
-      "0650"
-    ]
-  },
-  "mimpi 564": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 564, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "688",
-      "5600"
-    ]
-  },
-  "mimpi 565": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 565, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "700",
-      "2013"
-    ]
-  },
-  "mimpi 566": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 566, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "943",
-      "7227"
-    ]
-  },
-  "mimpi 567": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 567, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "596",
-      "6564"
-    ]
-  },
-  "mimpi 568": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 568, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "634",
-      "6551"
-    ]
-  },
-  "mimpi 569": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 569, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "687",
-      "1056"
-    ]
-  },
-  "mimpi 570": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 570, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "456",
-      "1374"
-    ]
-  },
-  "mimpi 571": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 571, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "131",
-      "8393"
-    ]
-  },
-  "mimpi 572": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 572, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "39",
-      "375",
-      "9587"
-    ]
-  },
-  "mimpi 573": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 573, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "057",
-      "8191"
-    ]
-  },
-  "mimpi 574": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 574, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "984",
-      "1527"
-    ]
-  },
-  "mimpi 575": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 575, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "31",
-      "211",
-      "8045"
-    ]
-  },
-  "mimpi 576": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 576, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "937",
-      "7199"
-    ]
-  },
-  "mimpi 577": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 577, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "716",
-      "2333"
-    ]
-  },
-  "mimpi 578": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 578, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "443",
-      "7934"
-    ]
-  },
-  "mimpi 579": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 579, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "759",
-      "5612"
-    ]
-  },
-  "mimpi 580": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 580, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "403",
-      "9442"
-    ]
-  },
-  "mimpi 581": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 581, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "888",
-      "3366"
-    ]
-  },
-  "mimpi 582": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 582, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "498",
-      "2445"
-    ]
-  },
-  "mimpi 583": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 583, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "770",
-      "8624"
-    ]
-  },
-  "mimpi 584": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 584, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "811",
-      "0051"
-    ]
-  },
-  "mimpi 585": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 585, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "751",
-      "3997"
-    ]
-  },
-  "mimpi 586": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 586, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "234",
-      "9028"
-    ]
-  },
-  "mimpi 587": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 587, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "026",
-      "7443"
-    ]
-  },
-  "mimpi 588": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 588, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "106",
-      "9383"
-    ]
-  },
-  "mimpi 589": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 589, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "56",
-      "622",
-      "9350"
-    ]
-  },
-  "mimpi 590": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 590, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "123",
-      "9281"
-    ]
-  },
-  "mimpi 591": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 591, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "682",
-      "9298"
-    ]
-  },
-  "mimpi 592": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 592, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "190",
-      "5629"
-    ]
-  },
-  "mimpi 593": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 593, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "981",
-      "7124"
-    ]
-  },
-  "mimpi 594": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 594, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "196",
-      "9511"
-    ]
-  },
-  "mimpi 595": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 595, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "180",
-      "1296"
-    ]
-  },
-  "mimpi 596": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 596, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "858",
-      "4029"
-    ]
-  },
-  "mimpi 597": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 597, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "796",
-      "6048"
-    ]
-  },
-  "mimpi 598": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 598, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "624",
-      "7043"
-    ]
-  },
-  "mimpi 599": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 599, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "593",
-      "4747"
-    ]
-  },
-  "mimpi 600": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 600, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "39",
-      "392",
-      "8406"
-    ]
-  },
-  "mimpi 601": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 601, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "643",
-      "7505"
-    ]
-  },
-  "mimpi 602": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 602, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "947",
-      "7507"
-    ]
-  },
-  "mimpi 603": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 603, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "207",
-      "1156"
-    ]
-  },
-  "mimpi 604": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 604, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "172",
-      "8590"
-    ]
-  },
-  "mimpi 605": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 605, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "399",
-      "2681"
-    ]
-  },
-  "mimpi 606": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 606, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "52",
-      "193",
-      "3168"
-    ]
-  },
-  "mimpi 607": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 607, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "479",
-      "5684"
-    ]
-  },
-  "mimpi 608": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 608, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "342",
-      "3374"
-    ]
-  },
-  "mimpi 609": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 609, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "646",
-      "8201"
-    ]
-  },
-  "mimpi 610": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 610, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "51",
-      "163",
-      "0024"
-    ]
-  },
-  "mimpi 611": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 611, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "716",
-      "1974"
-    ]
-  },
-  "mimpi 612": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 612, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "210",
-      "9871"
-    ]
-  },
-  "mimpi 613": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 613, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "450",
-      "7563"
-    ]
-  },
-  "mimpi 614": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 614, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "875",
-      "3783"
-    ]
-  },
-  "mimpi 615": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 615, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "535",
-      "5139"
-    ]
-  },
-  "mimpi 616": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 616, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "26",
-      "086",
-      "0130"
-    ]
-  },
-  "mimpi 617": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 617, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "207",
-      "4505"
-    ]
-  },
-  "mimpi 618": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 618, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "103",
-      "8434"
-    ]
-  },
-  "mimpi 619": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 619, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "396",
-      "2736"
-    ]
-  },
-  "mimpi 620": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 620, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "210",
-      "9880"
-    ]
-  },
-  "mimpi 621": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 621, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "823",
-      "2972"
-    ]
-  },
-  "mimpi 622": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 622, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "280",
-      "4731"
-    ]
-  },
-  "mimpi 623": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 623, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "215",
-      "4878"
-    ]
-  },
-  "mimpi 624": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 624, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "587",
-      "1483"
-    ]
-  },
-  "mimpi 625": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 625, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "979",
-      "2690"
-    ]
-  },
-  "mimpi 626": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 626, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "857",
-      "6671"
-    ]
-  },
-  "mimpi 627": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 627, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "869",
-      "8388"
-    ]
-  },
-  "mimpi 628": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 628, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "750",
-      "8696"
-    ]
-  },
-  "mimpi 629": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 629, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "90",
-      "319",
-      "6345"
-    ]
-  },
-  "mimpi 630": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 630, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "861",
-      "0983"
-    ]
-  },
-  "mimpi 631": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 631, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "31",
-      "392",
-      "9559"
-    ]
-  },
-  "mimpi 632": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 632, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "171",
-      "6757"
-    ]
-  },
-  "mimpi 633": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 633, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "257",
-      "4269"
-    ]
-  },
-  "mimpi 634": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 634, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "357",
-      "9542"
-    ]
-  },
-  "mimpi 635": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 635, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "374",
-      "0967"
-    ]
-  },
-  "mimpi 636": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 636, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "527",
-      "1089"
-    ]
-  },
-  "mimpi 637": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 637, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "847",
-      "5899"
-    ]
-  },
-  "mimpi 638": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 638, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "173",
-      "4770"
-    ]
-  },
-  "mimpi 639": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 639, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "237",
-      "5870"
-    ]
-  },
-  "mimpi 640": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 640, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "242",
-      "6215"
-    ]
-  },
-  "mimpi 641": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 641, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "490",
-      "8909"
-    ]
-  },
-  "mimpi 642": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 642, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "021",
-      "9329"
-    ]
-  },
-  "mimpi 643": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 643, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "515",
-      "2493"
-    ]
-  },
-  "mimpi 644": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 644, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "104",
-      "9026"
-    ]
-  },
-  "mimpi 645": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 645, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "612",
-      "2307"
-    ]
-  },
-  "mimpi 646": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 646, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "793",
-      "3101"
-    ]
-  },
-  "mimpi 647": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 647, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "247",
-      "6028"
-    ]
-  },
-  "mimpi 648": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 648, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "737",
-      "1630"
-    ]
-  },
-  "mimpi 649": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 649, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "461",
-      "8591"
-    ]
-  },
-  "mimpi 650": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 650, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "270",
-      "9690"
-    ]
-  },
-  "mimpi 651": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 651, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "797",
-      "7597"
-    ]
-  },
-  "mimpi 652": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 652, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "017",
-      "4483"
-    ]
-  },
-  "mimpi 653": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 653, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "616",
-      "2278"
-    ]
-  },
-  "mimpi 654": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 654, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "629",
-      "6886"
-    ]
-  },
-  "mimpi 655": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 655, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "994",
-      "4307"
-    ]
-  },
-  "mimpi 656": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 656, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "637",
-      "2459"
-    ]
-  },
-  "mimpi 657": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 657, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "152",
-      "1713"
-    ]
-  },
-  "mimpi 658": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 658, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "487",
-      "4683"
-    ]
-  },
-  "mimpi 659": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 659, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "327",
-      "3287"
-    ]
-  },
-  "mimpi 660": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 660, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "562",
-      "7469"
-    ]
-  },
-  "mimpi 661": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 661, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "31",
-      "134",
-      "3738"
-    ]
-  },
-  "mimpi 662": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 662, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "089",
-      "2258"
-    ]
-  },
-  "mimpi 663": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 663, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "20",
-      "088",
-      "0855"
-    ]
-  },
-  "mimpi 664": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 664, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "505",
-      "6361"
-    ]
-  },
-  "mimpi 665": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 665, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "516",
-      "4805"
-    ]
-  },
-  "mimpi 666": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 666, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "219",
-      "7682"
-    ]
-  },
-  "mimpi 667": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 667, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "169",
-      "5160"
-    ]
-  },
-  "mimpi 668": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 668, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "675",
-      "5661"
-    ]
-  },
-  "mimpi 669": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 669, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "670",
-      "8962"
-    ]
-  },
-  "mimpi 670": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 670, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "557",
-      "7441"
-    ]
-  },
-  "mimpi 671": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 671, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "350",
-      "4420"
-    ]
-  },
-  "mimpi 672": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 672, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "88",
-      "294",
-      "1139"
-    ]
-  },
-  "mimpi 673": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 673, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "79",
-      "370",
-      "2165"
-    ]
-  },
-  "mimpi 674": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 674, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "481",
-      "1129"
-    ]
-  },
-  "mimpi 675": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 675, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "107",
-      "2479"
-    ]
-  },
-  "mimpi 676": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 676, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "815",
-      "8579"
-    ]
-  },
-  "mimpi 677": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 677, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "26",
-      "496",
-      "2226"
-    ]
-  },
-  "mimpi 678": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 678, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "225",
-      "0995"
-    ]
-  },
-  "mimpi 679": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 679, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "893",
-      "0829"
-    ]
-  },
-  "mimpi 680": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 680, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "502",
-      "4287"
-    ]
-  },
-  "mimpi 681": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 681, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "534",
-      "9259"
-    ]
-  },
-  "mimpi 682": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 682, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "573",
-      "4823"
-    ]
-  },
-  "mimpi 683": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 683, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "076",
-      "6268"
-    ]
-  },
-  "mimpi 684": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 684, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "233",
-      "7918"
-    ]
-  },
-  "mimpi 685": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 685, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "777",
-      "5055"
-    ]
-  },
-  "mimpi 686": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 686, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "897",
-      "6760"
-    ]
-  },
-  "mimpi 687": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 687, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "820",
-      "5469"
-    ]
-  },
-  "mimpi 688": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 688, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "900",
-      "3106"
-    ]
-  },
-  "mimpi 689": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 689, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "835",
-      "2453"
-    ]
-  },
-  "mimpi 690": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 690, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "255",
-      "2180"
-    ]
-  },
-  "mimpi 691": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 691, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "968",
-      "9964"
-    ]
-  },
-  "mimpi 692": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 692, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "370",
-      "0131"
-    ]
-  },
-  "mimpi 693": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 693, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "003",
-      "6563"
-    ]
-  },
-  "mimpi 694": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 694, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "216",
-      "8707"
-    ]
-  },
-  "mimpi 695": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 695, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "265",
-      "1748"
-    ]
-  },
-  "mimpi 696": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 696, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "790",
-      "4620"
-    ]
-  },
-  "mimpi 697": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 697, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "215",
-      "4097"
-    ]
-  },
-  "mimpi 698": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 698, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "864",
-      "9810"
-    ]
-  },
-  "mimpi 699": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 699, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "149",
-      "9797"
-    ]
-  },
-  "mimpi 700": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 700, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "957",
-      "2826"
-    ]
-  },
-  "mimpi 701": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 701, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "160",
-      "9559"
-    ]
-  },
-  "mimpi 702": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 702, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "233",
-      "4094"
-    ]
-  },
-  "mimpi 703": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 703, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "856",
-      "9928"
-    ]
-  },
-  "mimpi 704": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 704, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "51",
-      "366",
-      "4551"
-    ]
-  },
-  "mimpi 705": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 705, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "15",
-      "191",
-      "7913"
-    ]
-  },
-  "mimpi 706": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 706, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "493",
-      "7062"
-    ]
-  },
-  "mimpi 707": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 707, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "394",
-      "9009"
-    ]
-  },
-  "mimpi 708": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 708, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "930",
-      "7183"
-    ]
-  },
-  "mimpi 709": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 709, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "688",
-      "4041"
-    ]
-  },
-  "mimpi 710": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 710, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "836",
-      "4259"
-    ]
-  },
-  "mimpi 711": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 711, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "313",
-      "8608"
-    ]
-  },
-  "mimpi 712": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 712, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "308",
-      "7687"
-    ]
-  },
-  "mimpi 713": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 713, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "49",
-      "667",
-      "6077"
-    ]
-  },
-  "mimpi 714": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 714, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "031",
-      "0663"
-    ]
-  },
-  "mimpi 715": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 715, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "419",
-      "4409"
-    ]
-  },
-  "mimpi 716": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 716, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "698",
-      "5399"
-    ]
-  },
-  "mimpi 717": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 717, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "307",
-      "0844"
-    ]
-  },
-  "mimpi 718": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 718, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "08",
-      "795",
-      "7174"
-    ]
-  },
-  "mimpi 719": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 719, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "688",
-      "4097"
-    ]
-  },
-  "mimpi 720": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 720, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "013",
-      "4257"
-    ]
-  },
-  "mimpi 721": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 721, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "891",
-      "7286"
-    ]
-  },
-  "mimpi 722": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 722, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "060",
-      "4930"
-    ]
-  },
-  "mimpi 723": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 723, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "728",
-      "7534"
-    ]
-  },
-  "mimpi 724": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 724, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "173",
-      "2806"
-    ]
-  },
-  "mimpi 725": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 725, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "258",
-      "8345"
-    ]
-  },
-  "mimpi 726": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 726, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "354",
-      "1228"
-    ]
-  },
-  "mimpi 727": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 727, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "051",
-      "7181"
-    ]
-  },
-  "mimpi 728": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 728, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "837",
-      "4585"
-    ]
-  },
-  "mimpi 729": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 729, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "551",
-      "8784"
-    ]
-  },
-  "mimpi 730": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 730, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "226",
-      "3904"
-    ]
-  },
-  "mimpi 731": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 731, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "446",
-      "4994"
-    ]
-  },
-  "mimpi 732": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 732, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "596",
-      "1481"
-    ]
-  },
-  "mimpi 733": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 733, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "973",
-      "7506"
-    ]
-  },
-  "mimpi 734": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 734, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "17",
-      "918",
-      "1935"
-    ]
-  },
-  "mimpi 735": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 735, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "195",
-      "4473"
-    ]
-  },
-  "mimpi 736": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 736, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "931",
-      "5420"
-    ]
-  },
-  "mimpi 737": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 737, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "38",
-      "015",
-      "3906"
-    ]
-  },
-  "mimpi 738": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 738, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "866",
-      "0260"
-    ]
-  },
-  "mimpi 739": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 739, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "015",
-      "9220"
-    ]
-  },
-  "mimpi 740": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 740, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "90",
-      "992",
-      "2882"
-    ]
-  },
-  "mimpi 741": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 741, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "062",
-      "2360"
-    ]
-  },
-  "mimpi 742": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 742, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "600",
-      "3183"
-    ]
-  },
-  "mimpi 743": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 743, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "814",
-      "7433"
-    ]
-  },
-  "mimpi 744": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 744, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "380",
-      "9337"
-    ]
-  },
-  "mimpi 745": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 745, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "397",
-      "0675"
-    ]
-  },
-  "mimpi 746": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 746, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "381",
-      "5729"
-    ]
-  },
-  "mimpi 747": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 747, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "037",
-      "7741"
-    ]
-  },
-  "mimpi 748": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 748, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "200",
-      "2405"
-    ]
-  },
-  "mimpi 749": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 749, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "57",
-      "740",
-      "0905"
-    ]
-  },
-  "mimpi 750": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 750, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "805",
-      "4198"
-    ]
-  },
-  "mimpi 751": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 751, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "31",
-      "911",
-      "7398"
-    ]
-  },
-  "mimpi 752": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 752, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "171",
-      "7144"
-    ]
-  },
-  "mimpi 753": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 753, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "331",
-      "2666"
-    ]
-  },
-  "mimpi 754": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 754, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "283",
-      "0054"
-    ]
-  },
-  "mimpi 755": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 755, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "984",
-      "3754"
-    ]
-  },
-  "mimpi 756": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 756, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "14",
-      "366",
-      "2322"
-    ]
-  },
-  "mimpi 757": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 757, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "338",
-      "1421"
-    ]
-  },
-  "mimpi 758": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 758, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "183",
-      "5131"
-    ]
-  },
-  "mimpi 759": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 759, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "52",
-      "716",
-      "7827"
-    ]
-  },
-  "mimpi 760": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 760, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "215",
-      "0729"
-    ]
-  },
-  "mimpi 761": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 761, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "928",
-      "2925"
-    ]
-  },
-  "mimpi 762": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 762, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "394",
-      "3738"
-    ]
-  },
-  "mimpi 763": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 763, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "456",
-      "3542"
-    ]
-  },
-  "mimpi 764": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 764, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "03",
-      "596",
-      "1623"
-    ]
-  },
-  "mimpi 765": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 765, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "70",
-      "071",
-      "9324"
-    ]
-  },
-  "mimpi 766": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 766, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "24",
-      "184",
-      "1965"
-    ]
-  },
-  "mimpi 767": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 767, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "07",
-      "798",
-      "9802"
-    ]
-  },
-  "mimpi 768": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 768, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "20",
-      "834",
-      "0063"
-    ]
-  },
-  "mimpi 769": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 769, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "741",
-      "1642"
-    ]
-  },
-  "mimpi 770": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 770, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "103",
-      "7589"
-    ]
-  },
-  "mimpi 771": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 771, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "808",
-      "7114"
-    ]
-  },
-  "mimpi 772": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 772, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "012",
-      "4191"
-    ]
-  },
-  "mimpi 773": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 773, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "381",
-      "8473"
-    ]
-  },
-  "mimpi 774": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 774, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "979",
-      "8683"
-    ]
-  },
-  "mimpi 775": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 775, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "956",
-      "3844"
-    ]
-  },
-  "mimpi 776": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 776, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "933",
-      "4102"
-    ]
-  },
-  "mimpi 777": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 777, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "917",
-      "0569"
-    ]
-  },
-  "mimpi 778": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 778, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "321",
-      "0643"
-    ]
-  },
-  "mimpi 779": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 779, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "004",
-      "3434"
-    ]
-  },
-  "mimpi 780": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 780, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "618",
-      "3828"
-    ]
-  },
-  "mimpi 781": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 781, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "631",
-      "1664"
-    ]
-  },
-  "mimpi 782": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 782, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "39",
-      "262",
-      "0840"
-    ]
-  },
-  "mimpi 783": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 783, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "659",
-      "9088"
-    ]
-  },
-  "mimpi 784": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 784, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "622",
-      "9501"
-    ]
-  },
-  "mimpi 785": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 785, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "954",
-      "8802"
-    ]
-  },
-  "mimpi 786": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 786, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "19",
-      "981",
-      "0558"
-    ]
-  },
-  "mimpi 787": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 787, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "406",
-      "5779"
-    ]
-  },
-  "mimpi 788": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 788, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "59",
-      "835",
-      "7887"
-    ]
-  },
-  "mimpi 789": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 789, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "838",
-      "1937"
-    ]
-  },
-  "mimpi 790": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 790, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "877",
-      "3322"
-    ]
-  },
-  "mimpi 791": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 791, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "535",
-      "4770"
-    ]
-  },
-  "mimpi 792": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 792, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "22",
-      "003",
-      "7450"
-    ]
-  },
-  "mimpi 793": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 793, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "943",
-      "4131"
-    ]
-  },
-  "mimpi 794": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 794, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "477",
-      "6060"
-    ]
-  },
-  "mimpi 795": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 795, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "984",
-      "4170"
-    ]
-  },
-  "mimpi 796": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 796, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "110",
-      "2390"
-    ]
-  },
-  "mimpi 797": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 797, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "007",
-      "2641"
-    ]
-  },
-  "mimpi 798": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 798, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "93",
-      "353",
-      "5339"
-    ]
-  },
-  "mimpi 799": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 799, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "70",
-      "615",
-      "6036"
-    ]
-  },
-  "mimpi 800": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 800, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "30",
-      "169",
-      "5410"
-    ]
-  },
-  "mimpi 801": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 801, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "270",
-      "1414"
-    ]
-  },
-  "mimpi 802": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 802, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "70",
-      "100",
-      "1933"
-    ]
-  },
-  "mimpi 803": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 803, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "393",
-      "9351"
-    ]
-  },
-  "mimpi 804": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 804, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "876",
-      "0489"
-    ]
-  },
-  "mimpi 805": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 805, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "05",
-      "943",
-      "2480"
-    ]
-  },
-  "mimpi 806": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 806, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "283",
-      "0494"
-    ]
-  },
-  "mimpi 807": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 807, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "004",
-      "3223"
-    ]
-  },
-  "mimpi 808": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 808, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "321",
-      "4067"
-    ]
-  },
-  "mimpi 809": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 809, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "090",
-      "5385"
-    ]
-  },
-  "mimpi 810": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 810, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "434",
-      "7836"
-    ]
-  },
-  "mimpi 811": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 811, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "871",
-      "3793"
-    ]
-  },
-  "mimpi 812": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 812, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "250",
-      "7234"
-    ]
-  },
-  "mimpi 813": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 813, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "58",
-      "412",
-      "9555"
-    ]
-  },
-  "mimpi 814": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 814, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "715",
-      "8492"
-    ]
-  },
-  "mimpi 815": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 815, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "89",
-      "728",
-      "6644"
-    ]
-  },
-  "mimpi 816": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 816, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "77",
-      "804",
-      "0057"
-    ]
-  },
-  "mimpi 817": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 817, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "420",
-      "9140"
-    ]
-  },
-  "mimpi 818": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 818, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "618",
-      "1413"
-    ]
-  },
-  "mimpi 819": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 819, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "75",
-      "376",
-      "6284"
-    ]
-  },
-  "mimpi 820": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 820, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "46",
-      "002",
-      "4330"
-    ]
-  },
-  "mimpi 821": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 821, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "066",
-      "7911"
-    ]
-  },
-  "mimpi 822": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 822, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "04",
-      "587",
-      "9602"
-    ]
-  },
-  "mimpi 823": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 823, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "30",
-      "755",
-      "8210"
-    ]
-  },
-  "mimpi 824": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 824, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "36",
-      "582",
-      "5719"
-    ]
-  },
-  "mimpi 825": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 825, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "531",
-      "1896"
-    ]
-  },
-  "mimpi 826": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 826, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "34",
-      "128",
-      "3786"
-    ]
-  },
-  "mimpi 827": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 827, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "096",
-      "9969"
-    ]
-  },
-  "mimpi 828": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 828, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "23",
-      "843",
-      "5304"
-    ]
-  },
-  "mimpi 829": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 829, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "719",
-      "7556"
-    ]
-  },
-  "mimpi 830": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 830, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "330",
-      "3227"
-    ]
-  },
-  "mimpi 831": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 831, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "70",
-      "324",
-      "8960"
-    ]
-  },
-  "mimpi 832": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 832, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "353",
-      "0751"
-    ]
-  },
-  "mimpi 833": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 833, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "37",
-      "613",
-      "9299"
-    ]
-  },
-  "mimpi 834": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 834, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "773",
-      "1989"
-    ]
-  },
-  "mimpi 835": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 835, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "35",
-      "434",
-      "5586"
-    ]
-  },
-  "mimpi 836": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 836, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "259",
-      "6360"
-    ]
-  },
-  "mimpi 837": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 837, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "978",
-      "2028"
-    ]
-  },
-  "mimpi 838": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 838, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "97",
-      "500",
-      "3412"
-    ]
-  },
-  "mimpi 839": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 839, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "66",
-      "185",
-      "2523"
-    ]
-  },
-  "mimpi 840": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 840, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "391",
-      "2139"
-    ]
-  },
-  "mimpi 841": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 841, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "227",
-      "5692"
-    ]
-  },
-  "mimpi 842": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 842, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "825",
-      "4621"
-    ]
-  },
-  "mimpi 843": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 843, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "331",
-      "0877"
-    ]
-  },
-  "mimpi 844": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 844, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "10",
-      "447",
-      "1867"
-    ]
-  },
-  "mimpi 845": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 845, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "090",
-      "5992"
-    ]
-  },
-  "mimpi 846": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 846, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "134",
-      "8752"
-    ]
-  },
-  "mimpi 847": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 847, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "246",
-      "8367"
-    ]
-  },
-  "mimpi 848": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 848, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "084",
-      "4681"
-    ]
-  },
-  "mimpi 849": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 849, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "753",
-      "2773"
-    ]
-  },
-  "mimpi 850": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 850, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "80",
-      "839",
-      "0679"
-    ]
-  },
-  "mimpi 851": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 851, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "769",
-      "9076"
-    ]
-  },
-  "mimpi 852": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 852, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "692",
-      "6390"
-    ]
-  },
-  "mimpi 853": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 853, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "985",
-      "5288"
-    ]
-  },
-  "mimpi 854": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 854, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "85",
-      "926",
-      "7296"
-    ]
-  },
-  "mimpi 855": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 855, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "930",
-      "6721"
-    ]
-  },
-  "mimpi 856": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 856, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "383",
-      "7247"
-    ]
-  },
-  "mimpi 857": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 857, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "935",
-      "5677"
-    ]
-  },
-  "mimpi 858": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 858, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "540",
-      "8257"
-    ]
-  },
-  "mimpi 859": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 859, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "527",
-      "4063"
-    ]
-  },
-  "mimpi 860": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 860, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "21",
-      "954",
-      "4648"
-    ]
-  },
-  "mimpi 861": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 861, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "172",
-      "4369"
-    ]
-  },
-  "mimpi 862": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 862, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "55",
-      "979",
-      "3125"
-    ]
-  },
-  "mimpi 863": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 863, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "01",
-      "470",
-      "5693"
-    ]
-  },
-  "mimpi 864": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 864, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "69",
-      "705",
-      "7770"
-    ]
-  },
-  "mimpi 865": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 865, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "19",
-      "248",
-      "5407"
-    ]
-  },
-  "mimpi 866": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 866, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "528",
-      "7063"
-    ]
-  },
-  "mimpi 867": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 867, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "732",
-      "7445"
-    ]
-  },
-  "mimpi 868": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 868, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "78",
-      "841",
-      "8669"
-    ]
-  },
-  "mimpi 869": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 869, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "571",
-      "5239"
-    ]
-  },
-  "mimpi 870": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 870, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "38",
-      "975",
-      "8864"
-    ]
-  },
-  "mimpi 871": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 871, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "528",
-      "8812"
-    ]
-  },
-  "mimpi 872": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 872, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "59",
-      "100",
-      "3286"
-    ]
-  },
-  "mimpi 873": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 873, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "571",
-      "8795"
-    ]
-  },
-  "mimpi 874": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 874, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "18",
-      "085",
-      "1150"
-    ]
-  },
-  "mimpi 875": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 875, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "566",
-      "0113"
-    ]
-  },
-  "mimpi 876": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 876, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "947",
-      "9859"
-    ]
-  },
-  "mimpi 877": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 877, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "84",
-      "361",
-      "9862"
-    ]
-  },
-  "mimpi 878": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 878, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "15",
-      "622",
-      "0963"
-    ]
-  },
-  "mimpi 879": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 879, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "197",
-      "8586"
-    ]
-  },
-  "mimpi 880": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 880, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "583",
-      "9538"
-    ]
-  },
-  "mimpi 881": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 881, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "730",
-      "2106"
-    ]
-  },
-  "mimpi 882": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 882, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "484",
-      "9821"
-    ]
-  },
-  "mimpi 883": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 883, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "39",
-      "402",
-      "9273"
-    ]
-  },
-  "mimpi 884": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 884, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "99",
-      "869",
-      "5738"
-    ]
-  },
-  "mimpi 885": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 885, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "54",
-      "395",
-      "7827"
-    ]
-  },
-  "mimpi 886": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 886, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "672",
-      "0706"
-    ]
-  },
-  "mimpi 887": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 887, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "86",
-      "417",
-      "6585"
-    ]
-  },
-  "mimpi 888": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 888, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "852",
-      "1517"
-    ]
-  },
-  "mimpi 889": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 889, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "081",
-      "9878"
-    ]
-  },
-  "mimpi 890": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 890, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "953",
-      "6689"
-    ]
-  },
-  "mimpi 891": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 891, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "053",
-      "9498"
-    ]
-  },
-  "mimpi 892": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 892, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "731",
-      "4330"
-    ]
-  },
-  "mimpi 893": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 893, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "32",
-      "400",
-      "2070"
-    ]
-  },
-  "mimpi 894": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 894, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "007",
-      "4836"
-    ]
-  },
-  "mimpi 895": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 895, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "50",
-      "152",
-      "3378"
-    ]
-  },
-  "mimpi 896": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 896, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "59",
-      "002",
-      "0885"
-    ]
-  },
-  "mimpi 897": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 897, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "41",
-      "107",
-      "7936"
-    ]
-  },
-  "mimpi 898": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 898, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "839",
-      "6019"
-    ]
-  },
-  "mimpi 899": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 899, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "794",
-      "6427"
-    ]
-  },
-  "mimpi 900": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 900, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "83",
-      "616",
-      "3446"
-    ]
-  },
-  "mimpi 901": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 901, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "44",
-      "182",
-      "6440"
-    ]
-  },
-  "mimpi 902": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 902, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "196",
-      "0551"
-    ]
-  },
-  "mimpi 903": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 903, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "864",
-      "2396"
-    ]
-  },
-  "mimpi 904": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 904, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "08",
-      "453",
-      "1629"
-    ]
-  },
-  "mimpi 905": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 905, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "335",
-      "7712"
-    ]
-  },
-  "mimpi 906": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 906, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "658",
-      "3718"
-    ]
-  },
-  "mimpi 907": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 907, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "02",
-      "326",
-      "6908"
-    ]
-  },
-  "mimpi 908": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 908, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "110",
-      "5806"
-    ]
-  },
-  "mimpi 909": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 909, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "96",
-      "786",
-      "7468"
-    ]
-  },
-  "mimpi 910": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 910, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "53",
-      "212",
-      "1965"
-    ]
-  },
-  "mimpi 911": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 911, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "257",
-      "9279"
-    ]
-  },
-  "mimpi 912": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 912, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "92",
-      "865",
-      "2705"
-    ]
-  },
-  "mimpi 913": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 913, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "024",
-      "1314"
-    ]
-  },
-  "mimpi 914": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 914, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "16",
-      "095",
-      "1759"
-    ]
-  },
-  "mimpi 915": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 915, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "28",
-      "002",
-      "3131"
-    ]
-  },
-  "mimpi 916": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 916, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "442",
-      "7802"
-    ]
-  },
-  "mimpi 917": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 917, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "948",
-      "6525"
-    ]
-  },
-  "mimpi 918": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 918, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "06",
-      "074",
-      "3263"
-    ]
-  },
-  "mimpi 919": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 919, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "43",
-      "082",
-      "3548"
-    ]
-  },
-  "mimpi 920": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 920, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "455",
-      "8752"
-    ]
-  },
-  "mimpi 921": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 921, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "87",
-      "359",
-      "3458"
-    ]
-  },
-  "mimpi 922": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 922, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "68",
-      "742",
-      "9608"
-    ]
-  },
-  "mimpi 923": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 923, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "883",
-      "0450"
-    ]
-  },
-  "mimpi 924": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 924, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "13",
-      "666",
-      "7906"
-    ]
-  },
-  "mimpi 925": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 925, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "12",
-      "283",
-      "9339"
-    ]
-  },
-  "mimpi 926": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 926, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "549",
-      "2811"
-    ]
-  },
-  "mimpi 927": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 927, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "716",
-      "0089"
-    ]
-  },
-  "mimpi 928": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 928, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "054",
-      "4675"
-    ]
-  },
-  "mimpi 929": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 929, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "94",
-      "217",
-      "0981"
-    ]
-  },
-  "mimpi 930": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 930, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "335",
-      "8937"
-    ]
-  },
-  "mimpi 931": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 931, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "71",
-      "106",
-      "1769"
-    ]
-  },
-  "mimpi 932": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 932, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "81",
-      "442",
-      "4369"
-    ]
-  },
-  "mimpi 933": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 933, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "42",
-      "140",
-      "4336"
-    ]
-  },
-  "mimpi 934": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 934, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "51",
-      "561",
-      "5065"
-    ]
-  },
-  "mimpi 935": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 935, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "653",
-      "8312"
-    ]
-  },
-  "mimpi 936": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 936, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "850",
-      "0941"
-    ]
-  },
-  "mimpi 937": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 937, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "872",
-      "6791"
-    ]
-  },
-  "mimpi 938": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 938, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "48",
-      "372",
-      "4837"
-    ]
-  },
-  "mimpi 939": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 939, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "843",
-      "7979"
-    ]
-  },
-  "mimpi 940": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 940, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "45",
-      "488",
-      "8972"
-    ]
-  },
-  "mimpi 941": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 941, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "00",
-      "560",
-      "2943"
-    ]
-  },
-  "mimpi 942": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 942, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "888",
-      "9863"
-    ]
-  },
-  "mimpi 943": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 943, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "164",
-      "9200"
-    ]
-  },
-  "mimpi 944": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 944, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "533",
-      "9958"
-    ]
-  },
-  "mimpi 945": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 945, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "64",
-      "848",
-      "5941"
-    ]
-  },
-  "mimpi 946": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 946, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "859",
-      "0325"
-    ]
-  },
-  "mimpi 947": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 947, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "60",
-      "553",
-      "6561"
-    ]
-  },
-  "mimpi 948": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 948, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "09",
-      "807",
-      "2839"
-    ]
-  },
-  "mimpi 949": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 949, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "63",
-      "570",
-      "1549"
-    ]
-  },
-  "mimpi 950": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 950, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "524",
-      "6644"
-    ]
-  },
-  "mimpi 951": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 951, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "671",
-      "0364"
-    ]
-  },
-  "mimpi 952": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 952, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "22",
-      "264",
-      "4480"
-    ]
-  },
-  "mimpi 953": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 953, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "95",
-      "804",
-      "5024"
-    ]
-  },
-  "mimpi 954": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 954, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "914",
-      "7743"
-    ]
-  },
-  "mimpi 955": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 955, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "11",
-      "994",
-      "6253"
-    ]
-  },
-  "mimpi 956": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 956, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "72",
-      "422",
-      "1019"
-    ]
-  },
-  "mimpi 957": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 957, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "74",
-      "872",
-      "8132"
-    ]
-  },
-  "mimpi 958": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 958, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "61",
-      "413",
-      "9386"
-    ]
-  },
-  "mimpi 959": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 959, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "27",
-      "325",
-      "0425"
-    ]
-  },
-  "mimpi 960": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 960, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "62",
-      "636",
-      "9426"
-    ]
-  },
-  "mimpi 961": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 961, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "90",
-      "222",
-      "6326"
-    ]
-  },
-  "mimpi 962": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 962, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "91",
-      "057",
-      "8442"
-    ]
-  },
-  "mimpi 963": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 963, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "65",
-      "334",
-      "8723"
-    ]
-  },
-  "mimpi 964": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 964, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "25",
-      "003",
-      "5984"
-    ]
-  },
-  "mimpi 965": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 965, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "337",
-      "1151"
-    ]
-  },
-  "mimpi 966": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 966, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "47",
-      "607",
       "8564"
     ]
   },
-  "mimpi 967": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 967, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "menangis 3": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
     "angka": [
-      "40",
-      "095",
-      "1160"
+      "94",
+      "117",
+      "0326"
     ]
   },
-  "mimpi 968": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 968, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "naik kendaraan 4": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
     "angka": [
-      "88",
-      "943",
-      "8763"
+      "50",
+      "209",
+      "7635"
     ]
   },
-  "mimpi 969": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 969, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "melihat darah 5": {
+    "tafsir": "Akan mendapat kejutan emosional",
     "angka": [
-      "82",
-      "097",
-      "9051"
+      "44",
+      "633",
+      "0084"
     ]
   },
-  "mimpi 970": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 970, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "dikejar orang gila 6": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
     "angka": [
-      "04",
-      "963",
-      "9574"
+      "97",
+      "714",
+      "7065"
     ]
   },
-  "mimpi 971": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 971, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "jatuh dari tebing 7": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
     "angka": [
-      "02",
-      "683",
-      "2849"
+      "23",
+      "189",
+      "8504"
     ]
   },
-  "mimpi 972": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 972, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "menikah dengan orang asing 8": {
+    "tafsir": "Akan mengalami perubahan besar",
     "angka": [
-      "99",
-      "475",
-      "1331"
+      "27",
+      "205",
+      "5051"
     ]
   },
-  "mimpi 973": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 973, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "90",
-      "265",
-      "3772"
-    ]
-  },
-  "mimpi 974": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 974, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "82",
-      "326",
-      "6160"
-    ]
-  },
-  "mimpi 975": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 975, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "98",
-      "683",
-      "6129"
-    ]
-  },
-  "mimpi 976": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 976, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "73",
-      "150",
-      "6608"
-    ]
-  },
-  "mimpi 977": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 977, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "33",
-      "111",
-      "0739"
-    ]
-  },
-  "mimpi 978": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 978, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "29",
-      "753",
-      "7291"
-    ]
-  },
-  "mimpi 979": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 979, biasanya berkaitan dengan hal-hal unik atau simbolis.",
-    "angka": [
-      "15",
-      "141",
-      "7147"
-    ]
-  },
-  "mimpi 980": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 980, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "melihat bayi 9": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
     "angka": [
       "57",
-      "554",
-      "7512"
+      "324",
+      "7905"
     ]
   },
-  "mimpi 981": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 981, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "digigit ular 10": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
     "angka": [
-      "42",
-      "661",
-      "7792"
+      "90",
+      "759",
+      "6784"
     ]
   },
-  "mimpi 982": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 982, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "gigi copot 11": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "58",
+      "985",
+      "7398"
+    ]
+  },
+  "melihat hantu 12": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "63",
+      "045",
+      "0294"
+    ]
+  },
+  "menangis 13": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
     "angka": [
       "06",
-      "632",
-      "0675"
+      "624",
+      "7802"
     ]
   },
-  "mimpi 983": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 983, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "naik kendaraan 14": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
     "angka": [
-      "52",
-      "844",
-      "2594"
+      "99",
+      "112",
+      "9380"
     ]
   },
-  "mimpi 984": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 984, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "melihat darah 15": {
+    "tafsir": "Akan mendapat kejutan emosional",
     "angka": [
-      "06",
-      "755",
-      "4975"
+      "14",
+      "830",
+      "6752"
     ]
   },
-  "mimpi 985": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 985, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "dikejar orang gila 16": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
     "angka": [
-      "39",
-      "986",
-      "9776"
+      "77",
+      "388",
+      "9046"
     ]
   },
-  "mimpi 986": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 986, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "jatuh dari tebing 17": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
     "angka": [
-      "08",
-      "422",
-      "8630"
+      "97",
+      "459",
+      "8430"
     ]
   },
-  "mimpi 987": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 987, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "menikah dengan orang asing 18": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "83",
+      "737",
+      "4039"
+    ]
+  },
+  "melihat bayi 19": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
     "angka": [
       "04",
-      "819",
-      "1381"
+      "689",
+      "7849"
     ]
   },
-  "mimpi 988": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 988, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "digigit ular 20": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
     "angka": [
-      "02",
-      "243",
-      "3317"
+      "31",
+      "336",
+      "0730"
     ]
   },
-  "mimpi 989": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 989, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "gigi copot 21": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "81",
+      "834",
+      "9441"
+    ]
+  },
+  "melihat hantu 22": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "61",
+      "998",
+      "7492"
+    ]
+  },
+  "menangis 23": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "93",
+      "960",
+      "6345"
+    ]
+  },
+  "naik kendaraan 24": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "66",
+      "947",
+      "8304"
+    ]
+  },
+  "melihat darah 25": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "84",
+      "765",
+      "8842"
+    ]
+  },
+  "dikejar orang gila 26": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "70",
+      "863",
+      "9620"
+    ]
+  },
+  "jatuh dari tebing 27": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
     "angka": [
       "55",
-      "048",
-      "2740"
+      "193",
+      "1940"
     ]
   },
-  "mimpi 990": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 990, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "menikah dengan orang asing 28": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "92",
+      "399",
+      "7940"
+    ]
+  },
+  "melihat bayi 29": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "91",
+      "713",
+      "9210"
+    ]
+  },
+  "digigit ular 30": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "08",
+      "363",
+      "0803"
+    ]
+  },
+  "gigi copot 31": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "72",
+      "164",
+      "9971"
+    ]
+  },
+  "melihat hantu 32": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "64",
+      "317",
+      "3802"
+    ]
+  },
+  "menangis 33": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "92",
+      "169",
+      "8637"
+    ]
+  },
+  "naik kendaraan 34": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "34",
+      "256",
+      "8349"
+    ]
+  },
+  "melihat darah 35": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "87",
+      "211",
+      "1896"
+    ]
+  },
+  "dikejar orang gila 36": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "23",
+      "742",
+      "0936"
+    ]
+  },
+  "jatuh dari tebing 37": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "69",
+      "894",
+      "6126"
+    ]
+  },
+  "menikah dengan orang asing 38": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "21",
+      "367",
+      "3742"
+    ]
+  },
+  "melihat bayi 39": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "15",
+      "721",
+      "5698"
+    ]
+  },
+  "digigit ular 40": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "11",
+      "277",
+      "2237"
+    ]
+  },
+  "gigi copot 41": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "01",
+      "600",
+      "6361"
+    ]
+  },
+  "melihat hantu 42": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "11",
+      "728",
+      "8132"
+    ]
+  },
+  "menangis 43": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "42",
+      "949",
+      "0347"
+    ]
+  },
+  "naik kendaraan 44": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "45",
+      "858",
+      "7897"
+    ]
+  },
+  "melihat darah 45": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "17",
+      "913",
+      "0864"
+    ]
+  },
+  "dikejar orang gila 46": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "65",
+      "654",
+      "4637"
+    ]
+  },
+  "jatuh dari tebing 47": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "12",
+      "716",
+      "3084"
+    ]
+  },
+  "menikah dengan orang asing 48": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "59",
+      "656",
+      "7365"
+    ]
+  },
+  "melihat bayi 49": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "33",
+      "203",
+      "6473"
+    ]
+  },
+  "digigit ular 50": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "83",
+      "664",
+      "0458"
+    ]
+  },
+  "gigi copot 51": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "46",
+      "277",
+      "9007"
+    ]
+  },
+  "melihat hantu 52": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "25",
+      "419",
+      "5402"
+    ]
+  },
+  "menangis 53": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "29",
+      "133",
+      "4606"
+    ]
+  },
+  "naik kendaraan 54": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "03",
+      "316",
+      "9838"
+    ]
+  },
+  "melihat darah 55": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "97",
+      "832",
+      "6453"
+    ]
+  },
+  "dikejar orang gila 56": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "69",
+      "075",
+      "4388"
+    ]
+  },
+  "jatuh dari tebing 57": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "95",
+      "612",
+      "5208"
+    ]
+  },
+  "menikah dengan orang asing 58": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "05",
+      "843",
+      "9493"
+    ]
+  },
+  "melihat bayi 59": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "52",
+      "848",
+      "6507"
+    ]
+  },
+  "digigit ular 60": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "25",
+      "855",
+      "1392"
+    ]
+  },
+  "gigi copot 61": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "71",
+      "335",
+      "0477"
+    ]
+  },
+  "melihat hantu 62": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "63",
+      "011",
+      "6841"
+    ]
+  },
+  "menangis 63": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "53",
+      "077",
+      "4147"
+    ]
+  },
+  "naik kendaraan 64": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "20",
+      "538",
+      "4623"
+    ]
+  },
+  "melihat darah 65": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "90",
+      "924",
+      "6339"
+    ]
+  },
+  "dikejar orang gila 66": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "12",
+      "863",
+      "8794"
+    ]
+  },
+  "jatuh dari tebing 67": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "11",
+      "001",
+      "4087"
+    ]
+  },
+  "menikah dengan orang asing 68": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "90",
+      "059",
+      "4035"
+    ]
+  },
+  "melihat bayi 69": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "91",
+      "797",
+      "3449"
+    ]
+  },
+  "digigit ular 70": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "25",
+      "043",
+      "5242"
+    ]
+  },
+  "gigi copot 71": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "44",
+      "789",
+      "5986"
+    ]
+  },
+  "melihat hantu 72": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "25",
+      "622",
+      "2018"
+    ]
+  },
+  "menangis 73": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "98",
+      "042",
+      "9914"
+    ]
+  },
+  "naik kendaraan 74": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "53",
+      "961",
+      "6462"
+    ]
+  },
+  "melihat darah 75": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "71",
+      "781",
+      "2910"
+    ]
+  },
+  "dikejar orang gila 76": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "71",
+      "562",
+      "7100"
+    ]
+  },
+  "jatuh dari tebing 77": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "91",
+      "440",
+      "7498"
+    ]
+  },
+  "menikah dengan orang asing 78": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "88",
+      "108",
+      "3062"
+    ]
+  },
+  "melihat bayi 79": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "46",
+      "336",
+      "5458"
+    ]
+  },
+  "digigit ular 80": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "61",
+      "049",
+      "1783"
+    ]
+  },
+  "gigi copot 81": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "38",
+      "541",
+      "1908"
+    ]
+  },
+  "melihat hantu 82": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "00",
+      "363",
+      "0192"
+    ]
+  },
+  "menangis 83": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "78",
+      "373",
+      "7008"
+    ]
+  },
+  "naik kendaraan 84": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "03",
+      "751",
+      "1444"
+    ]
+  },
+  "melihat darah 85": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "92",
+      "947",
+      "4457"
+    ]
+  },
+  "dikejar orang gila 86": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "99",
+      "572",
+      "7367"
+    ]
+  },
+  "jatuh dari tebing 87": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "65",
+      "878",
+      "1135"
+    ]
+  },
+  "menikah dengan orang asing 88": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "35",
+      "779",
+      "7640"
+    ]
+  },
+  "melihat bayi 89": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "90",
+      "065",
+      "1229"
+    ]
+  },
+  "digigit ular 90": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "75",
+      "400",
+      "1505"
+    ]
+  },
+  "gigi copot 91": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "07",
+      "755",
+      "5519"
+    ]
+  },
+  "melihat hantu 92": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "86",
+      "314",
+      "8028"
+    ]
+  },
+  "menangis 93": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "08",
+      "951",
+      "5811"
+    ]
+  },
+  "naik kendaraan 94": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "10",
+      "813",
+      "7307"
+    ]
+  },
+  "melihat darah 95": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "15",
+      "094",
+      "1332"
+    ]
+  },
+  "dikejar orang gila 96": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "02",
+      "571",
+      "5271"
+    ]
+  },
+  "jatuh dari tebing 97": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "36",
+      "765",
+      "0498"
+    ]
+  },
+  "menikah dengan orang asing 98": {
+    "tafsir": "Akan mengalami perubahan besar",
     "angka": [
       "04",
-      "085",
+      "712",
+      "7074"
+    ]
+  },
+  "melihat bayi 99": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "55",
+      "173",
+      "3353"
+    ]
+  },
+  "digigit ular 100": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "51",
+      "196",
+      "8576"
+    ]
+  },
+  "gigi copot 101": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "46",
+      "755",
+      "3820"
+    ]
+  },
+  "melihat hantu 102": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "35",
+      "163",
+      "8233"
+    ]
+  },
+  "menangis 103": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "60",
+      "027",
+      "0591"
+    ]
+  },
+  "naik kendaraan 104": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "92",
+      "518",
+      "8595"
+    ]
+  },
+  "melihat darah 105": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "57",
+      "906",
+      "2485"
+    ]
+  },
+  "dikejar orang gila 106": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "08",
+      "654",
+      "7385"
+    ]
+  },
+  "jatuh dari tebing 107": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "15",
+      "554",
+      "7585"
+    ]
+  },
+  "menikah dengan orang asing 108": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "94",
+      "202",
+      "9045"
+    ]
+  },
+  "melihat bayi 109": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "99",
+      "464",
+      "6277"
+    ]
+  },
+  "digigit ular 110": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "55",
+      "766",
+      "4299"
+    ]
+  },
+  "gigi copot 111": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "82",
+      "549",
+      "0072"
+    ]
+  },
+  "melihat hantu 112": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "85",
+      "112",
+      "9570"
+    ]
+  },
+  "menangis 113": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "97",
+      "924",
+      "1099"
+    ]
+  },
+  "naik kendaraan 114": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "05",
+      "961",
+      "2430"
+    ]
+  },
+  "melihat darah 115": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "85",
+      "803",
+      "9319"
+    ]
+  },
+  "dikejar orang gila 116": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "69",
+      "081",
+      "9477"
+    ]
+  },
+  "jatuh dari tebing 117": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "11",
+      "334",
+      "1366"
+    ]
+  },
+  "menikah dengan orang asing 118": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "83",
+      "282",
+      "8023"
+    ]
+  },
+  "melihat bayi 119": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "39",
+      "528",
+      "7956"
+    ]
+  },
+  "digigit ular 120": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "35",
+      "678",
+      "5918"
+    ]
+  },
+  "gigi copot 121": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "11",
+      "071",
+      "9879"
+    ]
+  },
+  "melihat hantu 122": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "97",
+      "177",
+      "7320"
+    ]
+  },
+  "menangis 123": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "34",
+      "236",
+      "6630"
+    ]
+  },
+  "naik kendaraan 124": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "95",
+      "098",
+      "3710"
+    ]
+  },
+  "melihat darah 125": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "36",
+      "347",
+      "1183"
+    ]
+  },
+  "dikejar orang gila 126": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "27",
+      "521",
+      "6245"
+    ]
+  },
+  "jatuh dari tebing 127": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "94",
+      "907",
+      "6668"
+    ]
+  },
+  "menikah dengan orang asing 128": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "61",
+      "406",
+      "4734"
+    ]
+  },
+  "melihat bayi 129": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "93",
+      "332",
+      "1743"
+    ]
+  },
+  "digigit ular 130": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "12",
+      "853",
+      "8071"
+    ]
+  },
+  "gigi copot 131": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "91",
+      "338",
+      "4492"
+    ]
+  },
+  "melihat hantu 132": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "85",
+      "685",
+      "3590"
+    ]
+  },
+  "menangis 133": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "37",
+      "367",
+      "5622"
+    ]
+  },
+  "naik kendaraan 134": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "08",
+      "784",
+      "8599"
+    ]
+  },
+  "melihat darah 135": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "46",
+      "194",
+      "0953"
+    ]
+  },
+  "dikejar orang gila 136": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "21",
+      "866",
+      "4553"
+    ]
+  },
+  "jatuh dari tebing 137": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "30",
+      "730",
+      "2184"
+    ]
+  },
+  "menikah dengan orang asing 138": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "10",
+      "869",
+      "2982"
+    ]
+  },
+  "melihat bayi 139": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "67",
+      "322",
+      "5693"
+    ]
+  },
+  "digigit ular 140": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "08",
+      "137",
+      "2392"
+    ]
+  },
+  "gigi copot 141": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "37",
+      "640",
+      "9492"
+    ]
+  },
+  "melihat hantu 142": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "90",
+      "074",
+      "9268"
+    ]
+  },
+  "menangis 143": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "00",
+      "898",
+      "4947"
+    ]
+  },
+  "naik kendaraan 144": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "30",
+      "944",
+      "2051"
+    ]
+  },
+  "melihat darah 145": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "49",
+      "487",
+      "0422"
+    ]
+  },
+  "dikejar orang gila 146": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "84",
+      "029",
+      "5100"
+    ]
+  },
+  "jatuh dari tebing 147": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "63",
+      "671",
+      "5809"
+    ]
+  },
+  "menikah dengan orang asing 148": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "18",
+      "359",
+      "5829"
+    ]
+  },
+  "melihat bayi 149": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "65",
+      "536",
+      "9457"
+    ]
+  },
+  "digigit ular 150": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "05",
+      "451",
+      "8380"
+    ]
+  },
+  "gigi copot 151": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "59",
+      "447",
+      "4557"
+    ]
+  },
+  "melihat hantu 152": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "62",
+      "585",
+      "7266"
+    ]
+  },
+  "menangis 153": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "94",
+      "462",
+      "3484"
+    ]
+  },
+  "naik kendaraan 154": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "78",
+      "836",
+      "2304"
+    ]
+  },
+  "melihat darah 155": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "38",
+      "865",
+      "7248"
+    ]
+  },
+  "dikejar orang gila 156": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "68",
+      "388",
+      "8040"
+    ]
+  },
+  "jatuh dari tebing 157": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "29",
+      "024",
+      "0200"
+    ]
+  },
+  "menikah dengan orang asing 158": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "37",
+      "149",
+      "2266"
+    ]
+  },
+  "melihat bayi 159": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "44",
+      "045",
+      "9031"
+    ]
+  },
+  "digigit ular 160": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "15",
+      "385",
+      "8196"
+    ]
+  },
+  "gigi copot 161": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "83",
+      "663",
+      "6145"
+    ]
+  },
+  "melihat hantu 162": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "44",
+      "104",
+      "1756"
+    ]
+  },
+  "menangis 163": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "51",
+      "014",
+      "7459"
+    ]
+  },
+  "naik kendaraan 164": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "15",
+      "806",
+      "6484"
+    ]
+  },
+  "melihat darah 165": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "62",
+      "817",
+      "8440"
+    ]
+  },
+  "dikejar orang gila 166": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "27",
+      "880",
+      "3553"
+    ]
+  },
+  "jatuh dari tebing 167": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "87",
+      "020",
+      "1891"
+    ]
+  },
+  "menikah dengan orang asing 168": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "36",
+      "322",
+      "5093"
+    ]
+  },
+  "melihat bayi 169": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "62",
+      "344",
+      "4265"
+    ]
+  },
+  "digigit ular 170": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "39",
+      "361",
+      "7014"
+    ]
+  },
+  "gigi copot 171": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "47",
+      "792",
+      "7602"
+    ]
+  },
+  "melihat hantu 172": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "89",
+      "329",
+      "5723"
+    ]
+  },
+  "menangis 173": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "09",
+      "033",
+      "9519"
+    ]
+  },
+  "naik kendaraan 174": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "68",
+      "138",
+      "0305"
+    ]
+  },
+  "melihat darah 175": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "02",
+      "014",
+      "4689"
+    ]
+  },
+  "dikejar orang gila 176": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "63",
+      "553",
+      "1088"
+    ]
+  },
+  "jatuh dari tebing 177": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "05",
+      "702",
+      "3718"
+    ]
+  },
+  "menikah dengan orang asing 178": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "27",
+      "675",
+      "3326"
+    ]
+  },
+  "melihat bayi 179": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "22",
+      "575",
+      "4416"
+    ]
+  },
+  "digigit ular 180": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "86",
+      "483",
+      "7098"
+    ]
+  },
+  "gigi copot 181": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "48",
+      "749",
+      "8559"
+    ]
+  },
+  "melihat hantu 182": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "20",
+      "725",
+      "2037"
+    ]
+  },
+  "menangis 183": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "21",
+      "632",
+      "5572"
+    ]
+  },
+  "naik kendaraan 184": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "95",
+      "430",
+      "0380"
+    ]
+  },
+  "melihat darah 185": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "00",
+      "693",
+      "6631"
+    ]
+  },
+  "dikejar orang gila 186": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "53",
+      "383",
+      "4379"
+    ]
+  },
+  "jatuh dari tebing 187": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "29",
+      "465",
+      "3021"
+    ]
+  },
+  "menikah dengan orang asing 188": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "26",
+      "946",
+      "1418"
+    ]
+  },
+  "melihat bayi 189": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "01",
+      "595",
+      "1144"
+    ]
+  },
+  "digigit ular 190": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "15",
+      "785",
+      "8652"
+    ]
+  },
+  "gigi copot 191": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "03",
+      "051",
+      "0115"
+    ]
+  },
+  "melihat hantu 192": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "23",
+      "273",
+      "6630"
+    ]
+  },
+  "menangis 193": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "94",
+      "757",
+      "6713"
+    ]
+  },
+  "naik kendaraan 194": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "15",
+      "335",
+      "0455"
+    ]
+  },
+  "melihat darah 195": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "26",
+      "933",
+      "1742"
+    ]
+  },
+  "dikejar orang gila 196": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "23",
+      "588",
+      "2957"
+    ]
+  },
+  "jatuh dari tebing 197": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "94",
+      "096",
+      "9771"
+    ]
+  },
+  "menikah dengan orang asing 198": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "90",
+      "056",
+      "0937"
+    ]
+  },
+  "melihat bayi 199": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "94",
+      "329",
+      "4250"
+    ]
+  },
+  "digigit ular 200": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "16",
+      "627",
+      "5155"
+    ]
+  },
+  "gigi copot 201": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "86",
+      "952",
+      "1552"
+    ]
+  },
+  "melihat hantu 202": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "36",
+      "935",
+      "0701"
+    ]
+  },
+  "menangis 203": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "95",
+      "578",
+      "8247"
+    ]
+  },
+  "naik kendaraan 204": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "96",
+      "528",
+      "5651"
+    ]
+  },
+  "melihat darah 205": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "90",
+      "633",
+      "2383"
+    ]
+  },
+  "dikejar orang gila 206": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "34",
+      "877",
+      "8142"
+    ]
+  },
+  "jatuh dari tebing 207": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "01",
+      "931",
+      "5569"
+    ]
+  },
+  "menikah dengan orang asing 208": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "72",
+      "663",
+      "8810"
+    ]
+  },
+  "melihat bayi 209": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "23",
+      "209",
+      "6301"
+    ]
+  },
+  "digigit ular 210": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "52",
+      "672",
+      "9232"
+    ]
+  },
+  "gigi copot 211": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "13",
+      "361",
+      "1400"
+    ]
+  },
+  "melihat hantu 212": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "30",
+      "272",
+      "7329"
+    ]
+  },
+  "menangis 213": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "24",
+      "985",
+      "2439"
+    ]
+  },
+  "naik kendaraan 214": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "25",
+      "614",
+      "7572"
+    ]
+  },
+  "melihat darah 215": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "04",
+      "606",
+      "4713"
+    ]
+  },
+  "dikejar orang gila 216": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "31",
+      "935",
+      "3135"
+    ]
+  },
+  "jatuh dari tebing 217": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "37",
+      "365",
+      "6455"
+    ]
+  },
+  "menikah dengan orang asing 218": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "25",
+      "048",
+      "7294"
+    ]
+  },
+  "melihat bayi 219": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "86",
+      "040",
+      "7889"
+    ]
+  },
+  "digigit ular 220": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "51",
+      "477",
+      "0389"
+    ]
+  },
+  "gigi copot 221": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "78",
+      "824",
+      "6543"
+    ]
+  },
+  "melihat hantu 222": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "89",
+      "830",
+      "6645"
+    ]
+  },
+  "menangis 223": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "88",
+      "983",
       "1690"
     ]
   },
-  "mimpi 991": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 991, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "naik kendaraan 224": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
     "angka": [
-      "05",
-      "169",
-      "8762"
+      "01",
+      "666",
+      "1358"
     ]
   },
-  "mimpi 992": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 992, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "melihat darah 225": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "92",
+      "515",
+      "5204"
+    ]
+  },
+  "dikejar orang gila 226": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "96",
+      "551",
+      "7080"
+    ]
+  },
+  "jatuh dari tebing 227": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "00",
+      "772",
+      "7547"
+    ]
+  },
+  "menikah dengan orang asing 228": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "44",
+      "716",
+      "7063"
+    ]
+  },
+  "melihat bayi 229": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "01",
+      "062",
+      "5070"
+    ]
+  },
+  "digigit ular 230": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "11",
+      "138",
+      "9825"
+    ]
+  },
+  "gigi copot 231": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "75",
+      "685",
+      "1615"
+    ]
+  },
+  "melihat hantu 232": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "68",
+      "728",
+      "6790"
+    ]
+  },
+  "menangis 233": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "57",
+      "278",
+      "3227"
+    ]
+  },
+  "naik kendaraan 234": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "33",
+      "261",
+      "8931"
+    ]
+  },
+  "melihat darah 235": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "48",
+      "567",
+      "1592"
+    ]
+  },
+  "dikejar orang gila 236": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "22",
+      "740",
+      "3614"
+    ]
+  },
+  "jatuh dari tebing 237": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
     "angka": [
       "84",
-      "369",
-      "2064"
+      "512",
+      "1907"
     ]
   },
-  "mimpi 993": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 993, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "menikah dengan orang asing 238": {
+    "tafsir": "Akan mengalami perubahan besar",
     "angka": [
-      "37",
-      "950",
-      "2950"
+      "57",
+      "623",
+      "0578"
     ]
   },
-  "mimpi 994": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 994, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "melihat bayi 239": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "36",
+      "293",
+      "9794"
+    ]
+  },
+  "digigit ular 240": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "74",
+      "130",
+      "3269"
+    ]
+  },
+  "gigi copot 241": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "12",
+      "118",
+      "6239"
+    ]
+  },
+  "melihat hantu 242": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "10",
+      "208",
+      "4068"
+    ]
+  },
+  "menangis 243": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "76",
+      "812",
+      "4642"
+    ]
+  },
+  "naik kendaraan 244": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "32",
+      "404",
+      "0631"
+    ]
+  },
+  "melihat darah 245": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "24",
+      "102",
+      "3722"
+    ]
+  },
+  "dikejar orang gila 246": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "58",
+      "595",
+      "7741"
+    ]
+  },
+  "jatuh dari tebing 247": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "81",
+      "863",
+      "7589"
+    ]
+  },
+  "menikah dengan orang asing 248": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "34",
+      "475",
+      "3488"
+    ]
+  },
+  "melihat bayi 249": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
     "angka": [
       "97",
-      "395",
-      "6146"
+      "385",
+      "0542"
     ]
   },
-  "mimpi 995": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 995, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "digigit ular 250": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
     "angka": [
-      "72",
-      "708",
-      "7222"
+      "04",
+      "326",
+      "9972"
     ]
   },
-  "mimpi 996": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 996, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "gigi copot 251": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "89",
+      "792",
+      "4919"
+    ]
+  },
+  "melihat hantu 252": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "12",
+      "669",
+      "4113"
+    ]
+  },
+  "menangis 253": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "81",
+      "326",
+      "4210"
+    ]
+  },
+  "naik kendaraan 254": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "77",
+      "856",
+      "7469"
+    ]
+  },
+  "melihat darah 255": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "32",
+      "361",
+      "7139"
+    ]
+  },
+  "dikejar orang gila 256": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
     "angka": [
       "17",
-      "722",
-      "5732"
+      "435",
+      "4225"
     ]
   },
-  "mimpi 997": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 997, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "jatuh dari tebing 257": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "55",
+      "768",
+      "3012"
+    ]
+  },
+  "menikah dengan orang asing 258": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "55",
+      "003",
+      "6100"
+    ]
+  },
+  "melihat bayi 259": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "68",
+      "490",
+      "6125"
+    ]
+  },
+  "digigit ular 260": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "43",
+      "653",
+      "6047"
+    ]
+  },
+  "gigi copot 261": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "49",
+      "505",
+      "8427"
+    ]
+  },
+  "melihat hantu 262": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "91",
+      "355",
+      "9186"
+    ]
+  },
+  "menangis 263": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "07",
+      "006",
+      "4299"
+    ]
+  },
+  "naik kendaraan 264": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "46",
+      "034",
+      "7620"
+    ]
+  },
+  "melihat darah 265": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "72",
+      "101",
+      "7208"
+    ]
+  },
+  "dikejar orang gila 266": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "33",
+      "650",
+      "9725"
+    ]
+  },
+  "jatuh dari tebing 267": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "56",
+      "185",
+      "4435"
+    ]
+  },
+  "menikah dengan orang asing 268": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "72",
+      "692",
+      "0538"
+    ]
+  },
+  "melihat bayi 269": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "86",
+      "245",
+      "7239"
+    ]
+  },
+  "digigit ular 270": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "01",
+      "783",
+      "3939"
+    ]
+  },
+  "gigi copot 271": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "38",
+      "943",
+      "0404"
+    ]
+  },
+  "melihat hantu 272": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "72",
+      "133",
+      "0164"
+    ]
+  },
+  "menangis 273": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "05",
+      "833",
+      "4548"
+    ]
+  },
+  "naik kendaraan 274": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "50",
+      "337",
+      "4590"
+    ]
+  },
+  "melihat darah 275": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "62",
+      "773",
+      "8440"
+    ]
+  },
+  "dikejar orang gila 276": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "83",
+      "805",
+      "1898"
+    ]
+  },
+  "jatuh dari tebing 277": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "89",
+      "638",
+      "3981"
+    ]
+  },
+  "menikah dengan orang asing 278": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "19",
+      "857",
+      "1745"
+    ]
+  },
+  "melihat bayi 279": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "59",
+      "378",
+      "6847"
+    ]
+  },
+  "digigit ular 280": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "90",
+      "151",
+      "0789"
+    ]
+  },
+  "gigi copot 281": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "09",
+      "197",
+      "6753"
+    ]
+  },
+  "melihat hantu 282": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "56",
+      "915",
+      "9927"
+    ]
+  },
+  "menangis 283": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "37",
+      "301",
+      "2419"
+    ]
+  },
+  "naik kendaraan 284": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "85",
+      "448",
+      "5065"
+    ]
+  },
+  "melihat darah 285": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "55",
+      "109",
+      "6718"
+    ]
+  },
+  "dikejar orang gila 286": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "60",
+      "360",
+      "6985"
+    ]
+  },
+  "jatuh dari tebing 287": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "19",
+      "568",
+      "7247"
+    ]
+  },
+  "menikah dengan orang asing 288": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "67",
+      "985",
+      "8145"
+    ]
+  },
+  "melihat bayi 289": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "99",
+      "470",
+      "2594"
+    ]
+  },
+  "digigit ular 290": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "73",
+      "778",
+      "5221"
+    ]
+  },
+  "gigi copot 291": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "62",
+      "121",
+      "3303"
+    ]
+  },
+  "melihat hantu 292": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "79",
+      "049",
+      "9798"
+    ]
+  },
+  "menangis 293": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "87",
+      "713",
+      "4383"
+    ]
+  },
+  "naik kendaraan 294": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "26",
+      "190",
+      "6903"
+    ]
+  },
+  "melihat darah 295": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "22",
+      "842",
+      "8761"
+    ]
+  },
+  "dikejar orang gila 296": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "54",
+      "998",
+      "3459"
+    ]
+  },
+  "jatuh dari tebing 297": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "12",
+      "992",
+      "8076"
+    ]
+  },
+  "menikah dengan orang asing 298": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "26",
+      "806",
+      "7012"
+    ]
+  },
+  "melihat bayi 299": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "15",
+      "934",
+      "1436"
+    ]
+  },
+  "digigit ular 300": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "24",
+      "296",
+      "8035"
+    ]
+  },
+  "gigi copot 301": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "72",
+      "520",
+      "6702"
+    ]
+  },
+  "melihat hantu 302": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "72",
+      "674",
+      "6218"
+    ]
+  },
+  "menangis 303": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "24",
+      "501",
+      "8005"
+    ]
+  },
+  "naik kendaraan 304": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "94",
+      "245",
+      "5411"
+    ]
+  },
+  "melihat darah 305": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "44",
+      "000",
+      "6178"
+    ]
+  },
+  "dikejar orang gila 306": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "76",
+      "362",
+      "0825"
+    ]
+  },
+  "jatuh dari tebing 307": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "17",
+      "668",
+      "2633"
+    ]
+  },
+  "menikah dengan orang asing 308": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "73",
+      "150",
+      "2536"
+    ]
+  },
+  "melihat bayi 309": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "05",
+      "769",
+      "4482"
+    ]
+  },
+  "digigit ular 310": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "61",
+      "718",
+      "8058"
+    ]
+  },
+  "gigi copot 311": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "28",
+      "590",
+      "3519"
+    ]
+  },
+  "melihat hantu 312": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "78",
+      "131",
+      "0738"
+    ]
+  },
+  "menangis 313": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "29",
+      "051",
+      "5825"
+    ]
+  },
+  "naik kendaraan 314": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "27",
+      "741",
+      "0853"
+    ]
+  },
+  "melihat darah 315": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "13",
+      "454",
+      "6681"
+    ]
+  },
+  "dikejar orang gila 316": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "13",
+      "648",
+      "4139"
+    ]
+  },
+  "jatuh dari tebing 317": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "66",
+      "181",
+      "0084"
+    ]
+  },
+  "menikah dengan orang asing 318": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "37",
+      "999",
+      "9855"
+    ]
+  },
+  "melihat bayi 319": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "71",
+      "126",
+      "3469"
+    ]
+  },
+  "digigit ular 320": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "32",
+      "779",
+      "6959"
+    ]
+  },
+  "gigi copot 321": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "85",
+      "844",
+      "9261"
+    ]
+  },
+  "melihat hantu 322": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "65",
+      "012",
+      "8470"
+    ]
+  },
+  "menangis 323": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "57",
+      "579",
+      "3721"
+    ]
+  },
+  "naik kendaraan 324": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "46",
+      "154",
+      "6610"
+    ]
+  },
+  "melihat darah 325": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "93",
+      "503",
+      "3522"
+    ]
+  },
+  "dikejar orang gila 326": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "16",
+      "935",
+      "0087"
+    ]
+  },
+  "jatuh dari tebing 327": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "41",
+      "456",
+      "0664"
+    ]
+  },
+  "menikah dengan orang asing 328": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "30",
+      "067",
+      "6229"
+    ]
+  },
+  "melihat bayi 329": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "61",
+      "222",
+      "7197"
+    ]
+  },
+  "digigit ular 330": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "82",
+      "620",
+      "7840"
+    ]
+  },
+  "gigi copot 331": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "67",
+      "390",
+      "1915"
+    ]
+  },
+  "melihat hantu 332": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "77",
+      "390",
+      "3838"
+    ]
+  },
+  "menangis 333": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "31",
+      "739",
+      "0936"
+    ]
+  },
+  "naik kendaraan 334": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "38",
+      "346",
+      "9744"
+    ]
+  },
+  "melihat darah 335": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "76",
+      "438",
+      "7134"
+    ]
+  },
+  "dikejar orang gila 336": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "70",
+      "391",
+      "0599"
+    ]
+  },
+  "jatuh dari tebing 337": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "02",
+      "304",
+      "6446"
+    ]
+  },
+  "menikah dengan orang asing 338": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "01",
+      "698",
+      "4503"
+    ]
+  },
+  "melihat bayi 339": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "19",
+      "332",
+      "7380"
+    ]
+  },
+  "digigit ular 340": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "93",
+      "075",
+      "2592"
+    ]
+  },
+  "gigi copot 341": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "61",
+      "470",
+      "4392"
+    ]
+  },
+  "melihat hantu 342": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "54",
+      "826",
+      "6627"
+    ]
+  },
+  "menangis 343": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "35",
+      "818",
+      "6804"
+    ]
+  },
+  "naik kendaraan 344": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "33",
+      "823",
+      "2666"
+    ]
+  },
+  "melihat darah 345": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "58",
+      "046",
+      "7369"
+    ]
+  },
+  "dikejar orang gila 346": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "87",
+      "150",
+      "2439"
+    ]
+  },
+  "jatuh dari tebing 347": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "60",
+      "567",
+      "3055"
+    ]
+  },
+  "menikah dengan orang asing 348": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "54",
+      "482",
+      "4994"
+    ]
+  },
+  "melihat bayi 349": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "05",
+      "055",
+      "9499"
+    ]
+  },
+  "digigit ular 350": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "86",
+      "466",
+      "2535"
+    ]
+  },
+  "gigi copot 351": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "57",
+      "006",
+      "5010"
+    ]
+  },
+  "melihat hantu 352": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
     "angka": [
       "39",
-      "784",
-      "8851"
+      "575",
+      "8345"
     ]
   },
-  "mimpi 998": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 998, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "menangis 353": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
     "angka": [
-      "40",
-      "340",
-      "5839"
+      "64",
+      "704",
+      "3726"
     ]
   },
-  "mimpi 999": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 999, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "naik kendaraan 354": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
     "angka": [
-      "14",
-      "035",
-      "8178"
+      "12",
+      "291",
+      "7957"
     ]
   },
-  "mimpi 1000": {
-    "tafsir": "Ini adalah tafsir mimpi nomor 1000, biasanya berkaitan dengan hal-hal unik atau simbolis.",
+  "melihat darah 355": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "51",
+      "795",
+      "4136"
+    ]
+  },
+  "dikejar orang gila 356": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "27",
+      "230",
+      "9365"
+    ]
+  },
+  "jatuh dari tebing 357": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "87",
+      "190",
+      "1144"
+    ]
+  },
+  "menikah dengan orang asing 358": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "56",
+      "250",
+      "7206"
+    ]
+  },
+  "melihat bayi 359": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "08",
+      "257",
+      "8904"
+    ]
+  },
+  "digigit ular 360": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "61",
+      "689",
+      "3743"
+    ]
+  },
+  "gigi copot 361": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "63",
+      "545",
+      "3763"
+    ]
+  },
+  "melihat hantu 362": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "55",
+      "794",
+      "6227"
+    ]
+  },
+  "menangis 363": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "07",
+      "347",
+      "0731"
+    ]
+  },
+  "naik kendaraan 364": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "61",
+      "006",
+      "9309"
+    ]
+  },
+  "melihat darah 365": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "51",
+      "696",
+      "4372"
+    ]
+  },
+  "dikejar orang gila 366": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "34",
+      "654",
+      "1349"
+    ]
+  },
+  "jatuh dari tebing 367": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "24",
+      "578",
+      "1866"
+    ]
+  },
+  "menikah dengan orang asing 368": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "46",
+      "054",
+      "2549"
+    ]
+  },
+  "melihat bayi 369": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "17",
+      "042",
+      "6695"
+    ]
+  },
+  "digigit ular 370": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "07",
+      "890",
+      "4080"
+    ]
+  },
+  "gigi copot 371": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "66",
+      "650",
+      "5224"
+    ]
+  },
+  "melihat hantu 372": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "31",
+      "856",
+      "9113"
+    ]
+  },
+  "menangis 373": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "45",
+      "064",
+      "4997"
+    ]
+  },
+  "naik kendaraan 374": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "44",
+      "481",
+      "8981"
+    ]
+  },
+  "melihat darah 375": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "32",
+      "864",
+      "6738"
+    ]
+  },
+  "dikejar orang gila 376": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "39",
+      "599",
+      "7211"
+    ]
+  },
+  "jatuh dari tebing 377": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "02",
+      "855",
+      "5157"
+    ]
+  },
+  "menikah dengan orang asing 378": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "71",
+      "562",
+      "3374"
+    ]
+  },
+  "melihat bayi 379": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "11",
+      "890",
+      "0393"
+    ]
+  },
+  "digigit ular 380": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "32",
+      "413",
+      "7403"
+    ]
+  },
+  "gigi copot 381": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "38",
+      "922",
+      "2735"
+    ]
+  },
+  "melihat hantu 382": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "32",
+      "790",
+      "9740"
+    ]
+  },
+  "menangis 383": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "88",
+      "885",
+      "3220"
+    ]
+  },
+  "naik kendaraan 384": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "55",
+      "278",
+      "8182"
+    ]
+  },
+  "melihat darah 385": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "78",
+      "466",
+      "0456"
+    ]
+  },
+  "dikejar orang gila 386": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "77",
+      "861",
+      "5794"
+    ]
+  },
+  "jatuh dari tebing 387": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "72",
+      "138",
+      "3129"
+    ]
+  },
+  "menikah dengan orang asing 388": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "15",
+      "033",
+      "5168"
+    ]
+  },
+  "melihat bayi 389": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "88",
+      "492",
+      "1053"
+    ]
+  },
+  "digigit ular 390": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "92",
+      "904",
+      "6922"
+    ]
+  },
+  "gigi copot 391": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "78",
+      "167",
+      "5482"
+    ]
+  },
+  "melihat hantu 392": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "34",
+      "098",
+      "6338"
+    ]
+  },
+  "menangis 393": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "55",
+      "574",
+      "6780"
+    ]
+  },
+  "naik kendaraan 394": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "96",
+      "479",
+      "3261"
+    ]
+  },
+  "melihat darah 395": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "95",
+      "621",
+      "7451"
+    ]
+  },
+  "dikejar orang gila 396": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "16",
+      "886",
+      "6372"
+    ]
+  },
+  "jatuh dari tebing 397": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "29",
+      "682",
+      "2060"
+    ]
+  },
+  "menikah dengan orang asing 398": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "47",
+      "341",
+      "1288"
+    ]
+  },
+  "melihat bayi 399": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "72",
+      "999",
+      "3589"
+    ]
+  },
+  "digigit ular 400": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "34",
+      "344",
+      "4240"
+    ]
+  },
+  "gigi copot 401": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "98",
+      "882",
+      "5361"
+    ]
+  },
+  "melihat hantu 402": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "23",
+      "042",
+      "2985"
+    ]
+  },
+  "menangis 403": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "97",
+      "474",
+      "1554"
+    ]
+  },
+  "naik kendaraan 404": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "33",
+      "368",
+      "2898"
+    ]
+  },
+  "melihat darah 405": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "31",
+      "879",
+      "4517"
+    ]
+  },
+  "dikejar orang gila 406": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "35",
+      "169",
+      "4664"
+    ]
+  },
+  "jatuh dari tebing 407": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
     "angka": [
       "20",
-      "959",
-      "5329"
+      "343",
+      "5779"
+    ]
+  },
+  "menikah dengan orang asing 408": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "99",
+      "711",
+      "2272"
+    ]
+  },
+  "melihat bayi 409": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "04",
+      "563",
+      "3347"
+    ]
+  },
+  "digigit ular 410": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "04",
+      "170",
+      "5195"
+    ]
+  },
+  "gigi copot 411": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "89",
+      "134",
+      "4156"
+    ]
+  },
+  "melihat hantu 412": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "74",
+      "888",
+      "3998"
+    ]
+  },
+  "menangis 413": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "87",
+      "848",
+      "5496"
+    ]
+  },
+  "naik kendaraan 414": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "53",
+      "994",
+      "4525"
+    ]
+  },
+  "melihat darah 415": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "46",
+      "736",
+      "6643"
+    ]
+  },
+  "dikejar orang gila 416": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "68",
+      "910",
+      "6845"
+    ]
+  },
+  "jatuh dari tebing 417": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "18",
+      "843",
+      "0604"
+    ]
+  },
+  "menikah dengan orang asing 418": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "31",
+      "933",
+      "4565"
+    ]
+  },
+  "melihat bayi 419": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "43",
+      "431",
+      "6104"
+    ]
+  },
+  "digigit ular 420": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "61",
+      "741",
+      "9585"
+    ]
+  },
+  "gigi copot 421": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "24",
+      "091",
+      "4065"
+    ]
+  },
+  "melihat hantu 422": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "15",
+      "148",
+      "1609"
+    ]
+  },
+  "menangis 423": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "59",
+      "943",
+      "0858"
+    ]
+  },
+  "naik kendaraan 424": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "25",
+      "100",
+      "1202"
+    ]
+  },
+  "melihat darah 425": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "62",
+      "255",
+      "9799"
+    ]
+  },
+  "dikejar orang gila 426": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "70",
+      "926",
+      "5398"
+    ]
+  },
+  "jatuh dari tebing 427": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "22",
+      "624",
+      "4204"
+    ]
+  },
+  "menikah dengan orang asing 428": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "13",
+      "486",
+      "5430"
+    ]
+  },
+  "melihat bayi 429": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "46",
+      "450",
+      "8857"
+    ]
+  },
+  "digigit ular 430": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "71",
+      "570",
+      "0031"
+    ]
+  },
+  "gigi copot 431": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "17",
+      "066",
+      "4412"
+    ]
+  },
+  "melihat hantu 432": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "53",
+      "933",
+      "3465"
+    ]
+  },
+  "menangis 433": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "87",
+      "769",
+      "8106"
+    ]
+  },
+  "naik kendaraan 434": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "48",
+      "485",
+      "7476"
+    ]
+  },
+  "melihat darah 435": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "83",
+      "491",
+      "0302"
+    ]
+  },
+  "dikejar orang gila 436": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "47",
+      "283",
+      "2903"
+    ]
+  },
+  "jatuh dari tebing 437": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "91",
+      "503",
+      "9205"
+    ]
+  },
+  "menikah dengan orang asing 438": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "14",
+      "384",
+      "6188"
+    ]
+  },
+  "melihat bayi 439": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "65",
+      "125",
+      "8647"
+    ]
+  },
+  "digigit ular 440": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "32",
+      "559",
+      "9418"
+    ]
+  },
+  "gigi copot 441": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "25",
+      "183",
+      "3398"
+    ]
+  },
+  "melihat hantu 442": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "79",
+      "441",
+      "1364"
+    ]
+  },
+  "menangis 443": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "20",
+      "254",
+      "9343"
+    ]
+  },
+  "naik kendaraan 444": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "78",
+      "014",
+      "1266"
+    ]
+  },
+  "melihat darah 445": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "36",
+      "514",
+      "5741"
+    ]
+  },
+  "dikejar orang gila 446": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "65",
+      "812",
+      "3392"
+    ]
+  },
+  "jatuh dari tebing 447": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "98",
+      "740",
+      "0566"
+    ]
+  },
+  "menikah dengan orang asing 448": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "06",
+      "103",
+      "0087"
+    ]
+  },
+  "melihat bayi 449": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "83",
+      "461",
+      "2059"
+    ]
+  },
+  "digigit ular 450": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "54",
+      "168",
+      "6231"
+    ]
+  },
+  "gigi copot 451": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "31",
+      "492",
+      "5891"
+    ]
+  },
+  "melihat hantu 452": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "91",
+      "435",
+      "2582"
+    ]
+  },
+  "menangis 453": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "21",
+      "933",
+      "3167"
+    ]
+  },
+  "naik kendaraan 454": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "18",
+      "095",
+      "1096"
+    ]
+  },
+  "melihat darah 455": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "82",
+      "290",
+      "6239"
+    ]
+  },
+  "dikejar orang gila 456": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "39",
+      "100",
+      "5536"
+    ]
+  },
+  "jatuh dari tebing 457": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "64",
+      "369",
+      "1678"
+    ]
+  },
+  "menikah dengan orang asing 458": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "03",
+      "440",
+      "1564"
+    ]
+  },
+  "melihat bayi 459": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "02",
+      "255",
+      "4709"
+    ]
+  },
+  "digigit ular 460": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "23",
+      "014",
+      "3626"
+    ]
+  },
+  "gigi copot 461": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "23",
+      "254",
+      "2115"
+    ]
+  },
+  "melihat hantu 462": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "94",
+      "766",
+      "4061"
+    ]
+  },
+  "menangis 463": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "79",
+      "448",
+      "0446"
+    ]
+  },
+  "naik kendaraan 464": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "96",
+      "271",
+      "1009"
+    ]
+  },
+  "melihat darah 465": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "83",
+      "834",
+      "7862"
+    ]
+  },
+  "dikejar orang gila 466": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "19",
+      "905",
+      "5667"
+    ]
+  },
+  "jatuh dari tebing 467": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "52",
+      "342",
+      "8381"
+    ]
+  },
+  "menikah dengan orang asing 468": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "84",
+      "504",
+      "1361"
+    ]
+  },
+  "melihat bayi 469": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "26",
+      "365",
+      "7731"
+    ]
+  },
+  "digigit ular 470": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "29",
+      "610",
+      "0695"
+    ]
+  },
+  "gigi copot 471": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "14",
+      "518",
+      "5078"
+    ]
+  },
+  "melihat hantu 472": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "53",
+      "556",
+      "6009"
+    ]
+  },
+  "menangis 473": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "22",
+      "801",
+      "6786"
+    ]
+  },
+  "naik kendaraan 474": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "81",
+      "709",
+      "2608"
+    ]
+  },
+  "melihat darah 475": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "14",
+      "158",
+      "0764"
+    ]
+  },
+  "dikejar orang gila 476": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "93",
+      "557",
+      "1044"
+    ]
+  },
+  "jatuh dari tebing 477": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "28",
+      "052",
+      "4567"
+    ]
+  },
+  "menikah dengan orang asing 478": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "54",
+      "040",
+      "0879"
+    ]
+  },
+  "melihat bayi 479": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "05",
+      "012",
+      "7166"
+    ]
+  },
+  "digigit ular 480": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "13",
+      "845",
+      "4713"
+    ]
+  },
+  "gigi copot 481": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "65",
+      "566",
+      "8103"
+    ]
+  },
+  "melihat hantu 482": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "46",
+      "634",
+      "0938"
+    ]
+  },
+  "menangis 483": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "53",
+      "208",
+      "9557"
+    ]
+  },
+  "naik kendaraan 484": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "06",
+      "257",
+      "8307"
+    ]
+  },
+  "melihat darah 485": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "24",
+      "882",
+      "4569"
+    ]
+  },
+  "dikejar orang gila 486": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "89",
+      "541",
+      "0613"
+    ]
+  },
+  "jatuh dari tebing 487": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "08",
+      "413",
+      "7367"
+    ]
+  },
+  "menikah dengan orang asing 488": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "73",
+      "563",
+      "3707"
+    ]
+  },
+  "melihat bayi 489": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "59",
+      "185",
+      "7358"
+    ]
+  },
+  "digigit ular 490": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "95",
+      "592",
+      "5245"
+    ]
+  },
+  "gigi copot 491": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "20",
+      "151",
+      "0929"
+    ]
+  },
+  "melihat hantu 492": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "81",
+      "990",
+      "0202"
+    ]
+  },
+  "menangis 493": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "40",
+      "876",
+      "9944"
+    ]
+  },
+  "naik kendaraan 494": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "45",
+      "751",
+      "1886"
+    ]
+  },
+  "melihat darah 495": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "47",
+      "365",
+      "3575"
+    ]
+  },
+  "dikejar orang gila 496": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "49",
+      "278",
+      "3417"
+    ]
+  },
+  "jatuh dari tebing 497": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "63",
+      "035",
+      "4463"
+    ]
+  },
+  "menikah dengan orang asing 498": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "51",
+      "499",
+      "8106"
+    ]
+  },
+  "melihat bayi 499": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "27",
+      "274",
+      "1788"
+    ]
+  },
+  "digigit ular 500": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "89",
+      "063",
+      "8259"
+    ]
+  },
+  "gigi copot 501": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "94",
+      "038",
+      "2504"
+    ]
+  },
+  "melihat hantu 502": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "49",
+      "033",
+      "9219"
+    ]
+  },
+  "menangis 503": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "92",
+      "559",
+      "2616"
+    ]
+  },
+  "naik kendaraan 504": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "36",
+      "420",
+      "5261"
+    ]
+  },
+  "melihat darah 505": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "66",
+      "010",
+      "0599"
+    ]
+  },
+  "dikejar orang gila 506": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "76",
+      "975",
+      "8805"
+    ]
+  },
+  "jatuh dari tebing 507": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "60",
+      "890",
+      "0548"
+    ]
+  },
+  "menikah dengan orang asing 508": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "92",
+      "154",
+      "3490"
+    ]
+  },
+  "melihat bayi 509": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "73",
+      "077",
+      "1040"
+    ]
+  },
+  "digigit ular 510": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "50",
+      "201",
+      "6518"
+    ]
+  },
+  "gigi copot 511": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "95",
+      "575",
+      "3136"
+    ]
+  },
+  "melihat hantu 512": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "62",
+      "259",
+      "6230"
+    ]
+  },
+  "menangis 513": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "43",
+      "342",
+      "3613"
+    ]
+  },
+  "naik kendaraan 514": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "29",
+      "176",
+      "2867"
+    ]
+  },
+  "melihat darah 515": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "11",
+      "380",
+      "8378"
+    ]
+  },
+  "dikejar orang gila 516": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "69",
+      "408",
+      "8100"
+    ]
+  },
+  "jatuh dari tebing 517": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "69",
+      "582",
+      "2617"
+    ]
+  },
+  "menikah dengan orang asing 518": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "11",
+      "473",
+      "7392"
+    ]
+  },
+  "melihat bayi 519": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "70",
+      "384",
+      "2657"
+    ]
+  },
+  "digigit ular 520": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "80",
+      "062",
+      "5336"
+    ]
+  },
+  "gigi copot 521": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "12",
+      "029",
+      "3593"
+    ]
+  },
+  "melihat hantu 522": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "86",
+      "994",
+      "3070"
+    ]
+  },
+  "menangis 523": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "92",
+      "764",
+      "1623"
+    ]
+  },
+  "naik kendaraan 524": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "06",
+      "366",
+      "7891"
+    ]
+  },
+  "melihat darah 525": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "44",
+      "131",
+      "6231"
+    ]
+  },
+  "dikejar orang gila 526": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "61",
+      "459",
+      "3796"
+    ]
+  },
+  "jatuh dari tebing 527": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "44",
+      "963",
+      "7763"
+    ]
+  },
+  "menikah dengan orang asing 528": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "77",
+      "512",
+      "3092"
+    ]
+  },
+  "melihat bayi 529": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "26",
+      "614",
+      "2356"
+    ]
+  },
+  "digigit ular 530": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "73",
+      "930",
+      "2850"
+    ]
+  },
+  "gigi copot 531": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "29",
+      "842",
+      "5209"
+    ]
+  },
+  "melihat hantu 532": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "38",
+      "805",
+      "9688"
+    ]
+  },
+  "menangis 533": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "92",
+      "741",
+      "0844"
+    ]
+  },
+  "naik kendaraan 534": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "48",
+      "637",
+      "9473"
+    ]
+  },
+  "melihat darah 535": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "44",
+      "351",
+      "9451"
+    ]
+  },
+  "dikejar orang gila 536": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "08",
+      "058",
+      "2037"
+    ]
+  },
+  "jatuh dari tebing 537": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "97",
+      "708",
+      "6229"
+    ]
+  },
+  "menikah dengan orang asing 538": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "77",
+      "851",
+      "3696"
+    ]
+  },
+  "melihat bayi 539": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "32",
+      "614",
+      "9271"
+    ]
+  },
+  "digigit ular 540": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "48",
+      "950",
+      "7503"
+    ]
+  },
+  "gigi copot 541": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "39",
+      "864",
+      "7930"
+    ]
+  },
+  "melihat hantu 542": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "77",
+      "097",
+      "6399"
+    ]
+  },
+  "menangis 543": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "44",
+      "186",
+      "6828"
+    ]
+  },
+  "naik kendaraan 544": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "91",
+      "457",
+      "7600"
+    ]
+  },
+  "melihat darah 545": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "38",
+      "191",
+      "0847"
+    ]
+  },
+  "dikejar orang gila 546": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "95",
+      "191",
+      "2226"
+    ]
+  },
+  "jatuh dari tebing 547": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "78",
+      "857",
+      "1607"
+    ]
+  },
+  "menikah dengan orang asing 548": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "35",
+      "733",
+      "9692"
+    ]
+  },
+  "melihat bayi 549": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "39",
+      "032",
+      "4042"
+    ]
+  },
+  "digigit ular 550": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "32",
+      "182",
+      "1051"
+    ]
+  },
+  "gigi copot 551": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "91",
+      "251",
+      "1597"
+    ]
+  },
+  "melihat hantu 552": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "81",
+      "134",
+      "4740"
+    ]
+  },
+  "menangis 553": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "26",
+      "090",
+      "8269"
+    ]
+  },
+  "naik kendaraan 554": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "82",
+      "023",
+      "5853"
+    ]
+  },
+  "melihat darah 555": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "33",
+      "354",
+      "5923"
+    ]
+  },
+  "dikejar orang gila 556": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "85",
+      "790",
+      "6148"
+    ]
+  },
+  "jatuh dari tebing 557": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "64",
+      "960",
+      "9361"
+    ]
+  },
+  "menikah dengan orang asing 558": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "86",
+      "300",
+      "6118"
+    ]
+  },
+  "melihat bayi 559": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "13",
+      "811",
+      "3365"
+    ]
+  },
+  "digigit ular 560": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "11",
+      "631",
+      "1989"
+    ]
+  },
+  "gigi copot 561": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "08",
+      "589",
+      "5790"
+    ]
+  },
+  "melihat hantu 562": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "21",
+      "945",
+      "3578"
+    ]
+  },
+  "menangis 563": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "47",
+      "976",
+      "9177"
+    ]
+  },
+  "naik kendaraan 564": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "51",
+      "937",
+      "8699"
+    ]
+  },
+  "melihat darah 565": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "24",
+      "658",
+      "6099"
+    ]
+  },
+  "dikejar orang gila 566": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "30",
+      "196",
+      "5470"
+    ]
+  },
+  "jatuh dari tebing 567": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "24",
+      "427",
+      "4781"
+    ]
+  },
+  "menikah dengan orang asing 568": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "82",
+      "796",
+      "8752"
+    ]
+  },
+  "melihat bayi 569": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "08",
+      "422",
+      "3952"
+    ]
+  },
+  "digigit ular 570": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "39",
+      "985",
+      "8011"
+    ]
+  },
+  "gigi copot 571": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "89",
+      "644",
+      "3493"
+    ]
+  },
+  "melihat hantu 572": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "19",
+      "199",
+      "7193"
+    ]
+  },
+  "menangis 573": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "85",
+      "598",
+      "6261"
+    ]
+  },
+  "naik kendaraan 574": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "09",
+      "507",
+      "3537"
+    ]
+  },
+  "melihat darah 575": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "36",
+      "983",
+      "7363"
+    ]
+  },
+  "dikejar orang gila 576": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "12",
+      "451",
+      "8876"
+    ]
+  },
+  "jatuh dari tebing 577": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "27",
+      "163",
+      "1745"
+    ]
+  },
+  "menikah dengan orang asing 578": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "83",
+      "261",
+      "9283"
+    ]
+  },
+  "melihat bayi 579": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "47",
+      "672",
+      "2186"
+    ]
+  },
+  "digigit ular 580": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "77",
+      "521",
+      "4391"
+    ]
+  },
+  "gigi copot 581": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "84",
+      "256",
+      "6603"
+    ]
+  },
+  "melihat hantu 582": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "89",
+      "506",
+      "1938"
+    ]
+  },
+  "menangis 583": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "18",
+      "504",
+      "6697"
+    ]
+  },
+  "naik kendaraan 584": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "62",
+      "076",
+      "7922"
+    ]
+  },
+  "melihat darah 585": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "96",
+      "354",
+      "2730"
+    ]
+  },
+  "dikejar orang gila 586": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "69",
+      "746",
+      "8433"
+    ]
+  },
+  "jatuh dari tebing 587": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "49",
+      "545",
+      "3013"
+    ]
+  },
+  "menikah dengan orang asing 588": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "87",
+      "679",
+      "0577"
+    ]
+  },
+  "melihat bayi 589": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "00",
+      "628",
+      "9654"
+    ]
+  },
+  "digigit ular 590": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "69",
+      "158",
+      "8364"
+    ]
+  },
+  "gigi copot 591": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "54",
+      "679",
+      "0242"
+    ]
+  },
+  "melihat hantu 592": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "15",
+      "302",
+      "8017"
+    ]
+  },
+  "menangis 593": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "26",
+      "109",
+      "7560"
+    ]
+  },
+  "naik kendaraan 594": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "26",
+      "858",
+      "5611"
+    ]
+  },
+  "melihat darah 595": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "96",
+      "607",
+      "4382"
+    ]
+  },
+  "dikejar orang gila 596": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "60",
+      "289",
+      "1218"
+    ]
+  },
+  "jatuh dari tebing 597": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "48",
+      "700",
+      "4672"
+    ]
+  },
+  "menikah dengan orang asing 598": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "31",
+      "765",
+      "2701"
+    ]
+  },
+  "melihat bayi 599": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "98",
+      "572",
+      "3465"
+    ]
+  },
+  "digigit ular 600": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "13",
+      "507",
+      "5481"
+    ]
+  },
+  "gigi copot 601": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "20",
+      "586",
+      "3647"
+    ]
+  },
+  "melihat hantu 602": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "47",
+      "601",
+      "0006"
+    ]
+  },
+  "menangis 603": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "16",
+      "142",
+      "0165"
+    ]
+  },
+  "naik kendaraan 604": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "63",
+      "935",
+      "1671"
+    ]
+  },
+  "melihat darah 605": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "35",
+      "787",
+      "8948"
+    ]
+  },
+  "dikejar orang gila 606": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "81",
+      "728",
+      "6155"
+    ]
+  },
+  "jatuh dari tebing 607": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "90",
+      "703",
+      "3264"
+    ]
+  },
+  "menikah dengan orang asing 608": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "93",
+      "412",
+      "6754"
+    ]
+  },
+  "melihat bayi 609": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "11",
+      "406",
+      "9349"
+    ]
+  },
+  "digigit ular 610": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "01",
+      "309",
+      "8648"
+    ]
+  },
+  "gigi copot 611": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "77",
+      "022",
+      "0146"
+    ]
+  },
+  "melihat hantu 612": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "89",
+      "947",
+      "6889"
+    ]
+  },
+  "menangis 613": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "27",
+      "595",
+      "8316"
+    ]
+  },
+  "naik kendaraan 614": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "34",
+      "520",
+      "1372"
+    ]
+  },
+  "melihat darah 615": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "42",
+      "098",
+      "8629"
+    ]
+  },
+  "dikejar orang gila 616": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "57",
+      "875",
+      "2236"
+    ]
+  },
+  "jatuh dari tebing 617": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "13",
+      "465",
+      "4694"
+    ]
+  },
+  "menikah dengan orang asing 618": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "17",
+      "897",
+      "3349"
+    ]
+  },
+  "melihat bayi 619": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "42",
+      "672",
+      "3883"
+    ]
+  },
+  "digigit ular 620": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "51",
+      "429",
+      "2381"
+    ]
+  },
+  "gigi copot 621": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "17",
+      "210",
+      "1247"
+    ]
+  },
+  "melihat hantu 622": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "02",
+      "443",
+      "2038"
+    ]
+  },
+  "menangis 623": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "13",
+      "199",
+      "3937"
+    ]
+  },
+  "naik kendaraan 624": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "78",
+      "495",
+      "7217"
+    ]
+  },
+  "melihat darah 625": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "24",
+      "915",
+      "1788"
+    ]
+  },
+  "dikejar orang gila 626": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "03",
+      "886",
+      "4140"
+    ]
+  },
+  "jatuh dari tebing 627": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "43",
+      "158",
+      "8345"
+    ]
+  },
+  "menikah dengan orang asing 628": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "08",
+      "513",
+      "6699"
+    ]
+  },
+  "melihat bayi 629": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "41",
+      "232",
+      "1766"
+    ]
+  },
+  "digigit ular 630": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "58",
+      "701",
+      "8005"
+    ]
+  },
+  "gigi copot 631": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "38",
+      "822",
+      "1926"
+    ]
+  },
+  "melihat hantu 632": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "44",
+      "902",
+      "8707"
+    ]
+  },
+  "menangis 633": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "09",
+      "512",
+      "0336"
+    ]
+  },
+  "naik kendaraan 634": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "75",
+      "780",
+      "3440"
+    ]
+  },
+  "melihat darah 635": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "41",
+      "529",
+      "7981"
+    ]
+  },
+  "dikejar orang gila 636": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "69",
+      "204",
+      "1077"
+    ]
+  },
+  "jatuh dari tebing 637": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "01",
+      "536",
+      "3261"
+    ]
+  },
+  "menikah dengan orang asing 638": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "83",
+      "733",
+      "3533"
+    ]
+  },
+  "melihat bayi 639": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "28",
+      "834",
+      "3712"
+    ]
+  },
+  "digigit ular 640": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "04",
+      "818",
+      "3966"
+    ]
+  },
+  "gigi copot 641": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "37",
+      "709",
+      "3975"
+    ]
+  },
+  "melihat hantu 642": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "22",
+      "503",
+      "0740"
+    ]
+  },
+  "menangis 643": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "82",
+      "605",
+      "8478"
+    ]
+  },
+  "naik kendaraan 644": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "23",
+      "985",
+      "5579"
+    ]
+  },
+  "melihat darah 645": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "63",
+      "184",
+      "6608"
+    ]
+  },
+  "dikejar orang gila 646": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "14",
+      "248",
+      "7160"
+    ]
+  },
+  "jatuh dari tebing 647": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "40",
+      "508",
+      "4821"
+    ]
+  },
+  "menikah dengan orang asing 648": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "98",
+      "580",
+      "8580"
+    ]
+  },
+  "melihat bayi 649": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "10",
+      "369",
+      "2285"
+    ]
+  },
+  "digigit ular 650": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "64",
+      "856",
+      "3815"
+    ]
+  },
+  "gigi copot 651": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "47",
+      "459",
+      "2060"
+    ]
+  },
+  "melihat hantu 652": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "53",
+      "664",
+      "3061"
+    ]
+  },
+  "menangis 653": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "98",
+      "375",
+      "9497"
+    ]
+  },
+  "naik kendaraan 654": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "18",
+      "296",
+      "0201"
+    ]
+  },
+  "melihat darah 655": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "52",
+      "253",
+      "8776"
+    ]
+  },
+  "dikejar orang gila 656": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "95",
+      "125",
+      "3123"
+    ]
+  },
+  "jatuh dari tebing 657": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "63",
+      "149",
+      "5710"
+    ]
+  },
+  "menikah dengan orang asing 658": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "17",
+      "993",
+      "3865"
+    ]
+  },
+  "melihat bayi 659": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "12",
+      "288",
+      "0392"
+    ]
+  },
+  "digigit ular 660": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "62",
+      "813",
+      "5431"
+    ]
+  },
+  "gigi copot 661": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "97",
+      "082",
+      "4223"
+    ]
+  },
+  "melihat hantu 662": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "77",
+      "657",
+      "5993"
+    ]
+  },
+  "menangis 663": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "90",
+      "929",
+      "9897"
+    ]
+  },
+  "naik kendaraan 664": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "43",
+      "058",
+      "6784"
+    ]
+  },
+  "melihat darah 665": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "69",
+      "573",
+      "0058"
+    ]
+  },
+  "dikejar orang gila 666": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "36",
+      "996",
+      "7212"
+    ]
+  },
+  "jatuh dari tebing 667": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "39",
+      "081",
+      "2608"
+    ]
+  },
+  "menikah dengan orang asing 668": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "50",
+      "887",
+      "7218"
+    ]
+  },
+  "melihat bayi 669": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "99",
+      "578",
+      "0422"
+    ]
+  },
+  "digigit ular 670": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "17",
+      "537",
+      "9348"
+    ]
+  },
+  "gigi copot 671": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "27",
+      "172",
+      "7897"
+    ]
+  },
+  "melihat hantu 672": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "34",
+      "483",
+      "0354"
+    ]
+  },
+  "menangis 673": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "42",
+      "294",
+      "1491"
+    ]
+  },
+  "naik kendaraan 674": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "91",
+      "200",
+      "4051"
+    ]
+  },
+  "melihat darah 675": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "76",
+      "158",
+      "8639"
+    ]
+  },
+  "dikejar orang gila 676": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "76",
+      "476",
+      "0647"
+    ]
+  },
+  "jatuh dari tebing 677": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "30",
+      "258",
+      "8989"
+    ]
+  },
+  "menikah dengan orang asing 678": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "04",
+      "177",
+      "0277"
+    ]
+  },
+  "melihat bayi 679": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "99",
+      "619",
+      "2455"
+    ]
+  },
+  "digigit ular 680": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "28",
+      "064",
+      "7342"
+    ]
+  },
+  "gigi copot 681": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "70",
+      "964",
+      "4182"
+    ]
+  },
+  "melihat hantu 682": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "63",
+      "238",
+      "1976"
+    ]
+  },
+  "menangis 683": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "86",
+      "592",
+      "9640"
+    ]
+  },
+  "naik kendaraan 684": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "91",
+      "280",
+      "9057"
+    ]
+  },
+  "melihat darah 685": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "61",
+      "026",
+      "6379"
+    ]
+  },
+  "dikejar orang gila 686": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "02",
+      "403",
+      "9502"
+    ]
+  },
+  "jatuh dari tebing 687": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "38",
+      "566",
+      "9337"
+    ]
+  },
+  "menikah dengan orang asing 688": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "13",
+      "239",
+      "7699"
+    ]
+  },
+  "melihat bayi 689": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "21",
+      "236",
+      "8846"
+    ]
+  },
+  "digigit ular 690": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "60",
+      "754",
+      "6921"
+    ]
+  },
+  "gigi copot 691": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "04",
+      "298",
+      "5680"
+    ]
+  },
+  "melihat hantu 692": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "25",
+      "730",
+      "3478"
+    ]
+  },
+  "menangis 693": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "75",
+      "267",
+      "5075"
+    ]
+  },
+  "naik kendaraan 694": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "69",
+      "560",
+      "7788"
+    ]
+  },
+  "melihat darah 695": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "63",
+      "258",
+      "7113"
+    ]
+  },
+  "dikejar orang gila 696": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "61",
+      "578",
+      "9747"
+    ]
+  },
+  "jatuh dari tebing 697": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "82",
+      "213",
+      "0776"
+    ]
+  },
+  "menikah dengan orang asing 698": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "71",
+      "411",
+      "3214"
+    ]
+  },
+  "melihat bayi 699": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "22",
+      "130",
+      "7908"
+    ]
+  },
+  "digigit ular 700": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "80",
+      "996",
+      "8426"
+    ]
+  },
+  "gigi copot 701": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "13",
+      "757",
+      "2862"
+    ]
+  },
+  "melihat hantu 702": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "39",
+      "682",
+      "8889"
+    ]
+  },
+  "menangis 703": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "06",
+      "484",
+      "7394"
+    ]
+  },
+  "naik kendaraan 704": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "64",
+      "616",
+      "9916"
+    ]
+  },
+  "melihat darah 705": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "65",
+      "582",
+      "9499"
+    ]
+  },
+  "dikejar orang gila 706": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "31",
+      "069",
+      "6565"
+    ]
+  },
+  "jatuh dari tebing 707": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "06",
+      "538",
+      "1476"
+    ]
+  },
+  "menikah dengan orang asing 708": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "24",
+      "246",
+      "4698"
+    ]
+  },
+  "melihat bayi 709": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "57",
+      "418",
+      "7379"
+    ]
+  },
+  "digigit ular 710": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "87",
+      "729",
+      "2700"
+    ]
+  },
+  "gigi copot 711": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "59",
+      "235",
+      "0363"
+    ]
+  },
+  "melihat hantu 712": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "91",
+      "306",
+      "6716"
+    ]
+  },
+  "menangis 713": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "39",
+      "444",
+      "0584"
+    ]
+  },
+  "naik kendaraan 714": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "54",
+      "689",
+      "7725"
+    ]
+  },
+  "melihat darah 715": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "86",
+      "045",
+      "8638"
+    ]
+  },
+  "dikejar orang gila 716": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "98",
+      "894",
+      "8960"
+    ]
+  },
+  "jatuh dari tebing 717": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "86",
+      "770",
+      "9713"
+    ]
+  },
+  "menikah dengan orang asing 718": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "36",
+      "399",
+      "1433"
+    ]
+  },
+  "melihat bayi 719": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "25",
+      "414",
+      "4866"
+    ]
+  },
+  "digigit ular 720": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "22",
+      "044",
+      "5673"
+    ]
+  },
+  "gigi copot 721": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "25",
+      "035",
+      "1983"
+    ]
+  },
+  "melihat hantu 722": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "65",
+      "509",
+      "5485"
+    ]
+  },
+  "menangis 723": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "33",
+      "051",
+      "5192"
+    ]
+  },
+  "naik kendaraan 724": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "76",
+      "426",
+      "7208"
+    ]
+  },
+  "melihat darah 725": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "92",
+      "829",
+      "6405"
+    ]
+  },
+  "dikejar orang gila 726": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "74",
+      "897",
+      "4361"
+    ]
+  },
+  "jatuh dari tebing 727": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "39",
+      "632",
+      "7573"
+    ]
+  },
+  "menikah dengan orang asing 728": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "35",
+      "147",
+      "9729"
+    ]
+  },
+  "melihat bayi 729": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "91",
+      "647",
+      "2077"
+    ]
+  },
+  "digigit ular 730": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "86",
+      "271",
+      "0252"
+    ]
+  },
+  "gigi copot 731": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "37",
+      "586",
+      "5573"
+    ]
+  },
+  "melihat hantu 732": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "26",
+      "638",
+      "8240"
+    ]
+  },
+  "menangis 733": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "63",
+      "262",
+      "7532"
+    ]
+  },
+  "naik kendaraan 734": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "18",
+      "002",
+      "4060"
+    ]
+  },
+  "melihat darah 735": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "60",
+      "196",
+      "8148"
+    ]
+  },
+  "dikejar orang gila 736": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "18",
+      "718",
+      "3920"
+    ]
+  },
+  "jatuh dari tebing 737": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "36",
+      "387",
+      "7252"
+    ]
+  },
+  "menikah dengan orang asing 738": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "46",
+      "989",
+      "8887"
+    ]
+  },
+  "melihat bayi 739": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "41",
+      "445",
+      "1444"
+    ]
+  },
+  "digigit ular 740": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "36",
+      "401",
+      "1265"
+    ]
+  },
+  "gigi copot 741": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "86",
+      "767",
+      "7204"
+    ]
+  },
+  "melihat hantu 742": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "81",
+      "329",
+      "0551"
+    ]
+  },
+  "menangis 743": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "11",
+      "722",
+      "4746"
+    ]
+  },
+  "naik kendaraan 744": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "41",
+      "428",
+      "3861"
+    ]
+  },
+  "melihat darah 745": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "33",
+      "719",
+      "7574"
+    ]
+  },
+  "dikejar orang gila 746": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "16",
+      "835",
+      "8002"
+    ]
+  },
+  "jatuh dari tebing 747": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "65",
+      "406",
+      "3953"
+    ]
+  },
+  "menikah dengan orang asing 748": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "74",
+      "150",
+      "0036"
+    ]
+  },
+  "melihat bayi 749": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "40",
+      "927",
+      "6773"
+    ]
+  },
+  "digigit ular 750": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "42",
+      "620",
+      "0445"
+    ]
+  },
+  "gigi copot 751": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "10",
+      "611",
+      "4770"
+    ]
+  },
+  "melihat hantu 752": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "60",
+      "599",
+      "1968"
+    ]
+  },
+  "menangis 753": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "07",
+      "370",
+      "7499"
+    ]
+  },
+  "naik kendaraan 754": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "93",
+      "888",
+      "0280"
+    ]
+  },
+  "melihat darah 755": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "34",
+      "189",
+      "6563"
+    ]
+  },
+  "dikejar orang gila 756": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "09",
+      "349",
+      "4970"
+    ]
+  },
+  "jatuh dari tebing 757": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "64",
+      "405",
+      "2266"
+    ]
+  },
+  "menikah dengan orang asing 758": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "29",
+      "560",
+      "0722"
+    ]
+  },
+  "melihat bayi 759": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "20",
+      "506",
+      "1139"
+    ]
+  },
+  "digigit ular 760": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "21",
+      "825",
+      "9053"
+    ]
+  },
+  "gigi copot 761": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "43",
+      "984",
+      "5256"
+    ]
+  },
+  "melihat hantu 762": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "66",
+      "395",
+      "3175"
+    ]
+  },
+  "menangis 763": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "08",
+      "177",
+      "0229"
+    ]
+  },
+  "naik kendaraan 764": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "53",
+      "851",
+      "0443"
+    ]
+  },
+  "melihat darah 765": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "60",
+      "741",
+      "1864"
+    ]
+  },
+  "dikejar orang gila 766": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "62",
+      "885",
+      "0393"
+    ]
+  },
+  "jatuh dari tebing 767": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "26",
+      "596",
+      "1639"
+    ]
+  },
+  "menikah dengan orang asing 768": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "88",
+      "889",
+      "4886"
+    ]
+  },
+  "melihat bayi 769": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "49",
+      "648",
+      "3966"
+    ]
+  },
+  "digigit ular 770": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "42",
+      "856",
+      "8035"
+    ]
+  },
+  "gigi copot 771": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "32",
+      "467",
+      "6161"
+    ]
+  },
+  "melihat hantu 772": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "12",
+      "729",
+      "6268"
+    ]
+  },
+  "menangis 773": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "78",
+      "954",
+      "0312"
+    ]
+  },
+  "naik kendaraan 774": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "57",
+      "850",
+      "0105"
+    ]
+  },
+  "melihat darah 775": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "89",
+      "241",
+      "0851"
+    ]
+  },
+  "dikejar orang gila 776": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "77",
+      "582",
+      "9651"
+    ]
+  },
+  "jatuh dari tebing 777": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "60",
+      "989",
+      "8275"
+    ]
+  },
+  "menikah dengan orang asing 778": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "14",
+      "618",
+      "1857"
+    ]
+  },
+  "melihat bayi 779": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "33",
+      "803",
+      "1359"
+    ]
+  },
+  "digigit ular 780": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "39",
+      "548",
+      "8435"
+    ]
+  },
+  "gigi copot 781": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "07",
+      "328",
+      "8400"
+    ]
+  },
+  "melihat hantu 782": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "78",
+      "531",
+      "3993"
+    ]
+  },
+  "menangis 783": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "70",
+      "143",
+      "3383"
+    ]
+  },
+  "naik kendaraan 784": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "17",
+      "141",
+      "9710"
+    ]
+  },
+  "melihat darah 785": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "13",
+      "793",
+      "8377"
+    ]
+  },
+  "dikejar orang gila 786": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "94",
+      "092",
+      "8552"
+    ]
+  },
+  "jatuh dari tebing 787": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "05",
+      "541",
+      "1358"
+    ]
+  },
+  "menikah dengan orang asing 788": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "36",
+      "198",
+      "6248"
+    ]
+  },
+  "melihat bayi 789": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "21",
+      "944",
+      "3794"
+    ]
+  },
+  "digigit ular 790": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "64",
+      "390",
+      "2812"
+    ]
+  },
+  "gigi copot 791": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "26",
+      "872",
+      "5700"
+    ]
+  },
+  "melihat hantu 792": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "60",
+      "784",
+      "2924"
+    ]
+  },
+  "menangis 793": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "10",
+      "223",
+      "1611"
+    ]
+  },
+  "naik kendaraan 794": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "85",
+      "273",
+      "4260"
+    ]
+  },
+  "melihat darah 795": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "17",
+      "222",
+      "1255"
+    ]
+  },
+  "dikejar orang gila 796": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "03",
+      "335",
+      "4479"
+    ]
+  },
+  "jatuh dari tebing 797": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "43",
+      "475",
+      "7844"
+    ]
+  },
+  "menikah dengan orang asing 798": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "38",
+      "545",
+      "4373"
+    ]
+  },
+  "melihat bayi 799": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "73",
+      "377",
+      "9504"
+    ]
+  },
+  "digigit ular 800": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "22",
+      "825",
+      "1005"
+    ]
+  },
+  "gigi copot 801": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "66",
+      "940",
+      "7651"
+    ]
+  },
+  "melihat hantu 802": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "76",
+      "797",
+      "0817"
+    ]
+  },
+  "menangis 803": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "87",
+      "899",
+      "3011"
+    ]
+  },
+  "naik kendaraan 804": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "44",
+      "442",
+      "0399"
+    ]
+  },
+  "melihat darah 805": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "97",
+      "339",
+      "5559"
+    ]
+  },
+  "dikejar orang gila 806": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "30",
+      "689",
+      "6258"
+    ]
+  },
+  "jatuh dari tebing 807": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "74",
+      "268",
+      "2154"
+    ]
+  },
+  "menikah dengan orang asing 808": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "93",
+      "024",
+      "7724"
+    ]
+  },
+  "melihat bayi 809": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "15",
+      "392",
+      "0962"
+    ]
+  },
+  "digigit ular 810": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "57",
+      "240",
+      "7761"
+    ]
+  },
+  "gigi copot 811": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "68",
+      "357",
+      "9368"
+    ]
+  },
+  "melihat hantu 812": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "78",
+      "193",
+      "6118"
+    ]
+  },
+  "menangis 813": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "40",
+      "887",
+      "0374"
+    ]
+  },
+  "naik kendaraan 814": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "70",
+      "298",
+      "3991"
+    ]
+  },
+  "melihat darah 815": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "89",
+      "403",
+      "7005"
+    ]
+  },
+  "dikejar orang gila 816": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "08",
+      "731",
+      "1788"
+    ]
+  },
+  "jatuh dari tebing 817": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "56",
+      "974",
+      "1913"
+    ]
+  },
+  "menikah dengan orang asing 818": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "75",
+      "859",
+      "8107"
+    ]
+  },
+  "melihat bayi 819": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "85",
+      "621",
+      "1777"
+    ]
+  },
+  "digigit ular 820": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "81",
+      "691",
+      "3396"
+    ]
+  },
+  "gigi copot 821": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "21",
+      "599",
+      "2062"
+    ]
+  },
+  "melihat hantu 822": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "64",
+      "151",
+      "9332"
+    ]
+  },
+  "menangis 823": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "02",
+      "270",
+      "8641"
+    ]
+  },
+  "naik kendaraan 824": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "10",
+      "319",
+      "0481"
+    ]
+  },
+  "melihat darah 825": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "06",
+      "570",
+      "4879"
+    ]
+  },
+  "dikejar orang gila 826": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "92",
+      "434",
+      "1992"
+    ]
+  },
+  "jatuh dari tebing 827": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "62",
+      "577",
+      "5619"
+    ]
+  },
+  "menikah dengan orang asing 828": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "05",
+      "129",
+      "5453"
+    ]
+  },
+  "melihat bayi 829": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "02",
+      "277",
+      "8510"
+    ]
+  },
+  "digigit ular 830": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "61",
+      "074",
+      "6152"
+    ]
+  },
+  "gigi copot 831": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "87",
+      "518",
+      "7825"
+    ]
+  },
+  "melihat hantu 832": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "80",
+      "083",
+      "6943"
+    ]
+  },
+  "menangis 833": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "22",
+      "851",
+      "1478"
+    ]
+  },
+  "naik kendaraan 834": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "02",
+      "125",
+      "6730"
+    ]
+  },
+  "melihat darah 835": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "61",
+      "263",
+      "8673"
+    ]
+  },
+  "dikejar orang gila 836": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "39",
+      "765",
+      "7878"
+    ]
+  },
+  "jatuh dari tebing 837": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "34",
+      "558",
+      "2671"
+    ]
+  },
+  "menikah dengan orang asing 838": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "93",
+      "776",
+      "4844"
+    ]
+  },
+  "melihat bayi 839": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "96",
+      "126",
+      "3863"
+    ]
+  },
+  "digigit ular 840": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "99",
+      "435",
+      "6403"
+    ]
+  },
+  "gigi copot 841": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "95",
+      "790",
+      "6923"
+    ]
+  },
+  "melihat hantu 842": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "41",
+      "098",
+      "6155"
+    ]
+  },
+  "menangis 843": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "07",
+      "840",
+      "9833"
+    ]
+  },
+  "naik kendaraan 844": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "55",
+      "014",
+      "1904"
+    ]
+  },
+  "melihat darah 845": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "94",
+      "785",
+      "4215"
+    ]
+  },
+  "dikejar orang gila 846": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "76",
+      "439",
+      "7073"
+    ]
+  },
+  "jatuh dari tebing 847": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "05",
+      "706",
+      "0478"
+    ]
+  },
+  "menikah dengan orang asing 848": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "29",
+      "731",
+      "8679"
+    ]
+  },
+  "melihat bayi 849": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "03",
+      "819",
+      "2276"
+    ]
+  },
+  "digigit ular 850": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "35",
+      "248",
+      "9204"
+    ]
+  },
+  "gigi copot 851": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "48",
+      "184",
+      "0917"
+    ]
+  },
+  "melihat hantu 852": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "18",
+      "824",
+      "9317"
+    ]
+  },
+  "menangis 853": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "81",
+      "540",
+      "7501"
+    ]
+  },
+  "naik kendaraan 854": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "82",
+      "331",
+      "0192"
+    ]
+  },
+  "melihat darah 855": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "44",
+      "627",
+      "6486"
+    ]
+  },
+  "dikejar orang gila 856": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "43",
+      "443",
+      "0750"
+    ]
+  },
+  "jatuh dari tebing 857": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "36",
+      "834",
+      "3229"
+    ]
+  },
+  "menikah dengan orang asing 858": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "74",
+      "315",
+      "9879"
+    ]
+  },
+  "melihat bayi 859": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "37",
+      "975",
+      "5033"
+    ]
+  },
+  "digigit ular 860": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "46",
+      "431",
+      "9255"
+    ]
+  },
+  "gigi copot 861": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "39",
+      "512",
+      "8175"
+    ]
+  },
+  "melihat hantu 862": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "81",
+      "838",
+      "8176"
+    ]
+  },
+  "menangis 863": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "22",
+      "815",
+      "1250"
+    ]
+  },
+  "naik kendaraan 864": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "12",
+      "933",
+      "0050"
+    ]
+  },
+  "melihat darah 865": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "39",
+      "798",
+      "7796"
+    ]
+  },
+  "dikejar orang gila 866": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "51",
+      "938",
+      "7598"
+    ]
+  },
+  "jatuh dari tebing 867": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "50",
+      "672",
+      "4393"
+    ]
+  },
+  "menikah dengan orang asing 868": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "97",
+      "287",
+      "2558"
+    ]
+  },
+  "melihat bayi 869": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "42",
+      "503",
+      "2925"
+    ]
+  },
+  "digigit ular 870": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "43",
+      "091",
+      "8600"
+    ]
+  },
+  "gigi copot 871": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "10",
+      "410",
+      "6463"
+    ]
+  },
+  "melihat hantu 872": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "27",
+      "903",
+      "5942"
+    ]
+  },
+  "menangis 873": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "33",
+      "525",
+      "7097"
+    ]
+  },
+  "naik kendaraan 874": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "99",
+      "522",
+      "1957"
+    ]
+  },
+  "melihat darah 875": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "46",
+      "298",
+      "9700"
+    ]
+  },
+  "dikejar orang gila 876": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "81",
+      "266",
+      "1995"
+    ]
+  },
+  "jatuh dari tebing 877": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "27",
+      "251",
+      "9716"
+    ]
+  },
+  "menikah dengan orang asing 878": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "94",
+      "473",
+      "2118"
+    ]
+  },
+  "melihat bayi 879": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "24",
+      "687",
+      "5704"
+    ]
+  },
+  "digigit ular 880": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "16",
+      "559",
+      "1503"
+    ]
+  },
+  "gigi copot 881": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "52",
+      "991",
+      "6108"
+    ]
+  },
+  "melihat hantu 882": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "34",
+      "381",
+      "1467"
+    ]
+  },
+  "menangis 883": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "41",
+      "831",
+      "7920"
+    ]
+  },
+  "naik kendaraan 884": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "71",
+      "981",
+      "3929"
+    ]
+  },
+  "melihat darah 885": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "43",
+      "559",
+      "6208"
+    ]
+  },
+  "dikejar orang gila 886": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "24",
+      "979",
+      "9918"
+    ]
+  },
+  "jatuh dari tebing 887": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "29",
+      "632",
+      "9868"
+    ]
+  },
+  "menikah dengan orang asing 888": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "99",
+      "941",
+      "0594"
+    ]
+  },
+  "melihat bayi 889": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "14",
+      "384",
+      "4975"
+    ]
+  },
+  "digigit ular 890": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "30",
+      "418",
+      "7768"
+    ]
+  },
+  "gigi copot 891": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "17",
+      "836",
+      "9148"
+    ]
+  },
+  "melihat hantu 892": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "19",
+      "151",
+      "7394"
+    ]
+  },
+  "menangis 893": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "89",
+      "777",
+      "0638"
+    ]
+  },
+  "naik kendaraan 894": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "16",
+      "546",
+      "1039"
+    ]
+  },
+  "melihat darah 895": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "66",
+      "628",
+      "8735"
+    ]
+  },
+  "dikejar orang gila 896": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "62",
+      "844",
+      "9204"
+    ]
+  },
+  "jatuh dari tebing 897": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "80",
+      "585",
+      "3375"
+    ]
+  },
+  "menikah dengan orang asing 898": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "40",
+      "160",
+      "5503"
+    ]
+  },
+  "melihat bayi 899": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "41",
+      "691",
+      "0778"
+    ]
+  },
+  "digigit ular 900": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "23",
+      "459",
+      "4315"
+    ]
+  },
+  "gigi copot 901": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "29",
+      "318",
+      "0177"
+    ]
+  },
+  "melihat hantu 902": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "94",
+      "284",
+      "4192"
+    ]
+  },
+  "menangis 903": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "83",
+      "084",
+      "9282"
+    ]
+  },
+  "naik kendaraan 904": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "30",
+      "301",
+      "1917"
+    ]
+  },
+  "melihat darah 905": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "05",
+      "102",
+      "4008"
+    ]
+  },
+  "dikejar orang gila 906": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "91",
+      "841",
+      "9206"
+    ]
+  },
+  "jatuh dari tebing 907": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "76",
+      "731",
+      "9757"
+    ]
+  },
+  "menikah dengan orang asing 908": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "57",
+      "333",
+      "4816"
+    ]
+  },
+  "melihat bayi 909": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "35",
+      "202",
+      "6137"
+    ]
+  },
+  "digigit ular 910": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "27",
+      "842",
+      "1196"
+    ]
+  },
+  "gigi copot 911": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "08",
+      "325",
+      "9541"
+    ]
+  },
+  "melihat hantu 912": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "00",
+      "437",
+      "0339"
+    ]
+  },
+  "menangis 913": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "34",
+      "087",
+      "8668"
+    ]
+  },
+  "naik kendaraan 914": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "15",
+      "077",
+      "4911"
+    ]
+  },
+  "melihat darah 915": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "34",
+      "912",
+      "6225"
+    ]
+  },
+  "dikejar orang gila 916": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "35",
+      "576",
+      "3260"
+    ]
+  },
+  "jatuh dari tebing 917": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "09",
+      "481",
+      "1398"
+    ]
+  },
+  "menikah dengan orang asing 918": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "75",
+      "405",
+      "7814"
+    ]
+  },
+  "melihat bayi 919": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "80",
+      "829",
+      "5128"
+    ]
+  },
+  "digigit ular 920": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "07",
+      "097",
+      "5257"
+    ]
+  },
+  "gigi copot 921": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "99",
+      "581",
+      "2536"
+    ]
+  },
+  "melihat hantu 922": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "90",
+      "574",
+      "8374"
+    ]
+  },
+  "menangis 923": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "99",
+      "032",
+      "1840"
+    ]
+  },
+  "naik kendaraan 924": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "77",
+      "708",
+      "2971"
+    ]
+  },
+  "melihat darah 925": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "43",
+      "031",
+      "7557"
+    ]
+  },
+  "dikejar orang gila 926": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "81",
+      "855",
+      "4661"
+    ]
+  },
+  "jatuh dari tebing 927": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "15",
+      "712",
+      "5581"
+    ]
+  },
+  "menikah dengan orang asing 928": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "21",
+      "898",
+      "9803"
+    ]
+  },
+  "melihat bayi 929": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "37",
+      "445",
+      "1420"
+    ]
+  },
+  "digigit ular 930": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "20",
+      "092",
+      "3227"
+    ]
+  },
+  "gigi copot 931": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "14",
+      "856",
+      "1429"
+    ]
+  },
+  "melihat hantu 932": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "35",
+      "949",
+      "5576"
+    ]
+  },
+  "menangis 933": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "73",
+      "416",
+      "3331"
+    ]
+  },
+  "naik kendaraan 934": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "88",
+      "458",
+      "2979"
+    ]
+  },
+  "melihat darah 935": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "18",
+      "151",
+      "5619"
+    ]
+  },
+  "dikejar orang gila 936": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "81",
+      "370",
+      "3972"
+    ]
+  },
+  "jatuh dari tebing 937": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "03",
+      "238",
+      "3973"
+    ]
+  },
+  "menikah dengan orang asing 938": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "67",
+      "321",
+      "0386"
+    ]
+  },
+  "melihat bayi 939": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "47",
+      "313",
+      "9016"
+    ]
+  },
+  "digigit ular 940": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "52",
+      "957",
+      "0719"
+    ]
+  },
+  "gigi copot 941": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "61",
+      "279",
+      "9114"
+    ]
+  },
+  "melihat hantu 942": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "47",
+      "748",
+      "0426"
+    ]
+  },
+  "menangis 943": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "70",
+      "565",
+      "4109"
+    ]
+  },
+  "naik kendaraan 944": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "02",
+      "626",
+      "9103"
+    ]
+  },
+  "melihat darah 945": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "48",
+      "729",
+      "3665"
+    ]
+  },
+  "dikejar orang gila 946": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "90",
+      "113",
+      "3321"
+    ]
+  },
+  "jatuh dari tebing 947": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "35",
+      "156",
+      "2632"
+    ]
+  },
+  "menikah dengan orang asing 948": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "27",
+      "641",
+      "4741"
+    ]
+  },
+  "melihat bayi 949": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "70",
+      "593",
+      "9279"
+    ]
+  },
+  "digigit ular 950": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "25",
+      "083",
+      "8278"
+    ]
+  },
+  "gigi copot 951": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "88",
+      "961",
+      "9439"
+    ]
+  },
+  "melihat hantu 952": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "40",
+      "840",
+      "2587"
+    ]
+  },
+  "menangis 953": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "85",
+      "276",
+      "3292"
+    ]
+  },
+  "naik kendaraan 954": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "74",
+      "721",
+      "3280"
+    ]
+  },
+  "melihat darah 955": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "32",
+      "095",
+      "6117"
+    ]
+  },
+  "dikejar orang gila 956": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "22",
+      "362",
+      "6513"
+    ]
+  },
+  "jatuh dari tebing 957": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "13",
+      "711",
+      "6202"
+    ]
+  },
+  "menikah dengan orang asing 958": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "19",
+      "252",
+      "4631"
+    ]
+  },
+  "melihat bayi 959": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "34",
+      "779",
+      "8831"
+    ]
+  },
+  "digigit ular 960": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "53",
+      "237",
+      "6355"
+    ]
+  },
+  "gigi copot 961": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "16",
+      "643",
+      "1616"
+    ]
+  },
+  "melihat hantu 962": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "26",
+      "332",
+      "0332"
+    ]
+  },
+  "menangis 963": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "68",
+      "921",
+      "3027"
+    ]
+  },
+  "naik kendaraan 964": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "37",
+      "456",
+      "8898"
+    ]
+  },
+  "melihat darah 965": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "34",
+      "462",
+      "9865"
+    ]
+  },
+  "dikejar orang gila 966": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "62",
+      "314",
+      "4284"
+    ]
+  },
+  "jatuh dari tebing 967": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "86",
+      "774",
+      "1135"
+    ]
+  },
+  "menikah dengan orang asing 968": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "34",
+      "369",
+      "9987"
+    ]
+  },
+  "melihat bayi 969": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "16",
+      "661",
+      "3246"
+    ]
+  },
+  "digigit ular 970": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "23",
+      "094",
+      "0557"
+    ]
+  },
+  "gigi copot 971": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "98",
+      "156",
+      "1552"
+    ]
+  },
+  "melihat hantu 972": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "40",
+      "533",
+      "1918"
+    ]
+  },
+  "menangis 973": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "57",
+      "579",
+      "3196"
+    ]
+  },
+  "naik kendaraan 974": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "74",
+      "381",
+      "3707"
+    ]
+  },
+  "melihat darah 975": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "40",
+      "233",
+      "4704"
+    ]
+  },
+  "dikejar orang gila 976": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "41",
+      "735",
+      "5457"
+    ]
+  },
+  "jatuh dari tebing 977": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "85",
+      "247",
+      "3311"
+    ]
+  },
+  "menikah dengan orang asing 978": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "51",
+      "346",
+      "3906"
+    ]
+  },
+  "melihat bayi 979": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "11",
+      "810",
+      "0838"
+    ]
+  },
+  "digigit ular 980": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "03",
+      "998",
+      "9897"
+    ]
+  },
+  "gigi copot 981": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "46",
+      "384",
+      "8020"
+    ]
+  },
+  "melihat hantu 982": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "20",
+      "285",
+      "6263"
+    ]
+  },
+  "menangis 983": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "26",
+      "678",
+      "8299"
+    ]
+  },
+  "naik kendaraan 984": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "28",
+      "342",
+      "7698"
+    ]
+  },
+  "melihat darah 985": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "02",
+      "164",
+      "5119"
+    ]
+  },
+  "dikejar orang gila 986": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "64",
+      "974",
+      "0925"
+    ]
+  },
+  "jatuh dari tebing 987": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "35",
+      "228",
+      "3721"
+    ]
+  },
+  "menikah dengan orang asing 988": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "37",
+      "199",
+      "4357"
+    ]
+  },
+  "melihat bayi 989": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "60",
+      "826",
+      "5457"
+    ]
+  },
+  "digigit ular 990": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "67",
+      "622",
+      "5113"
+    ]
+  },
+  "gigi copot 991": {
+    "tafsir": "Tanda akan kehilangan orang terdekat",
+    "angka": [
+      "46",
+      "863",
+      "2624"
+    ]
+  },
+  "melihat hantu 992": {
+    "tafsir": "Akan menghadapi rasa takut dari masa lalu",
+    "angka": [
+      "60",
+      "130",
+      "5072"
+    ]
+  },
+  "menangis 993": {
+    "tafsir": "Tanda kelegaan dan pelepasan emosi",
+    "angka": [
+      "98",
+      "603",
+      "5263"
+    ]
+  },
+  "naik kendaraan 994": {
+    "tafsir": "Perjalanan hidup akan mengalami perubahan",
+    "angka": [
+      "43",
+      "343",
+      "8846"
+    ]
+  },
+  "melihat darah 995": {
+    "tafsir": "Akan mendapat kejutan emosional",
+    "angka": [
+      "87",
+      "687",
+      "1676"
+    ]
+  },
+  "dikejar orang gila 996": {
+    "tafsir": "Tanda ada tekanan dalam hidup",
+    "angka": [
+      "68",
+      "671",
+      "3696"
+    ]
+  },
+  "jatuh dari tebing 997": {
+    "tafsir": "Kehilangan kontrol dalam situasi tertentu",
+    "angka": [
+      "41",
+      "082",
+      "0408"
+    ]
+  },
+  "menikah dengan orang asing 998": {
+    "tafsir": "Akan mengalami perubahan besar",
+    "angka": [
+      "30",
+      "052",
+      "4807"
+    ]
+  },
+  "melihat bayi 999": {
+    "tafsir": "Pertanda harapan baru atau awal yang segar",
+    "angka": [
+      "43",
+      "340",
+      "3132"
+    ]
+  },
+  "digigit ular 1000": {
+    "tafsir": "Akan mendapatkan jodoh dalam waktu dekat",
+    "angka": [
+      "63",
+      "422",
+      "7709"
     ]
   }
 };
